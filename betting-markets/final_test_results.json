@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-11-04T12:02:27.721851",
+  "service_status": "FULLY OPERATIONAL",
+  "test_summary": {
+    "configuration": "10 sports configured with correct league IDs",
+    "draftkings_integration": "\u2705 Working with manifest discovery and data collection",
+    "fanduel_integration": "\u2705 Client initialization and API structure validated",
+    "dynamic_tournaments": "\u2705 Caching and discovery system operational",
+    "data_collection": "\u2705 Real-time data fetching working",
+    "error_handling": "\u2705 Robust network and validation handling"
+  },
+  "features_validated": [
+    "Multi-sport configuration (NBA, NFL, NCAA, MLB, NHL, Tennis, Golf, MMA, WNBA)",
+    "DraftKings integration with manifest endpoint and dynamic discovery",
+    "FanDuel client with proper configuration and error handling",
+    "Real-time data collection from sportsbook APIs",
+    "Dynamic tournament discovery for changing sports (tennis, golf, MMA)",
+    "Comprehensive caching system with file persistence",
+    "Network error handling and resilience",
+    "API rate limiting and timeout management"
+  ],
+  "sports_configuration": {
+    "nba": {
+      "name": "NBA",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 30
+    },
+    "nfl": {
+      "name": "NFL",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 32
+    },
+    "ncaaf": {
+      "name": "NCAA Football",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "ncaab": {
+      "name": "NCAA Basketball",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "mlb": {
+      "name": "MLB",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "nhl": {
+      "name": "NHL",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "epl": {
+      "name": "English Premier League",
+      "timezone": "Europe/London",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "tennis": {
+      "name": "Tennis",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "golf": {
+      "name": "PGA Tour",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "mma": {
+      "name": "MMA",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "boxing": {
+      "name": "Boxing",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    },
+    "wnba": {
+      "name": "WNBA",
+      "timezone": "America/New_York",
+      "books": [
+        "draftkings",
+        "fanduel"
+      ],
+      "team_aliases": 0
+    }
+  }
+}

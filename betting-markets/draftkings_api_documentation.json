@@ -1,0 +1,205 @@
+{
+  "title": "DraftKings Sportsbook API - Complete Reference",
+  "version": "1.0",
+  "base_url": "https://sportsbook-nash.draftkings.com",
+  "authentication": "None required (public API)",
+  "rate_limiting": "Not specified",
+  "sports_and_leagues": {
+    "mlb": {
+      "sport_category": "baseball",
+      "league_id": "84240",
+      "league_name": "MLB",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/84240",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/84240/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/84240/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/84240/selections"
+      },
+      "route_patterns": [
+        "/sport/7/league/84240/event/{eventId}",
+        "/sport/7/league/84240/event/{eventId}",
+        "/sport/7/league/84240/event/{eventId}"
+      ]
+    },
+    "nfl": {
+      "sport_category": "football",
+      "league_id": "88808",
+      "league_name": "NFL",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/88808",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/88808/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/88808/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/88808/selections"
+      },
+      "route_patterns": [
+        "/sport/3/league/88808/event/{eventId}",
+        "/sport/3/league/88808/event/{eventId}",
+        "/sport/3/league/88808/event/{eventId}"
+      ]
+    },
+    "ncaaf": {
+      "sport_category": "football",
+      "league_id": "87637",
+      "league_name": "NCAA Football",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/87637",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/87637/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/87637/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/87637/selections"
+      },
+      "route_patterns": [
+        "/sport/3/league/87637/event/{eventId}",
+        "/sport/3/league/87637/event/{eventId}",
+        "/sport/3/league/87637/event/{eventId}"
+      ]
+    },
+    "33567": {
+      "sport_category": "football",
+      "league_id": "33567",
+      "league_name": "League 33567",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/33567",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/33567/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/33567/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/33567/selections"
+      },
+      "route_patterns": [
+        "/sport/3/league/33567/event/{eventId}",
+        "/sport/3/league/33567/event/{eventId}",
+        "/sport/3/league/33567/event/{eventId}"
+      ]
+    },
+    "ncaab": {
+      "sport_category": "basketball",
+      "league_id": "92483",
+      "league_name": "NCAA Basketball",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/92483",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/92483/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/92483/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/92483/selections"
+      },
+      "route_patterns": [
+        "/sport/2/league/92483/event/{eventId}",
+        "/sport/2/league/92483/event/{eventId}",
+        "/sport/2/league/92483/event/{eventId}"
+      ]
+    },
+    "nba": {
+      "sport_category": "basketball",
+      "league_id": "42648",
+      "league_name": "NBA",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/42648",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/42648/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/42648/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/42648/selections"
+      },
+      "route_patterns": [
+        "/sport/2/league/42648/event/{eventId}",
+        "/sport/2/league/42648/event/{eventId}",
+        "/sport/2/league/42648/event/{eventId}"
+      ]
+    },
+    "{leagueId}": {
+      "sport_category": "hockey",
+      "league_id": "{leagueId}",
+      "league_name": "League {leagueId}",
+      "endpoints": {
+        "content": "/api/sportscontent/dkusoh/v1/leagues/{leagueId}",
+        "events": "/api/sportscontent/dkusoh/v1/leagues/{leagueId}/events",
+        "markets": "/api/sportscontent/dkusoh/v1/leagues/{leagueId}/markets",
+        "selections": "/api/sportscontent/dkusoh/v1/leagues/{leagueId}/selections"
+      },
+      "route_patterns": [
+        "/sport/8/league/{leagueId}/event/{eventId}",
+        "/sport/7/league/{leagueId}/event/{eventId}",
+        "/sport/64/league/{leagueId}/event/{eventId}",
+        "/sport/6/league/{leagueId}/event/{eventId}",
+        "/sport/43/league/{leagueId}/event/{eventId}",
+        "/sport/12/league/{leagueId}/event/{eventId}",
+        "/sport/1/league/{leagueId}/event/{eventId}",
+        "/sport/8/league/{leagueId}/event/{eventId}",
+        "/sport/7/league/{leagueId}/event/{eventId}",
+        "/sport/64/league/{leagueId}/event/{eventId}",
+        "/sport/6/league/{leagueId}/event/{eventId}",
+        "/sport/43/league/{leagueId}/event/{eventId}",
+        "/sport/12/league/{leagueId}/event/{eventId}",
+        "/sport/1/league/{leagueId}/event/{eventId}",
+        "/sport/8/league/{leagueId}/event/{eventId}",
+        "/sport/7/league/{leagueId}/event/{eventId}",
+        "/sport/64/league/{leagueId}/event/{eventId}",
+        "/sport/6/league/{leagueId}/event/{eventId}",
+        "/sport/43/league/{leagueId}/event/{eventId}",
+        "/sport/12/league/{leagueId}/event/{eventId}",
+        "/sport/1/league/{leagueId}/event/{eventId}"
+      ]
+    }
+  },
+  "market_types": {
+    "moneyline": "Pick the winner",
+    "spread": "Point spread betting",
+    "total": "Over/under total points/goals",
+    "player_points": "Player total points",
+    "player_rebounds": "Player total rebounds",
+    "player_assists": "Player total assists",
+    "player_three_pointers": "Player 3-point field goals",
+    "player_receives": "Player receiving yards",
+    "player_rushes": "Player rushing attempts",
+    "team_points": "Team total points",
+    "team_yards": "Team total yards",
+    "team_touchdowns": "Team touchdowns",
+    "first_half": "First half results",
+    "second_half": "Second half results",
+    "quarter": "Quarter results",
+    "period": "Period results (hockey, soccer)",
+    "corners": "Corner kicks (soccer)",
+    "cards": "Yellow/red cards (soccer)",
+    "shots": "Shots on target (soccer)",
+    "hits": "Hits (baseball)",
+    "errors": "Errors (baseball)",
+    "championship": "Tournament winner",
+    "division": "Division winner",
+    "playoffs": "Playoff qualification"
+  },
+  "api_endpoints": {
+    "manifest": {
+      "url": "/sites/US-OH-SB/api/sportslayout/v1/manifest?format=json",
+      "method": "GET",
+      "description": "Get all available sports and leagues",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Referer": "https://sportsbook.draftkings.com/",
+        "X-Client-Name": "web",
+        "X-Client-Version": "1.4.0",
+        "Origin": "https://sportsbook.draftkings.com"
+      }
+    },
+    "league_content": {
+      "url": "/api/sportscontent/dkusoh/v1/leagues/{league_id}",
+      "method": "GET",
+      "description": "Get betting data for a specific league",
+      "parameters": {
+        "league_id": "The league ID (e.g., 42648 for NBA)"
+      }
+    }
+  },
+  "response_structure": {
+    "sports": "Array of sports categories",
+    "leagues": "Array of leagues within sports",
+    "events": "Array of upcoming games/matches",
+    "markets": "Array of betting markets for events",
+    "selections": "Array of betting options within markets",
+    "categories": "Additional market categorization",
+    "subcategories": "Further market subdivision"
+  },
+  "notes": [
+    "League IDs are static for major sports (NBA, NFL, etc.)",
+    "Dynamic sports (tennis, golf, MMA) may have changing tournament IDs",
+    "Market availability varies by sport and event",
+    "API appears to be real-time but may have caching",
+    "Some endpoints may require specific headers for access"
+  ]
+}

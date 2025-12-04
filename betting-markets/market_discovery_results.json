@@ -1,0 +1,5732 @@
+{
+  "discovery_timestamp": "2025-11-04T17:08:14.897Z",
+  "total_leagues_discovered": 7,
+  "league_markets": {
+    "nba": {
+      "league_id": "42648",
+      "league_name": "NBA",
+      "sport": "basketball",
+      "total_markets": 231,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "moneyline": {
+          "name": "Moneyline",
+          "id": "1_82036573",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread": {
+          "name": "Spread",
+          "id": "2_82036573",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total": {
+          "name": "Total",
+          "id": "3_82036573",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game lines": {
+          "name": "Game Lines",
+          "id": "487",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team futures": {
+          "name": "Team Futures",
+          "id": "519",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "regular season wins": {
+          "name": "Regular Season Wins",
+          "id": "1893",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "playoffs": {
+          "name": "Playoffs",
+          "id": "1894",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "play in": {
+          "name": "Play In",
+          "id": "1895",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "awards": {
+          "name": "Awards",
+          "id": "518",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player specials": {
+          "name": "Player Specials",
+          "id": "1280",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "early season specials": {
+          "name": "Early Season Specials",
+          "id": "1870",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "nba cup": {
+          "name": "NBA Cup",
+          "id": "1284",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player points": {
+          "name": "Player Points",
+          "id": "1215",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player threes": {
+          "name": "Player Threes",
+          "id": "1218",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player rebounds": {
+          "name": "Player Rebounds",
+          "id": "1216",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player assists": {
+          "name": "Player Assists",
+          "id": "1217",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player combos": {
+          "name": "Player Combos",
+          "id": "583",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quick hits": {
+          "name": "Quick Hits",
+          "id": "1157",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player defense": {
+          "name": "Player Defense",
+          "id": "1293",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "combined player props": {
+          "name": "Combined Player Props",
+          "id": "1683",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player props": {
+          "name": "Either Player Props",
+          "id": "1684",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game leaders": {
+          "name": "Game Leaders",
+          "id": "1320",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "h2h player props": {
+          "name": "H2H Player Props",
+          "id": "1206",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halves": {
+          "name": "Halves",
+          "id": "520",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarters": {
+          "name": "Quarters",
+          "id": "522",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game props": {
+          "name": "Game Props",
+          "id": "521",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team props": {
+          "name": "Team Props",
+          "id": "523",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to make the playoffs": {
+          "name": "To Make the Playoffs",
+          "id": "18692",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "division winner": {
+          "name": "Division Winner",
+          "id": "15644",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "mvp": {
+          "name": "MVP",
+          "id": "16435",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "roty": {
+          "name": "ROTY",
+          "id": "16436",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dpoy": {
+          "name": "DPOY",
+          "id": "16440",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most improved": {
+          "name": "Most Improved",
+          "id": "16437",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "6th player": {
+          "name": "6th Player",
+          "id": "17469",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "ecf mvp": {
+          "name": "ECF MVP",
+          "id": "17514",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "wcf mvp": {
+          "name": "WCF MVP",
+          "id": "17515",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "finals mvp": {
+          "name": "Finals MVP",
+          "id": "7389",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "consecutive titles": {
+          "name": "Consecutive Titles",
+          "id": "16697",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "specials": {
+          "name": "Specials",
+          "id": "13309",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first/next to score x+ points": {
+          "name": "First/Next to Score X+ Points",
+          "id": "18780",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "next to make x+ threes": {
+          "name": "Next to Make X+ Threes",
+          "id": "18783",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "next to record x+ rebounds": {
+          "name": "Next to Record X+ Rebounds",
+          "id": "18826",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last team to score": {
+          "name": "Last Team to Score",
+          "id": "10093",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "largest lead": {
+          "name": "Largest Lead",
+          "id": "10254",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - listed half": {
+          "name": "Winning Margin - Listed Half",
+          "id": "10932",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last team to score - listed quarter": {
+          "name": "Last Team to Score - Listed Quarter",
+          "id": "11465",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline (3-way) - listed quarter": {
+          "name": "Moneyline (3-Way) - Listed Quarter",
+          "id": "11471",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halftime/fulltime": {
+          "name": "Halftime/Fulltime",
+          "id": "12188",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarter/fulltime": {
+          "name": "Quarter/Fulltime",
+          "id": "12213",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "wire to wire": {
+          "name": "Wire to Wire",
+          "id": "12219",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - q4": {
+          "name": "Winning Margin - Q4",
+          "id": "12226",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - q1": {
+          "name": "Winning Margin - Q1",
+          "id": "12227",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - q2": {
+          "name": "Winning Margin - Q2",
+          "id": "12228",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - q3": {
+          "name": "Winning Margin - Q3",
+          "id": "12229",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - exact (q1)": {
+          "name": "Winning Margin - Exact (Q1)",
+          "id": "12230",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - exact (q2)": {
+          "name": "Winning Margin - Exact (Q2)",
+          "id": "12231",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - exact (q3)": {
+          "name": "Winning Margin - Exact (Q3)",
+          "id": "12232",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - exact (q4)": {
+          "name": "Winning Margin - Exact (Q4)",
+          "id": "12233",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - exact (1st half)": {
+          "name": "Winning Margin - Exact (1st Half)",
+          "id": "12234",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - exact (2nd half)": {
+          "name": "Winning Margin - Exact (2nd Half)",
+          "id": "12235",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "margin parlays": {
+          "name": "Margin Parlays",
+          "id": "12241",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin (exact)": {
+          "name": "Winning Margin (Exact)",
+          "id": "12238",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread / total - listed half": {
+          "name": "Spread / Total - Listed Half",
+          "id": "12242",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread / total - listed quarter": {
+          "name": "Spread / Total - Listed Quarter",
+          "id": "12243",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin (3-way) - q1": {
+          "name": "Winning Margin (3-Way) - Q1",
+          "id": "12342",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st fg type - team": {
+          "name": "1st FG Type - Team",
+          "id": "12364",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st fg exact - team": {
+          "name": "1st FG Exact - Team",
+          "id": "12366",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st possession": {
+          "name": "1st Possession",
+          "id": "12411",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st possession - exact": {
+          "name": "1st Possession - Exact",
+          "id": "12412",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "points o/u": {
+          "name": "Points O/U",
+          "id": "12488",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rebounds o/u": {
+          "name": "Rebounds O/U",
+          "id": "12492",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "assists o/u": {
+          "name": "Assists O/U",
+          "id": "12495",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "threes o/u": {
+          "name": "Threes O/U",
+          "id": "12497",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alt team totals": {
+          "name": "Alt Team Totals",
+          "id": "16726",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total": {
+          "name": "Alternate Total",
+          "id": "13201",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread": {
+          "name": "Alternate Spread",
+          "id": "13202",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "steals o/u": {
+          "name": "Steals O/U",
+          "id": "13508",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "triple-double": {
+          "name": "Triple-Double",
+          "id": "13759",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "double-double": {
+          "name": "Double-Double",
+          "id": "13762",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "blocks o/u": {
+          "name": "Blocks O/U",
+          "id": "13780",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "steals + blocks o/u": {
+          "name": "Steals + Blocks O/U",
+          "id": "13781",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team to score 1st fg": {
+          "name": "Team to Score 1st FG",
+          "id": "14279",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st team fg": {
+          "name": "1st Team FG",
+          "id": "14280",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "highest scoring quarter": {
+          "name": "Highest Scoring Quarter",
+          "id": "14505",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st three": {
+          "name": "1st Three",
+          "id": "14793",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st team three": {
+          "name": "1st Team Three",
+          "id": "14794",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "largest comeback": {
+          "name": "Largest Comeback",
+          "id": "15358",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st minute": {
+          "name": "1st Minute",
+          "id": "15417",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "scoring leader - 1st quarter": {
+          "name": "Scoring Leader - 1st Quarter",
+          "id": "15535",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "scoring leader - 1st half": {
+          "name": "Scoring Leader - 1st Half",
+          "id": "15543",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team score 100+ points - 1st 3 quarters": {
+          "name": "Team Score 100+ Points - 1st 3 Quarters",
+          "id": "15577",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - listed half": {
+          "name": "Alternate Spread - Listed Half",
+          "id": "15599",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread - both halves": {
+          "name": "Spread - Both Halves",
+          "id": "15608",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals odd/even - both halves": {
+          "name": "Team Totals Odd/Even - Both Halves",
+          "id": "15609",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals odd/even - all quarters": {
+          "name": "Team Totals Odd/Even - All Quarters",
+          "id": "15610",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread - all quarters": {
+          "name": "Spread - All Quarters",
+          "id": "15611",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st point": {
+          "name": "1st Point",
+          "id": "16305",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "points": {
+          "name": "Points",
+          "id": "16477",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rebounds": {
+          "name": "Rebounds",
+          "id": "16479",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "assists": {
+          "name": "Assists",
+          "id": "16478",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "threes": {
+          "name": "Threes",
+          "id": "16480",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "blocks": {
+          "name": "Blocks",
+          "id": "16484",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st scorer - exact": {
+          "name": "1st Scorer - Exact",
+          "id": "16324",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st team fg - exact": {
+          "name": "1st Team FG - Exact",
+          "id": "16325",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both player points": {
+          "name": "Both Player Points",
+          "id": "16381",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both player threes": {
+          "name": "Both Player Threes",
+          "id": "16382",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both player rebounds": {
+          "name": "Both Player Rebounds",
+          "id": "16383",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both player assists": {
+          "name": "Both Player Assists",
+          "id": "16384",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both player steals": {
+          "name": "Both Player Steals",
+          "id": "16385",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both player blocks": {
+          "name": "Both Player Blocks",
+          "id": "16386",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player points": {
+          "name": "Either Player Points",
+          "id": "16387",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player rebounds": {
+          "name": "Either Player Rebounds",
+          "id": "16388",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player assists": {
+          "name": "Either Player Assists",
+          "id": "16389",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player threes": {
+          "name": "Either Player Threes",
+          "id": "16390",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player steals": {
+          "name": "Either Player Steals",
+          "id": "16391",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "either player blocks": {
+          "name": "Either Player Blocks",
+          "id": "16392",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most points": {
+          "name": "Most Points",
+          "id": "16471",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most rebounds": {
+          "name": "Most Rebounds",
+          "id": "16472",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most assists": {
+          "name": "Most Assists",
+          "id": "16473",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most threes": {
+          "name": "Most Threes",
+          "id": "16474",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most pts + reb + ast": {
+          "name": "Most Pts + Reb + Ast",
+          "id": "16475",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pts + ast": {
+          "name": "Pts + Ast",
+          "id": "16481",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pts + reb": {
+          "name": "Pts + Reb",
+          "id": "16482",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pts + reb + ast": {
+          "name": "Pts + Reb + Ast",
+          "id": "16483",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "steals": {
+          "name": "Steals",
+          "id": "16485",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "points - 1st quarter": {
+          "name": "Points - 1st Quarter",
+          "id": "16551",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "assists - 1st quarter": {
+          "name": "Assists - 1st Quarter",
+          "id": "16552",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rebounds - 1st quarter": {
+          "name": "Rebounds - 1st Quarter",
+          "id": "16553",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team to win both halves": {
+          "name": "Team to Win Both Halves",
+          "id": "16555",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last team to score - all quarters": {
+          "name": "Last Team to Score - All Quarters",
+          "id": "16559",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - both halves": {
+          "name": "Both Teams Total Points - Both Halves",
+          "id": "16561",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x points - both halves": {
+          "name": "Race to X Points - Both Halves",
+          "id": "16563",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x points - 1st half": {
+          "name": "Race to X Points - 1st Half",
+          "id": "16564",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x points - 2nd half": {
+          "name": "Race to X Points - 2nd Half",
+          "id": "16565",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x points - all quarters": {
+          "name": "Race to X Points - All Quarters",
+          "id": "16566",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team total points - all quarters": {
+          "name": "Team Total Points - All Quarters",
+          "id": "16601",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - all quarters": {
+          "name": "Both Teams Total Points - All Quarters",
+          "id": "16602",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st fg made - type": {
+          "name": "1st FG Made - Type",
+          "id": "16656",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st fg - result": {
+          "name": "1st FG - Result",
+          "id": "16661",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st three - result": {
+          "name": "1st Three - Result",
+          "id": "16662",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st dunk scorer": {
+          "name": "1st Dunk Scorer",
+          "id": "16698",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - listed half": {
+          "name": "Alternate Total - Listed Half",
+          "id": "16720",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - 1st half": {
+          "name": "Both Teams Total Points - 1st Half",
+          "id": "16721",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - 2nd half": {
+          "name": "Both Teams Total Points - 2nd Half",
+          "id": "16722",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - both halves": {
+          "name": "Team Totals - Both Halves",
+          "id": "16723",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both team total points": {
+          "name": "Both Team Total Points",
+          "id": "16727",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - quarters odd/even": {
+          "name": "Team Totals - Quarters Odd/Even",
+          "id": "16806",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - q1": {
+          "name": "Alternate Spread - Q1",
+          "id": "16822",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - q2": {
+          "name": "Alternate Spread - Q2",
+          "id": "16823",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - q3": {
+          "name": "Alternate Spread - Q3",
+          "id": "16824",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - q4": {
+          "name": "Alternate Spread - Q4",
+          "id": "16825",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - q1": {
+          "name": "Alternate Total - Q1",
+          "id": "16826",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - q2": {
+          "name": "Alternate Total - Q2",
+          "id": "16827",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - q3": {
+          "name": "Alternate Total - Q3",
+          "id": "16828",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total -  q4": {
+          "name": "Alternate Total -  Q4",
+          "id": "16829",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "points - 1st 3 mins": {
+          "name": "Points - 1st 3 Mins",
+          "id": "17695",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "assists 1st 3 mins": {
+          "name": "Assists 1st 3 Mins",
+          "id": "17696",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rebounds 1st 3 mins": {
+          "name": "Rebounds 1st 3 Mins",
+          "id": "17697",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "h2h combined points": {
+          "name": "H2H Combined Points",
+          "id": "17959",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "h2h combined rebounds": {
+          "name": "H2H Combined Rebounds",
+          "id": "17960",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "h2h combined assists": {
+          "name": "H2H Combined Assists",
+          "id": "17961",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "h2h combined threes": {
+          "name": "H2H Combined Threes",
+          "id": "17962",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dunks + threes - 1st 3 mins": {
+          "name": "Dunks + Threes - 1st 3 Mins",
+          "id": "18013",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dunks - 1st 3 mins": {
+          "name": "Dunks - 1st 3 Mins",
+          "id": "18014",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to go to overtime": {
+          "name": "To Go to Overtime",
+          "id": "18032",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team threes in first 3 min": {
+          "name": "Team Threes In First 3 Min",
+          "id": "18127",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "threes in first 3 min": {
+          "name": "Threes In First 3 Min",
+          "id": "18128",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team total threes": {
+          "name": "Team Total Threes",
+          "id": "18787",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "highest scoring half": {
+          "name": "Highest Scoring Half",
+          "id": "18789",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last team to score - both halves": {
+          "name": "Last Team to Score - Both Halves",
+          "id": "18790",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - all quarters": {
+          "name": "Winning Margin - All Quarters",
+          "id": "18794",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team to win all quarters": {
+          "name": "Team To Win All Quarters",
+          "id": "18795",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "result at end of q3": {
+          "name": "Result at End of Q3",
+          "id": "18827",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate team totals - listed half": {
+          "name": "Alternate Team Totals - Listed Half",
+          "id": "18829",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both team total points - q2": {
+          "name": "Both Team Total Points - Q2",
+          "id": "18830",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both team total points - q1": {
+          "name": "Both Team Total Points - Q1",
+          "id": "18831",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - both halves": {
+          "name": "Winning Margin - Both Halves",
+          "id": "18834",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game": {
+          "name": "Game",
+          "id": "4511",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st half": {
+          "name": "1st Half",
+          "id": "4598",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd half": {
+          "name": "2nd Half",
+          "id": "4599",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st quarter": {
+          "name": "1st Quarter",
+          "id": "4600",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd quarter": {
+          "name": "2nd Quarter",
+          "id": "4601",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "3rd quarter": {
+          "name": "3rd Quarter",
+          "id": "4602",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "4th quarter": {
+          "name": "4th Quarter",
+          "id": "4603",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals": {
+          "name": "Team Totals",
+          "id": "4609",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total odd/even": {
+          "name": "Total Odd/Even",
+          "id": "4611",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "odd/even - listed half": {
+          "name": "Odd/Even - Listed Half",
+          "id": "4612",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 7 way": {
+          "name": "Winning Margin - 7 Way",
+          "id": "4616",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x points": {
+          "name": "Race to X Points",
+          "id": "13009",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pts + reb + ast o/u": {
+          "name": "Pts + Reb + Ast O/U",
+          "id": "5001",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin": {
+          "name": "Winning Margin",
+          "id": "5723",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 12 way": {
+          "name": "Winning Margin - 12 Way",
+          "id": "5724",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team total odd/even": {
+          "name": "Team Total Odd/Even",
+          "id": "5725",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 3 way": {
+          "name": "Winning Margin - 3 Way",
+          "id": "5868",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total threes": {
+          "name": "Total Threes",
+          "id": "6207",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "odd/even - listed quarter": {
+          "name": "Odd/Even - Listed Quarter",
+          "id": "6228",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - listed half": {
+          "name": "Team Totals - Listed Half",
+          "id": "6230",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - listed quarter": {
+          "name": "Team Totals - Listed Quarter",
+          "id": "6231",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline (3-way) - listed half": {
+          "name": "Moneyline (3-Way) - Listed Half",
+          "id": "8139",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline (3-way)": {
+          "name": "Moneyline (3-Way)",
+          "id": "8660",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pts + ast o/u": {
+          "name": "Pts + Ast O/U",
+          "id": "9973",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "ast + reb o/u": {
+          "name": "Ast + Reb O/U",
+          "id": "9974",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pts + reb o/u": {
+          "name": "Pts + Reb O/U",
+          "id": "9976",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "combined total points": {
+          "name": "Combined Total Points",
+          "id": "16380",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "combined player threes": {
+          "name": "Combined Player Threes",
+          "id": "16512",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "any player to score x+ points": {
+          "name": "Any Player to Score X+ Points",
+          "id": "16630",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "any player to make x+ threes": {
+          "name": "Any Player to Make X+ Threes",
+          "id": "16664",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "combined player rebounds": {
+          "name": "Combined Player Rebounds",
+          "id": "17698",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "combined player assists": {
+          "name": "Combined Player Assists",
+          "id": "17699",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "any player to record x+ rebounds": {
+          "name": "Any Player to Record X+ Rebounds",
+          "id": "17700",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "any player to record x+ assists": {
+          "name": "Any Player to Record X+ Assists",
+          "id": "17701",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x threes": {
+          "name": "Race to X Threes",
+          "id": "13010",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x rebounds": {
+          "name": "Race to X Rebounds",
+          "id": "16463",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x assists": {
+          "name": "Race to X Assists",
+          "id": "16464",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winner specials": {
+          "name": "Winner Specials",
+          "id": "10503",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "play-in performance": {
+          "name": "Play-In Performance",
+          "id": "17000",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "lebron james": {
+          "name": "Lebron James",
+          "id": "18708",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "conference winner": {
+          "name": "Conference Winner",
+          "id": "5338",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to make play in": {
+          "name": "To Make Play In",
+          "id": "18707",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "#1 seed": {
+          "name": "#1 Seed",
+          "id": "18694",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "10700",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "finals exact result": {
+          "name": "Finals Exact Result",
+          "id": "18680",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most regular season wins": {
+          "name": "Most Regular Season Wins",
+          "id": "18687",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "monthly wins": {
+          "name": "Monthly Wins",
+          "id": "18419",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "best record at as break": {
+          "name": "Best Record at AS Break",
+          "id": "18420",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "any team to start the season x-0": {
+          "name": "Any Team to Start the Season X-0",
+          "id": "18421",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "longest win streak": {
+          "name": "Longest Win Streak",
+          "id": "18690",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winner": {
+          "name": "Winner",
+          "id": "13325",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "group winner": {
+          "name": "Group Winner",
+          "id": "13396",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "cup mvp": {
+          "name": "Cup MVP",
+          "id": "13688",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0ML82036573_1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    },
+    "nfl": {
+      "league_id": "88808",
+      "league_name": "NFL",
+      "sport": "football",
+      "total_markets": 171,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "moneyline": {
+          "name": "Moneyline",
+          "id": "1_79742985",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread": {
+          "name": "Spread",
+          "id": "2_79742985",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total": {
+          "name": "Total",
+          "id": "3_79742985",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game lines": {
+          "name": "Game Lines",
+          "id": "492",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "futures": {
+          "name": "Futures",
+          "id": "529",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team specials": {
+          "name": "Team Specials",
+          "id": "863",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "wins": {
+          "name": "Wins",
+          "id": "1286",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "playoffs": {
+          "name": "Playoffs",
+          "id": "1076",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "awards": {
+          "name": "Awards",
+          "id": "787",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "season high totals": {
+          "name": "Season High Totals",
+          "id": "1627",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "division specials": {
+          "name": "Division Specials",
+          "id": "820",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "td scorers": {
+          "name": "TD Scorers",
+          "id": "1003",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "passing props ": {
+          "name": "Passing Props ",
+          "id": "1000",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "receiving props": {
+          "name": "Receiving Props",
+          "id": "1342",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rushing props": {
+          "name": "Rushing Props",
+          "id": "1001",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game specials": {
+          "name": "Game Specials",
+          "id": "1644",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st of game": {
+          "name": "1st of Game",
+          "id": "1559",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halves": {
+          "name": "Halves",
+          "id": "526",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarters": {
+          "name": "Quarters",
+          "id": "527",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game props": {
+          "name": "Game Props",
+          "id": "528",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team props": {
+          "name": "Team Props",
+          "id": "530",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dk squares": {
+          "name": "DK Squares",
+          "id": "999",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "defensive props": {
+          "name": "Defensive Props",
+          "id": "1744",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "special teams props": {
+          "name": "Special Teams Props",
+          "id": "1743",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive": {
+          "name": "1st Drive",
+          "id": "1303",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quick hits": {
+          "name": "Quick Hits",
+          "id": "1304",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "kicking props": {
+          "name": "Kicking Props",
+          "id": "638",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "regular season wins": {
+          "name": "Regular Season Wins",
+          "id": "17455",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "division standings": {
+          "name": "Division Standings",
+          "id": "13041",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "playoffs y/n": {
+          "name": "Playoffs Y/N",
+          "id": "18587",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "division winner": {
+          "name": "Division Winner",
+          "id": "5629",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "stage of elimination": {
+          "name": "Stage of Elimination",
+          "id": "9159",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarter / full time": {
+          "name": "Quarter / Full Time",
+          "id": "10398",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x points": {
+          "name": "Race to X Points",
+          "id": "9584",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 1st quarter": {
+          "name": "Winning Margin - 1st Quarter",
+          "id": "10404",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - listed half": {
+          "name": "Winning Margin - Listed Half",
+          "id": "10405",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shutout - listed half": {
+          "name": "Shutout - Listed Half",
+          "id": "10445",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shutout - listed quarter": {
+          "name": "Shutout - Listed Quarter",
+          "id": "10448",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to score 1st & win/lose": {
+          "name": "To Score 1st & Win/Lose",
+          "id": "10508",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to win with shutout": {
+          "name": "To Win With Shutout",
+          "id": "10509",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "scoring props": {
+          "name": "Scoring Props",
+          "id": "9325",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team odd/even": {
+          "name": "Team Odd/Even",
+          "id": "9449",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarter tds - total": {
+          "name": "Quarter TDs - Total",
+          "id": "10623",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "scoring props - listed half": {
+          "name": "Scoring Props - Listed Half",
+          "id": "10627",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dk squares - any quarter": {
+          "name": "DK Squares - Any Quarter",
+          "id": "11944",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dk squares - final result": {
+          "name": "DK Squares - Final Result",
+          "id": "12032",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halves won": {
+          "name": "Halves Won",
+          "id": "12625",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread": {
+          "name": "Alternate Spread",
+          "id": "13195",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total": {
+          "name": "Alternate Total",
+          "id": "13196",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "overtime": {
+          "name": "Overtime",
+          "id": "13459",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - 1q": {
+          "name": "Alternate Spread - 1Q",
+          "id": "13525",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - 1q": {
+          "name": "Alternate Total - 1Q",
+          "id": "13526",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - 1h": {
+          "name": "Alternate Spread - 1H",
+          "id": "13582",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread - 2h": {
+          "name": "Alternate Spread - 2H",
+          "id": "13583",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - 1h": {
+          "name": "Alternate Total - 1H",
+          "id": "13584",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total - 2h": {
+          "name": "Alternate Total - 2H",
+          "id": "13585",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - tds": {
+          "name": "Team Totals - TDs",
+          "id": "14806",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "every quarter": {
+          "name": "Every Quarter",
+          "id": "15047",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st score": {
+          "name": "1st Score",
+          "id": "15052",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st td": {
+          "name": "1st TD",
+          "id": "15053",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals": {
+          "name": "Team Totals",
+          "id": "16719",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score": {
+          "name": "Correct Score",
+          "id": "16731",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score - 1st quarter": {
+          "name": "Correct Score - 1st Quarter",
+          "id": "16837",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score - 1st half": {
+          "name": "Correct Score - 1st Half",
+          "id": "16838",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game": {
+          "name": "Game",
+          "id": "4518",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st half": {
+          "name": "1st Half",
+          "id": "4631",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st quarter": {
+          "name": "1st Quarter",
+          "id": "4632",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd quarter": {
+          "name": "2nd Quarter",
+          "id": "4642",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "3rd quarter": {
+          "name": "3rd Quarter",
+          "id": "4643",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "4th quarter": {
+          "name": "4th Quarter",
+          "id": "4644",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "odd/even": {
+          "name": "Odd/Even",
+          "id": "4659",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st quarter - 3 way": {
+          "name": "1st Quarter - 3 Way",
+          "id": "4671",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin": {
+          "name": "Winning Margin",
+          "id": "5873",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarter team totals": {
+          "name": "Quarter Team Totals",
+          "id": "8480",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "td props": {
+          "name": "TD Props",
+          "id": "9320",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams to score x": {
+          "name": "Both Teams to Score X",
+          "id": "9326",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x pts": {
+          "name": "Race to X Pts",
+          "id": "9567",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - odd/even": {
+          "name": "Team Totals - Odd/Even",
+          "id": "9579",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - listed half": {
+          "name": "Team Totals - Listed Half",
+          "id": "9583",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "highest scoring half": {
+          "name": "Highest Scoring Half",
+          "id": "9588",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2 pt conversion": {
+          "name": "2 Pt Conversion",
+          "id": "9590",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "safety props": {
+          "name": "Safety Props",
+          "id": "9594",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st half - 3 way ": {
+          "name": "1st Half - 3 Way ",
+          "id": "9615",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "half time / full time": {
+          "name": "Half Time / Full Time",
+          "id": "9712",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals (bands)": {
+          "name": "Team Totals (Bands)",
+          "id": "11924",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "td scorer": {
+          "name": "TD Scorer",
+          "id": "12438",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive result": {
+          "name": "1st Drive Result",
+          "id": "13561",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - td scorer": {
+          "name": "1st Drive - TD Scorer",
+          "id": "13566",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - conversions": {
+          "name": "1st Drive - Conversions",
+          "id": "13567",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - 1st down": {
+          "name": "1st Drive - 1st Down",
+          "id": "13569",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - sack": {
+          "name": "1st Drive - Sack",
+          "id": "13570",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - distance": {
+          "name": "1st Drive - Distance",
+          "id": "13571",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - big play": {
+          "name": "1st Drive - Big Play",
+          "id": "13572",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st score method - team": {
+          "name": "1st Score Method - Team",
+          "id": "13574",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive fg": {
+          "name": "1st Drive FG",
+          "id": "13578",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "score on 1st drive": {
+          "name": "Score on 1st Drive",
+          "id": "13588",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "comeback": {
+          "name": "Comeback",
+          "id": "13345",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "each team 1st drive": {
+          "name": "Each Team 1st Drive",
+          "id": "13720",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rec yards o/u": {
+          "name": "Rec Yards O/U",
+          "id": "14114",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "receptions o/u": {
+          "name": "Receptions O/U",
+          "id": "14115",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last scoring play": {
+          "name": "Last Scoring Play",
+          "id": "14489",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "longest rush - yards": {
+          "name": "Longest Rush - Yards",
+          "id": "14880",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "longest reception - yards": {
+          "name": "Longest Reception - Yards",
+          "id": "14881",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st first down": {
+          "name": "1st First Down",
+          "id": "15049",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st sack": {
+          "name": "1st Sack",
+          "id": "15059",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st turnover": {
+          "name": "1st Turnover",
+          "id": "15060",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st fg": {
+          "name": "1st FG",
+          "id": "15064",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "interceptions o/u": {
+          "name": "Interceptions O/U",
+          "id": "15937",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - catch a pass": {
+          "name": "1st Drive - Catch a Pass",
+          "id": "16013",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "popular specials": {
+          "name": "Popular Specials",
+          "id": "16234",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass tds": {
+          "name": "Pass TDs",
+          "id": "16568",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass yards": {
+          "name": "Pass Yards",
+          "id": "16569",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "receiving yards": {
+          "name": "Receiving Yards",
+          "id": "16570",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush yards": {
+          "name": "Rush Yards",
+          "id": "16571",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass yards - 1q": {
+          "name": "Pass Yards - 1Q",
+          "id": "16573",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rec yards - 1q": {
+          "name": "Rec Yards - 1Q",
+          "id": "16574",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush yards - 1q": {
+          "name": "Rush Yards - 1Q",
+          "id": "16575",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush attempts": {
+          "name": "Rush Attempts",
+          "id": "16820",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "receptions": {
+          "name": "Receptions",
+          "id": "16821",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass attempts": {
+          "name": "Pass Attempts",
+          "id": "16888",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "completions": {
+          "name": "Completions",
+          "id": "16889",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass + rush yards": {
+          "name": "Pass + Rush Yards",
+          "id": "16896",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "fg yards": {
+          "name": "FG Yards",
+          "id": "17055",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "fg total": {
+          "name": "FG Total",
+          "id": "17056",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "punt total": {
+          "name": "Punt Total",
+          "id": "17058",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "safety": {
+          "name": "Safety",
+          "id": "17069",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st reception": {
+          "name": "1st Reception",
+          "id": "17101",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "octopus": {
+          "name": "Octopus",
+          "id": "17146",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass yards - 1q o/u": {
+          "name": "Pass Yards - 1Q O/U",
+          "id": "18487",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush yards - 1q o/u": {
+          "name": "Rush Yards - 1Q O/U",
+          "id": "18488",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rec yards - 1q o/u": {
+          "name": "Rec Yards - 1Q O/U",
+          "id": "18489",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass yards - 1h o/u": {
+          "name": "Pass Yards - 1H O/U",
+          "id": "18490",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush yards - 1h o/u": {
+          "name": "Rush Yards - 1H O/U",
+          "id": "18491",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rec yards - 1h o/u": {
+          "name": "Rec Yards - 1H O/U",
+          "id": "18492",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass yards - 1h": {
+          "name": "Pass Yards - 1H",
+          "id": "18493",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush yards - 1h": {
+          "name": "Rush Yards - 1H",
+          "id": "18494",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rec yards - 1h": {
+          "name": "Rec Yards - 1H",
+          "id": "18495",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st carry": {
+          "name": "1st Carry",
+          "id": "18543",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st pass attempt": {
+          "name": "1st Pass Attempt",
+          "id": "18544",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "half specials": {
+          "name": "Half Specials",
+          "id": "18554",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd half": {
+          "name": "2nd Half",
+          "id": "4641",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd half - 3 way": {
+          "name": "2nd Half - 3 Way",
+          "id": "4738",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "punt props": {
+          "name": "Punt Props",
+          "id": "5326",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "field goal props": {
+          "name": "Field Goal Props",
+          "id": "5327",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "turnovers": {
+          "name": "Turnovers",
+          "id": "9318",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "largest lead": {
+          "name": "Largest Lead",
+          "id": "9323",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush yards o/u": {
+          "name": "Rush Yards O/U",
+          "id": "9514",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass attempts o/u": {
+          "name": "Pass Attempts O/U",
+          "id": "9517",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rush attempts o/u": {
+          "name": "Rush Attempts O/U",
+          "id": "9518",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "completions o/u": {
+          "name": "Completions O/U",
+          "id": "9522",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass yards o/u": {
+          "name": "Pass Yards O/U",
+          "id": "9524",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass tds o/u": {
+          "name": "Pass TDs O/U",
+          "id": "9525",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "completion - longest": {
+          "name": "Completion - Longest",
+          "id": "9526",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "pass + rush yards o/u": {
+          "name": "Pass + Rush Yards O/U",
+          "id": "9532",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "jax jaguars": {
+          "name": "JAX Jaguars",
+          "id": "8505",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "conference winner": {
+          "name": "Conference Winner",
+          "id": "4651",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "number 1 seed": {
+          "name": "Number 1 Seed",
+          "id": "18294",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning conference": {
+          "name": "Winning Conference",
+          "id": "15901",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion specials": {
+          "name": "Champion Specials",
+          "id": "6447",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "name the finalists": {
+          "name": "Name the Finalists",
+          "id": "7302",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "most wins": {
+          "name": "Most Wins",
+          "id": "13365",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "fewest wins": {
+          "name": "Fewest Wins",
+          "id": "13367",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "field goals": {
+          "name": "Field Goals",
+          "id": "15691",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "opoy": {
+          "name": "OPOY",
+          "id": "13340",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "dpoy": {
+          "name": "DPOY",
+          "id": "13341",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "mvp": {
+          "name": "MVP",
+          "id": "13339",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "droy": {
+          "name": "DROY",
+          "id": "13343",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "oroy": {
+          "name": "OROY",
+          "id": "13342",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "10500",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "exact result": {
+          "name": "Exact Result",
+          "id": "10249",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0ML79743203_1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    },
+    "ncaab": {
+      "league_id": "92483",
+      "league_name": "NCAA Basketball",
+      "sport": "basketball",
+      "total_markets": 57,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "spread": {
+          "name": "Spread",
+          "id": "2_81952126",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total": {
+          "name": "Total",
+          "id": "3_81952126",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline": {
+          "name": "Moneyline",
+          "id": "1_81952126",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game lines": {
+          "name": "Game Lines",
+          "id": "487",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quick hits": {
+          "name": "Quick Hits",
+          "id": "1157",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halves": {
+          "name": "Halves",
+          "id": "520",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game props": {
+          "name": "Game Props",
+          "id": "521",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team props": {
+          "name": "Team Props",
+          "id": "523",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team futures": {
+          "name": "Team Futures",
+          "id": "519",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "awards": {
+          "name": "Awards",
+          "id": "518",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread / total": {
+          "name": "Spread / Total",
+          "id": "10002",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline / total": {
+          "name": "Moneyline / Total",
+          "id": "10004",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "largest lead": {
+          "name": "Largest Lead",
+          "id": "10254",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - listed half": {
+          "name": "Winning Margin - Listed Half",
+          "id": "10932",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halftime/fulltime": {
+          "name": "Halftime/Fulltime",
+          "id": "12188",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "margin parlays": {
+          "name": "Margin Parlays",
+          "id": "12237",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread / total - listed half": {
+          "name": "Spread / Total - Listed Half",
+          "id": "12242",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "time of 1st point": {
+          "name": "Time of 1st Point",
+          "id": "12946",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total": {
+          "name": "Alternate Total",
+          "id": "13201",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread": {
+          "name": "Alternate Spread",
+          "id": "13202",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "largest comeback": {
+          "name": "Largest Comeback",
+          "id": "15358",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread - both halves": {
+          "name": "Spread - Both Halves",
+          "id": "15608",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals odd/even - both halves": {
+          "name": "Team Totals Odd/Even - Both Halves",
+          "id": "15609",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team to win both halves": {
+          "name": "Team to Win Both Halves",
+          "id": "16555",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - both halves": {
+          "name": "Both Teams Total Points - Both Halves",
+          "id": "16561",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - 1st half": {
+          "name": "Both Teams Total Points - 1st Half",
+          "id": "16721",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams total points - 2nd half": {
+          "name": "Both Teams Total Points - 2nd Half",
+          "id": "16722",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - both halves": {
+          "name": "Team Totals - Both Halves",
+          "id": "16723",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alt team totals": {
+          "name": "Alt Team Totals",
+          "id": "16726",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both team total points": {
+          "name": "Both Team Total Points",
+          "id": "16727",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score": {
+          "name": "Correct Score",
+          "id": "16732",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x": {
+          "name": "Race to X",
+          "id": "17554",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to go to overtime": {
+          "name": "To Go to Overtime",
+          "id": "18032",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to win in x minutes": {
+          "name": "To Win in X Minutes",
+          "id": "18785",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread in x minutes": {
+          "name": "Spread in X Minutes",
+          "id": "18786",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total points in x minutes": {
+          "name": "Total Points in X Minutes",
+          "id": "18788",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "highest scoring half": {
+          "name": "Highest Scoring Half",
+          "id": "18789",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate team totals - listed half": {
+          "name": "Alternate Team Totals - Listed Half",
+          "id": "18829",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - both halves": {
+          "name": "Winning Margin - Both Halves",
+          "id": "18834",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "3-2-1 race": {
+          "name": "3-2-1 Race",
+          "id": "18836",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game": {
+          "name": "Game",
+          "id": "4511",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st half": {
+          "name": "1st Half",
+          "id": "4598",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals": {
+          "name": "Team Totals",
+          "id": "4609",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total odd/even": {
+          "name": "Total Odd/Even",
+          "id": "4611",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "odd/even - listed half": {
+          "name": "Odd/Even - Listed Half",
+          "id": "4612",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 7 way": {
+          "name": "Winning Margin - 7 Way",
+          "id": "4616",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin": {
+          "name": "Winning Margin",
+          "id": "5723",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 12 way": {
+          "name": "Winning Margin - 12 Way",
+          "id": "5724",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team total odd/even": {
+          "name": "Team Total Odd/Even",
+          "id": "5725",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin - 3 way": {
+          "name": "Winning Margin - 3 Way",
+          "id": "5868",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - listed half": {
+          "name": "Team Totals - Listed Half",
+          "id": "6230",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline (3-way) - listed half": {
+          "name": "Moneyline (3-Way) - Listed Half",
+          "id": "8139",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "conference winner": {
+          "name": "Conference Winner",
+          "id": "5338",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "wayman tisdale award": {
+          "name": "Wayman Tisdale Award",
+          "id": "18669",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "10700",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "final four": {
+          "name": "Final Four",
+          "id": "12262",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0ML82062456_1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    },
+    "ncaaf": {
+      "league_id": "87637",
+      "league_name": "NCAA Football",
+      "sport": "football",
+      "total_markets": 60,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "moneyline": {
+          "name": "Moneyline",
+          "id": "1_81972109",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "spread": {
+          "name": "Spread",
+          "id": "2_81972109",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total": {
+          "name": "Total",
+          "id": "3_81972109",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game lines": {
+          "name": "Game Lines",
+          "id": "492",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "awards": {
+          "name": "Awards",
+          "id": "787",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive": {
+          "name": "1st Drive",
+          "id": "1303",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halves": {
+          "name": "Halves",
+          "id": "526",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quarters": {
+          "name": "Quarters",
+          "id": "527",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team props": {
+          "name": "Team Props",
+          "id": "530",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game props": {
+          "name": "Game Props",
+          "id": "528",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st of game": {
+          "name": "1st of Game",
+          "id": "1559",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "futures": {
+          "name": "Futures",
+          "id": "529",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "playoffs": {
+          "name": "Playoffs",
+          "id": "1076",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "wins": {
+          "name": "Wins",
+          "id": "1286",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "playoff": {
+          "name": "Playoff",
+          "id": "1858",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "playoffs y/n": {
+          "name": "Playoffs Y/N",
+          "id": "18587",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "undefeated": {
+          "name": "Undefeated",
+          "id": "13360",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning conference": {
+          "name": "Winning Conference",
+          "id": "15901",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to score 1st & win/lose": {
+          "name": "To Score 1st & Win/Lose",
+          "id": "10508",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team odd/even": {
+          "name": "Team Odd/Even",
+          "id": "10554",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals (bands)": {
+          "name": "Team Totals (Bands)",
+          "id": "11924",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate spread": {
+          "name": "Alternate Spread",
+          "id": "13195",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total": {
+          "name": "Alternate Total",
+          "id": "13196",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "overtime": {
+          "name": "Overtime",
+          "id": "13459",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - tds": {
+          "name": "Team Totals - TDs",
+          "id": "14806",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st score": {
+          "name": "1st Score",
+          "id": "15052",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals": {
+          "name": "Team Totals",
+          "id": "16719",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score": {
+          "name": "Correct Score",
+          "id": "16731",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game": {
+          "name": "Game",
+          "id": "4518",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st half": {
+          "name": "1st Half",
+          "id": "4631",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st quarter": {
+          "name": "1st Quarter",
+          "id": "4632",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd half": {
+          "name": "2nd Half",
+          "id": "4641",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd quarter": {
+          "name": "2nd Quarter",
+          "id": "4642",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "3rd quarter": {
+          "name": "3rd Quarter",
+          "id": "4643",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "4th quarter": {
+          "name": "4th Quarter",
+          "id": "4644",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "odd/even": {
+          "name": "Odd/Even",
+          "id": "4659",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin": {
+          "name": "Winning Margin",
+          "id": "5873",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "td props": {
+          "name": "TD Props",
+          "id": "9319",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "scoring props": {
+          "name": "Scoring Props",
+          "id": "10523",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams to score x": {
+          "name": "Both Teams to Score X",
+          "id": "9326",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x pts": {
+          "name": "Race to X Pts",
+          "id": "9567",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "half time / full time": {
+          "name": "Half Time / Full Time",
+          "id": "9712",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to win with shutout": {
+          "name": "To Win With Shutout",
+          "id": "10509",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "scoring props - listed half": {
+          "name": "Scoring Props - Listed Half",
+          "id": "10627",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "halves won": {
+          "name": "Halves Won",
+          "id": "12625",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive result": {
+          "name": "1st Drive Result",
+          "id": "13561",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - 1st down": {
+          "name": "1st Drive - 1st Down",
+          "id": "13569",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st drive - distance": {
+          "name": "1st Drive - Distance",
+          "id": "13571",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "score on 1st drive": {
+          "name": "Score on 1st Drive",
+          "id": "13588",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "comeback": {
+          "name": "Comeback",
+          "id": "13705",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last scoring play": {
+          "name": "Last Scoring Play",
+          "id": "14489",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "every quarter": {
+          "name": "Every Quarter",
+          "id": "15047",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score - 1st quarter": {
+          "name": "Correct Score - 1st Quarter",
+          "id": "16837",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score - 1st half": {
+          "name": "Correct Score - 1st Half",
+          "id": "16838",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "highest scoring half": {
+          "name": "Highest Scoring Half",
+          "id": "9588",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "heisman": {
+          "name": "Heisman",
+          "id": "13387",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "conference winner": {
+          "name": "Conference Winner",
+          "id": "11363",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "college football playoff": {
+          "name": "College Football Playoff",
+          "id": "18290",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "10500",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0ML80133666_1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    },
+    "mlb": {
+      "league_id": "84240",
+      "league_name": "MLB",
+      "sport": "baseball",
+      "total_markets": 4,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "winner": {
+          "name": "Winner",
+          "id": "17172",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "17279",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "leagues": {
+          "name": "Leagues",
+          "id": "1762",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0QA286076444#379852788_4L84240Q179873Q2-1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    },
+    "nhl": {
+      "league_id": "42133",
+      "league_name": "NHL",
+      "sport": "hockey",
+      "total_markets": 92,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "moneyline": {
+          "name": "Moneyline",
+          "id": "1_82071035",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "puck line": {
+          "name": "Puck Line",
+          "id": "2_82071035",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "total": {
+          "name": "Total",
+          "id": "3_82071035",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game lines": {
+          "name": "Game Lines",
+          "id": "496",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team futures": {
+          "name": "Team Futures",
+          "id": "552",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "quick hits": {
+          "name": "Quick Hits",
+          "id": "1259",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goalscorer": {
+          "name": "Goalscorer",
+          "id": "1190",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shots on goal": {
+          "name": "Shots on Goal",
+          "id": "18777",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "points": {
+          "name": "Points",
+          "id": "18757",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "assists": {
+          "name": "Assists",
+          "id": "16546",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "blocks": {
+          "name": "Blocks",
+          "id": "16548",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goalie props": {
+          "name": "Goalie Props",
+          "id": "1064",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game leaders": {
+          "name": "Game Leaders",
+          "id": "1899",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "periods": {
+          "name": "Periods",
+          "id": "548",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals": {
+          "name": "Team Totals",
+          "id": "1193",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game props": {
+          "name": "Game Props",
+          "id": "549",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game props (60 min)": {
+          "name": "Game Props (60 Min)",
+          "id": "547",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game parlays": {
+          "name": "Game Parlays",
+          "id": "554",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "awards": {
+          "name": "Awards",
+          "id": "592",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team points": {
+          "name": "Team Points",
+          "id": "1857",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "november futures": {
+          "name": "November Futures",
+          "id": "1883",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to make the playoffs": {
+          "name": "To Make the Playoffs",
+          "id": "9232",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "regular season points o/u": {
+          "name": "Regular Season Points O/U",
+          "id": "18287",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shutout": {
+          "name": "Shutout",
+          "id": "10285",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score (incl ot)": {
+          "name": "Correct Score (Incl OT)",
+          "id": "11001",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin (incl ot)": {
+          "name": "Winning Margin (Incl OT)",
+          "id": "11002",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alt total goals - listed period": {
+          "name": "Alt Total Goals - Listed Period",
+          "id": "11493",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first/last to score": {
+          "name": "First/Last to Score",
+          "id": "6347",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shots on goal o/u": {
+          "name": "Shots on Goal O/U",
+          "id": "12040",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team total goals": {
+          "name": "Team Total Goals",
+          "id": "12055",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams to score": {
+          "name": "Both Teams To Score",
+          "id": "12057",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams to score 2+ goals": {
+          "name": "Both Teams to Score 2+ Goals",
+          "id": "12059",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goal in first 10 - listed period": {
+          "name": "Goal In First 10 - Listed Period",
+          "id": "12131",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "opening faceoff winner": {
+          "name": "Opening Faceoff Winner",
+          "id": "13031",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first to 5 shots on goal": {
+          "name": "First to 5 Shots on Goal",
+          "id": "13032",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first shot on goal": {
+          "name": "First Shot on Goal",
+          "id": "13033",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first power play": {
+          "name": "First Power Play",
+          "id": "13034",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate puck line": {
+          "name": "Alternate Puck Line",
+          "id": "13189",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "alternate total": {
+          "name": "Alternate Total",
+          "id": "13192",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goal in first five": {
+          "name": "Goal in First Five",
+          "id": "13748",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goal in first ten": {
+          "name": "Goal in First Ten",
+          "id": "13750",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "anytime goalscorer": {
+          "name": "Anytime Goalscorer",
+          "id": "13809",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "odd/even - listed period": {
+          "name": "Odd/Even - Listed Period",
+          "id": "13810",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "to go to ot": {
+          "name": "To Go to OT",
+          "id": "13811",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "win from behind": {
+          "name": "Win From Behind",
+          "id": "13812",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first goalscorer": {
+          "name": "First Goalscorer",
+          "id": "14496",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "last goalscorer": {
+          "name": "Last Goalscorer",
+          "id": "14497",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "winning margin (excl ot)": {
+          "name": "Winning Margin (Excl OT)",
+          "id": "15268",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "points o/u": {
+          "name": "Points O/U",
+          "id": "16213",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "assists o/u": {
+          "name": "Assists O/U",
+          "id": "16215",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "blocks o/u": {
+          "name": "Blocks O/U",
+          "id": "16257",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "player goal milestones": {
+          "name": "Player Goal Milestones",
+          "id": "16547",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "saves o/u": {
+          "name": "Saves O/U",
+          "id": "16550",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first goal strength": {
+          "name": "First Goal Strength",
+          "id": "16595",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first team goal strength": {
+          "name": "First Team Goal Strength",
+          "id": "16597",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team first power play": {
+          "name": "Team First Power Play",
+          "id": "16598",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shots in 1st two minutes": {
+          "name": "Shots in 1st Two Minutes",
+          "id": "16599",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "first goal exact": {
+          "name": "First Goal Exact",
+          "id": "16615",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "race to x goals": {
+          "name": "Race to X Goals",
+          "id": "17236",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goalscorer - 1st period": {
+          "name": "Goalscorer - 1st Period",
+          "id": "17740",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st goalscorer - team": {
+          "name": "1st Goalscorer - Team",
+          "id": "17741",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shots on goal - 1st period": {
+          "name": "Shots on Goal - 1st Period",
+          "id": "18002",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "power play points": {
+          "name": "Power Play Points",
+          "id": "18750",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "goals": {
+          "name": "Goals",
+          "id": "18758",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "power play goals": {
+          "name": "Power Play Goals",
+          "id": "18764",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "shorthanded goals": {
+          "name": "Shorthanded Goals",
+          "id": "18765",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "game": {
+          "name": "Game",
+          "id": "4525",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st period": {
+          "name": "1st Period",
+          "id": "4761",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "2nd period": {
+          "name": "2nd Period",
+          "id": "4783",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "60 min line": {
+          "name": "60 Min Line",
+          "id": "4999",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "1st period/end of regulation": {
+          "name": "1st Period/End of Regulation",
+          "id": "5719",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score (excl ot)": {
+          "name": "Correct Score (Excl OT)",
+          "id": "5861",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "correct score - listed period": {
+          "name": "Correct Score - Listed Period",
+          "id": "5879",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team totals - listed period": {
+          "name": "Team Totals - Listed Period",
+          "id": "6270",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "both teams to score - 1st period": {
+          "name": "Both Teams to Score - 1st Period",
+          "id": "6271",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "highest scoring period": {
+          "name": "Highest Scoring Period",
+          "id": "6306",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "tie no bet": {
+          "name": "Tie No Bet",
+          "id": "6353",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "period winner - 3 way": {
+          "name": "Period Winner - 3 Way",
+          "id": "6978",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "moneyline/total goals": {
+          "name": "Moneyline/Total Goals",
+          "id": "7863",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "puck line/total goals": {
+          "name": "Puck Line/Total Goals",
+          "id": "7864",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "hart ": {
+          "name": "Hart ",
+          "id": "15639",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "vezina ": {
+          "name": "Vezina ",
+          "id": "15642",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "norris ": {
+          "name": "Norris ",
+          "id": "15641",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "calder ": {
+          "name": "Calder ",
+          "id": "15657",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "rocket richard": {
+          "name": "Rocket Richard",
+          "id": "7474",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "monthly team points": {
+          "name": "Monthly Team Points",
+          "id": "18621",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "13422",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "division winner": {
+          "name": "Division Winner",
+          "id": "9034",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "conference winner": {
+          "name": "Conference Winner",
+          "id": "9236",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "presidents' trophy winner": {
+          "name": "Presidents' Trophy Winner",
+          "id": "8807",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "exact result": {
+          "name": "Exact Result",
+          "id": "17942",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0ML82071043_1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    },
+    "wnba": {
+      "league_id": "94682",
+      "league_name": "WNBA",
+      "sport": "basketball",
+      "total_markets": 6,
+      "categories": [
+        "General"
+      ],
+      "markets": {
+        "winner": {
+          "name": "Winner",
+          "id": "282764173",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "team futures": {
+          "name": "Team Futures",
+          "id": "519",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "awards": {
+          "name": "Awards",
+          "id": "518",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "mvp": {
+          "name": "MVP",
+          "id": "16435",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "champion": {
+          "name": "Champion",
+          "id": "10700",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        },
+        "unknown market": {
+          "name": "Unknown Market",
+          "id": "0QA282764173#366103164_4L94682Q14738Q2-1",
+          "category": "General",
+          "subcategory": "",
+          "description": ""
+        }
+      }
+    }
+  },
+  "analysis": {
+    "total_leagues": 7,
+    "common_markets": {
+      "moneyline": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "spread": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "total": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "game lines": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "team futures": [
+        "nba",
+        "ncaab",
+        "nhl",
+        "wnba"
+      ],
+      "regular season wins": [
+        "nba",
+        "nfl"
+      ],
+      "playoffs": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "awards": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl",
+        "wnba"
+      ],
+      "quick hits": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "nhl"
+      ],
+      "game leaders": [
+        "nba",
+        "nhl"
+      ],
+      "halves": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "quarters": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "game props": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "team props": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "to make the playoffs": [
+        "nba",
+        "nhl"
+      ],
+      "division winner": [
+        "nba",
+        "nfl",
+        "nhl"
+      ],
+      "mvp": [
+        "nba",
+        "nfl",
+        "wnba"
+      ],
+      "dpoy": [
+        "nba",
+        "nfl"
+      ],
+      "largest lead": [
+        "nba",
+        "nfl",
+        "ncaab"
+      ],
+      "winning margin - listed half": [
+        "nba",
+        "nfl",
+        "ncaab"
+      ],
+      "halftime/fulltime": [
+        "nba",
+        "ncaab"
+      ],
+      "margin parlays": [
+        "nba",
+        "ncaab"
+      ],
+      "spread / total - listed half": [
+        "nba",
+        "ncaab"
+      ],
+      "points o/u": [
+        "nba",
+        "nhl"
+      ],
+      "assists o/u": [
+        "nba",
+        "nhl"
+      ],
+      "alt team totals": [
+        "nba",
+        "ncaab"
+      ],
+      "alternate total": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "alternate spread": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "blocks o/u": [
+        "nba",
+        "nhl"
+      ],
+      "largest comeback": [
+        "nba",
+        "ncaab"
+      ],
+      "spread - both halves": [
+        "nba",
+        "ncaab"
+      ],
+      "team totals odd/even - both halves": [
+        "nba",
+        "ncaab"
+      ],
+      "points": [
+        "nba",
+        "nhl"
+      ],
+      "assists": [
+        "nba",
+        "nhl"
+      ],
+      "blocks": [
+        "nba",
+        "nhl"
+      ],
+      "team to win both halves": [
+        "nba",
+        "ncaab"
+      ],
+      "both teams total points - both halves": [
+        "nba",
+        "ncaab"
+      ],
+      "both teams total points - 1st half": [
+        "nba",
+        "ncaab"
+      ],
+      "both teams total points - 2nd half": [
+        "nba",
+        "ncaab"
+      ],
+      "team totals - both halves": [
+        "nba",
+        "ncaab"
+      ],
+      "both team total points": [
+        "nba",
+        "ncaab"
+      ],
+      "to go to overtime": [
+        "nba",
+        "ncaab"
+      ],
+      "highest scoring half": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "alternate team totals - listed half": [
+        "nba",
+        "ncaab"
+      ],
+      "winning margin - both halves": [
+        "nba",
+        "ncaab"
+      ],
+      "game": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "1st half": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "2nd half": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "1st quarter": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "2nd quarter": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "3rd quarter": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "4th quarter": [
+        "nba",
+        "nfl",
+        "ncaaf"
+      ],
+      "team totals": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "total odd/even": [
+        "nba",
+        "ncaab"
+      ],
+      "odd/even - listed half": [
+        "nba",
+        "ncaab"
+      ],
+      "winning margin - 7 way": [
+        "nba",
+        "ncaab"
+      ],
+      "race to x points": [
+        "nba",
+        "nfl"
+      ],
+      "winning margin": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "winning margin - 12 way": [
+        "nba",
+        "ncaab"
+      ],
+      "team total odd/even": [
+        "nba",
+        "ncaab"
+      ],
+      "winning margin - 3 way": [
+        "nba",
+        "ncaab"
+      ],
+      "team totals - listed half": [
+        "nba",
+        "nfl",
+        "ncaab"
+      ],
+      "moneyline (3-way) - listed half": [
+        "nba",
+        "ncaab"
+      ],
+      "conference winner": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "nhl"
+      ],
+      "champion": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "mlb",
+        "nhl",
+        "wnba"
+      ],
+      "winner": [
+        "nba",
+        "mlb",
+        "wnba"
+      ],
+      "unknown market": [
+        "nba",
+        "nfl",
+        "ncaab",
+        "ncaaf",
+        "mlb",
+        "nhl",
+        "wnba"
+      ],
+      "futures": [
+        "nfl",
+        "ncaaf"
+      ],
+      "wins": [
+        "nfl",
+        "ncaaf"
+      ],
+      "1st of game": [
+        "nfl",
+        "ncaaf"
+      ],
+      "1st drive": [
+        "nfl",
+        "ncaaf"
+      ],
+      "playoffs y/n": [
+        "nfl",
+        "ncaaf"
+      ],
+      "to score 1st & win/lose": [
+        "nfl",
+        "ncaaf"
+      ],
+      "to win with shutout": [
+        "nfl",
+        "ncaaf"
+      ],
+      "scoring props": [
+        "nfl",
+        "ncaaf"
+      ],
+      "team odd/even": [
+        "nfl",
+        "ncaaf"
+      ],
+      "scoring props - listed half": [
+        "nfl",
+        "ncaaf"
+      ],
+      "halves won": [
+        "nfl",
+        "ncaaf"
+      ],
+      "overtime": [
+        "nfl",
+        "ncaaf"
+      ],
+      "team totals - tds": [
+        "nfl",
+        "ncaaf"
+      ],
+      "every quarter": [
+        "nfl",
+        "ncaaf"
+      ],
+      "1st score": [
+        "nfl",
+        "ncaaf"
+      ],
+      "correct score": [
+        "nfl",
+        "ncaab",
+        "ncaaf"
+      ],
+      "correct score - 1st quarter": [
+        "nfl",
+        "ncaaf"
+      ],
+      "correct score - 1st half": [
+        "nfl",
+        "ncaaf"
+      ],
+      "odd/even": [
+        "nfl",
+        "ncaaf"
+      ],
+      "td props": [
+        "nfl",
+        "ncaaf"
+      ],
+      "both teams to score x": [
+        "nfl",
+        "ncaaf"
+      ],
+      "race to x pts": [
+        "nfl",
+        "ncaaf"
+      ],
+      "half time / full time": [
+        "nfl",
+        "ncaaf"
+      ],
+      "team totals (bands)": [
+        "nfl",
+        "ncaaf"
+      ],
+      "1st drive result": [
+        "nfl",
+        "ncaaf"
+      ],
+      "1st drive - 1st down": [
+        "nfl",
+        "ncaaf"
+      ],
+      "1st drive - distance": [
+        "nfl",
+        "ncaaf"
+      ],
+      "score on 1st drive": [
+        "nfl",
+        "ncaaf"
+      ],
+      "comeback": [
+        "nfl",
+        "ncaaf"
+      ],
+      "last scoring play": [
+        "nfl",
+        "ncaaf"
+      ],
+      "winning conference": [
+        "nfl",
+        "ncaaf"
+      ],
+      "exact result": [
+        "nfl",
+        "nhl"
+      ]
+    },
+    "sport_specific_markets": {
+      "basketball": [
+        "play in",
+        "player specials",
+        "early season specials",
+        "nba cup",
+        "player points",
+        "player threes",
+        "player rebounds",
+        "player assists",
+        "player combos",
+        "player defense",
+        "combined player props",
+        "either player props",
+        "h2h player props",
+        "roty",
+        "most improved",
+        "6th player",
+        "ecf mvp",
+        "wcf mvp",
+        "finals mvp",
+        "consecutive titles",
+        "specials",
+        "first/next to score x+ points",
+        "next to make x+ threes",
+        "next to record x+ rebounds",
+        "last team to score",
+        "last team to score - listed quarter",
+        "moneyline (3-way) - listed quarter",
+        "quarter/fulltime",
+        "wire to wire",
+        "winning margin - q4",
+        "winning margin - q1",
+        "winning margin - q2",
+        "winning margin - q3",
+        "winning margin - exact (q1)",
+        "winning margin - exact (q2)",
+        "winning margin - exact (q3)",
+        "winning margin - exact (q4)",
+        "winning margin - exact (1st half)",
+        "winning margin - exact (2nd half)",
+        "winning margin (exact)",
+        "spread / total - listed quarter",
+        "winning margin (3-way) - q1",
+        "1st fg type - team",
+        "1st fg exact - team",
+        "1st possession",
+        "1st possession - exact",
+        "rebounds o/u",
+        "threes o/u",
+        "steals o/u",
+        "triple-double",
+        "double-double",
+        "steals + blocks o/u",
+        "team to score 1st fg",
+        "1st team fg",
+        "highest scoring quarter",
+        "1st three",
+        "1st team three",
+        "1st minute",
+        "scoring leader - 1st quarter",
+        "scoring leader - 1st half",
+        "team score 100+ points - 1st 3 quarters",
+        "alternate spread - listed half",
+        "team totals odd/even - all quarters",
+        "spread - all quarters",
+        "1st point",
+        "rebounds",
+        "threes",
+        "1st scorer - exact",
+        "1st team fg - exact",
+        "both player points",
+        "both player threes",
+        "both player rebounds",
+        "both player assists",
+        "both player steals",
+        "both player blocks",
+        "either player points",
+        "either player rebounds",
+        "either player assists",
+        "either player threes",
+        "either player steals",
+        "either player blocks",
+        "most points",
+        "most rebounds",
+        "most assists",
+        "most threes",
+        "most pts + reb + ast",
+        "pts + ast",
+        "pts + reb",
+        "pts + reb + ast",
+        "steals",
+        "points - 1st quarter",
+        "assists - 1st quarter",
+        "rebounds - 1st quarter",
+        "last team to score - all quarters",
+        "race to x points - both halves",
+        "race to x points - 1st half",
+        "race to x points - 2nd half",
+        "race to x points - all quarters",
+        "team total points - all quarters",
+        "both teams total points - all quarters",
+        "1st fg made - type",
+        "1st fg - result",
+        "1st three - result",
+        "1st dunk scorer",
+        "alternate total - listed half",
+        "team totals - quarters odd/even",
+        "alternate spread - q1",
+        "alternate spread - q2",
+        "alternate spread - q3",
+        "alternate spread - q4",
+        "alternate total - q1",
+        "alternate total - q2",
+        "alternate total - q3",
+        "alternate total -  q4",
+        "points - 1st 3 mins",
+        "assists 1st 3 mins",
+        "rebounds 1st 3 mins",
+        "h2h combined points",
+        "h2h combined rebounds",
+        "h2h combined assists",
+        "h2h combined threes",
+        "dunks + threes - 1st 3 mins",
+        "dunks - 1st 3 mins",
+        "team threes in first 3 min",
+        "threes in first 3 min",
+        "team total threes",
+        "last team to score - both halves",
+        "winning margin - all quarters",
+        "team to win all quarters",
+        "result at end of q3",
+        "both team total points - q2",
+        "both team total points - q1",
+        "pts + reb + ast o/u",
+        "total threes",
+        "odd/even - listed quarter",
+        "team totals - listed quarter",
+        "moneyline (3-way)",
+        "pts + ast o/u",
+        "ast + reb o/u",
+        "pts + reb o/u",
+        "combined total points",
+        "combined player threes",
+        "any player to score x+ points",
+        "any player to make x+ threes",
+        "combined player rebounds",
+        "combined player assists",
+        "any player to record x+ rebounds",
+        "any player to record x+ assists",
+        "race to x threes",
+        "race to x rebounds",
+        "race to x assists",
+        "winner specials",
+        "play-in performance",
+        "lebron james",
+        "to make play in",
+        "#1 seed",
+        "finals exact result",
+        "most regular season wins",
+        "monthly wins",
+        "best record at as break",
+        "any team to start the season x-0",
+        "longest win streak",
+        "group winner",
+        "cup mvp",
+        "spread / total",
+        "moneyline / total",
+        "time of 1st point",
+        "race to x",
+        "to win in x minutes",
+        "spread in x minutes",
+        "total points in x minutes",
+        "3-2-1 race",
+        "wayman tisdale award",
+        "final four"
+      ],
+      "football": [
+        "team specials",
+        "season high totals",
+        "division specials",
+        "td scorers",
+        "passing props ",
+        "receiving props",
+        "rushing props",
+        "game specials",
+        "dk squares",
+        "defensive props",
+        "special teams props",
+        "kicking props",
+        "division standings",
+        "stage of elimination",
+        "quarter / full time",
+        "winning margin - 1st quarter",
+        "shutout - listed half",
+        "shutout - listed quarter",
+        "quarter tds - total",
+        "dk squares - any quarter",
+        "dk squares - final result",
+        "alternate spread - 1q",
+        "alternate total - 1q",
+        "alternate spread - 1h",
+        "alternate spread - 2h",
+        "alternate total - 1h",
+        "alternate total - 2h",
+        "1st td",
+        "1st quarter - 3 way",
+        "quarter team totals",
+        "team totals - odd/even",
+        "2 pt conversion",
+        "safety props",
+        "1st half - 3 way ",
+        "td scorer",
+        "1st drive - td scorer",
+        "1st drive - conversions",
+        "1st drive - sack",
+        "1st drive - big play",
+        "1st score method - team",
+        "1st drive fg",
+        "each team 1st drive",
+        "rec yards o/u",
+        "receptions o/u",
+        "longest rush - yards",
+        "longest reception - yards",
+        "1st first down",
+        "1st sack",
+        "1st turnover",
+        "1st fg",
+        "interceptions o/u",
+        "1st drive - catch a pass",
+        "popular specials",
+        "pass tds",
+        "pass yards",
+        "receiving yards",
+        "rush yards",
+        "pass yards - 1q",
+        "rec yards - 1q",
+        "rush yards - 1q",
+        "rush attempts",
+        "receptions",
+        "pass attempts",
+        "completions",
+        "pass + rush yards",
+        "fg yards",
+        "fg total",
+        "punt total",
+        "safety",
+        "1st reception",
+        "octopus",
+        "pass yards - 1q o/u",
+        "rush yards - 1q o/u",
+        "rec yards - 1q o/u",
+        "pass yards - 1h o/u",
+        "rush yards - 1h o/u",
+        "rec yards - 1h o/u",
+        "pass yards - 1h",
+        "rush yards - 1h",
+        "rec yards - 1h",
+        "1st carry",
+        "1st pass attempt",
+        "half specials",
+        "2nd half - 3 way",
+        "punt props",
+        "field goal props",
+        "turnovers",
+        "rush yards o/u",
+        "pass attempts o/u",
+        "rush attempts o/u",
+        "completions o/u",
+        "pass yards o/u",
+        "pass tds o/u",
+        "completion - longest",
+        "pass + rush yards o/u",
+        "jax jaguars",
+        "number 1 seed",
+        "champion specials",
+        "name the finalists",
+        "most wins",
+        "fewest wins",
+        "field goals",
+        "opoy",
+        "droy",
+        "oroy",
+        "playoff",
+        "undefeated",
+        "heisman",
+        "college football playoff"
+      ],
+      "baseball": [
+        "leagues"
+      ],
+      "hockey": [
+        "puck line",
+        "goalscorer",
+        "shots on goal",
+        "goalie props",
+        "periods",
+        "game props (60 min)",
+        "game parlays",
+        "team points",
+        "november futures",
+        "regular season points o/u",
+        "shutout",
+        "correct score (incl ot)",
+        "winning margin (incl ot)",
+        "alt total goals - listed period",
+        "first/last to score",
+        "shots on goal o/u",
+        "team total goals",
+        "both teams to score",
+        "both teams to score 2+ goals",
+        "goal in first 10 - listed period",
+        "opening faceoff winner",
+        "first to 5 shots on goal",
+        "first shot on goal",
+        "first power play",
+        "alternate puck line",
+        "goal in first five",
+        "goal in first ten",
+        "anytime goalscorer",
+        "odd/even - listed period",
+        "to go to ot",
+        "win from behind",
+        "first goalscorer",
+        "last goalscorer",
+        "winning margin (excl ot)",
+        "player goal milestones",
+        "saves o/u",
+        "first goal strength",
+        "first team goal strength",
+        "team first power play",
+        "shots in 1st two minutes",
+        "first goal exact",
+        "race to x goals",
+        "goalscorer - 1st period",
+        "1st goalscorer - team",
+        "shots on goal - 1st period",
+        "power play points",
+        "goals",
+        "power play goals",
+        "shorthanded goals",
+        "1st period",
+        "2nd period",
+        "60 min line",
+        "1st period/end of regulation",
+        "correct score (excl ot)",
+        "correct score - listed period",
+        "team totals - listed period",
+        "both teams to score - 1st period",
+        "highest scoring period",
+        "tie no bet",
+        "period winner - 3 way",
+        "moneyline/total goals",
+        "puck line/total goals",
+        "hart ",
+        "vezina ",
+        "norris ",
+        "calder ",
+        "rocket richard",
+        "monthly team points",
+        "presidents' trophy winner"
+      ]
+    },
+    "unique_market_types": [
+      "race to x points - 2nd half",
+      "pts + reb o/u",
+      "shutout - listed half",
+      "largest comeback",
+      "monthly wins",
+      "3-2-1 race",
+      "spread",
+      "field goal props",
+      "shots on goal o/u",
+      "player goal milestones",
+      "pass yards - 1q",
+      "finals mvp",
+      "1st drive - conversions",
+      "1st team fg - exact",
+      "division specials",
+      "team totals - listed half",
+      "4th quarter",
+      "spread / total - listed quarter",
+      "total",
+      "1st reception",
+      "best record at as break",
+      "1st quarter",
+      "half time / full time",
+      "play in",
+      "any player to score x+ points",
+      "awards",
+      "alternate spread - q4",
+      "puck line/total goals",
+      "anytime goalscorer",
+      "rush yards o/u",
+      "total threes",
+      "margin parlays",
+      "both player points",
+      "team totals - listed quarter",
+      "race to x",
+      "rush yards - 1q",
+      "winning margin - exact (q1)",
+      "first/last to score",
+      "pass attempts o/u",
+      "winner specials",
+      "heisman",
+      "race to x goals",
+      "both player blocks",
+      "total points in x minutes",
+      "team total goals",
+      "team total odd/even",
+      "player points",
+      "conference winner",
+      "team to win all quarters",
+      "alternate spread - q2",
+      "alternate total -  q4",
+      "moneyline (3-way) - listed half",
+      "first shot on goal",
+      "race to x pts",
+      "winning margin - both halves",
+      "dk squares",
+      "dunks - 1st 3 mins",
+      "receptions o/u",
+      "team first power play",
+      "spread - both halves",
+      "wcf mvp",
+      "result at end of q3",
+      "pts + reb + ast o/u",
+      "to win in x minutes",
+      "points o/u",
+      "both teams total points - all quarters",
+      "pass tds o/u",
+      "either player threes",
+      "to win with shutout",
+      "team odd/even",
+      "college football playoff",
+      "team totals - both halves",
+      "combined total points",
+      "quarter/fulltime",
+      "1st goalscorer - team",
+      "race to x points - all quarters",
+      "to score 1st & win/lose",
+      "td props",
+      "h2h player props",
+      "dk squares - final result",
+      "winning margin - q2",
+      "special teams props",
+      "field goals",
+      "winning margin - 7 way",
+      "winning margin - exact (q3)",
+      "both teams to score 2+ goals",
+      "finals exact result",
+      "shots on goal",
+      "first goal strength",
+      "1st period/end of regulation",
+      "wire to wire",
+      "goalie props",
+      "goal in first five",
+      "rec yards - 1h o/u",
+      "pass yards",
+      "1st drive - distance",
+      "correct score - 1st quarter",
+      "odd/even - listed half",
+      "any team to start the season x-0",
+      "threes o/u",
+      "division standings",
+      "goal in first ten",
+      "last team to score - listed quarter",
+      "both teams total points - 1st half",
+      "1st drive - td scorer",
+      "player rebounds",
+      "division winner",
+      "1st drive - sack",
+      "td scorers",
+      "pass tds",
+      "alternate team totals - listed half",
+      "rush attempts o/u",
+      "1st score",
+      "winning margin - exact (q4)",
+      "unknown market",
+      "combined player rebounds",
+      "droy",
+      "spread - all quarters",
+      "correct score - listed period",
+      "puck line",
+      "race to x threes",
+      "points - 1st quarter",
+      "shutout",
+      "mvp",
+      "steals",
+      "alternate total - listed half",
+      "most improved",
+      "1st drive - 1st down",
+      "goalscorer",
+      "rebounds o/u",
+      "scoring leader - 1st half",
+      "1st turnover",
+      "1st score method - team",
+      "spread / total",
+      "quick hits",
+      "odd/even - listed quarter",
+      "power play goals",
+      "pts + ast",
+      "rec yards o/u",
+      "2 pt conversion",
+      "winning margin (excl ot)",
+      "race to x points - 1st half",
+      "race to x points",
+      "alternate spread",
+      "any player to record x+ rebounds",
+      "alternate total",
+      "alt team totals",
+      "h2h combined threes",
+      "to go to overtime",
+      "team totals",
+      "1st sack",
+      "team totals - quarters odd/even",
+      "winning margin - all quarters",
+      "pts + ast o/u",
+      "vezina ",
+      "any player to record x+ assists",
+      "exact result",
+      "pass yards - 1q o/u",
+      "alternate total - q2",
+      "stage of elimination",
+      "h2h combined rebounds",
+      "presidents' trophy winner",
+      "fg total",
+      "steals + blocks o/u",
+      "winning margin - q1",
+      "dk squares - any quarter",
+      "combined player threes",
+      "kicking props",
+      "1st three - result",
+      "game",
+      "game lines",
+      "2nd period",
+      "either player props",
+      "1st fg exact - team",
+      "both teams total points - 2nd half",
+      "completions o/u",
+      "correct score - 1st half",
+      "race to x points - both halves",
+      "tie no bet",
+      "1st possession - exact",
+      "play-in performance",
+      "threes",
+      "hart ",
+      "spread / total - listed half",
+      "1st minute",
+      "winning conference",
+      "first goal exact",
+      "calder ",
+      "moneyline (3-way) - listed quarter",
+      "team totals - tds",
+      "moneyline (3-way)",
+      "season high totals",
+      "most regular season wins",
+      "1st carry",
+      "saves o/u",
+      "interceptions o/u",
+      "winning margin (incl ot)",
+      "opening faceoff winner",
+      "november futures",
+      "shorthanded goals",
+      "dpoy",
+      "alternate spread - q1",
+      "team to win both halves",
+      "rec yards - 1q o/u",
+      "team totals odd/even - both halves",
+      "alternate spread - q3",
+      "1st possession",
+      "alternate total - 2h",
+      "correct score (excl ot)",
+      "highest scoring quarter",
+      "team totals - odd/even",
+      "1st drive - big play",
+      "correct score (incl ot)",
+      "team props",
+      "steals o/u",
+      "first team goal strength",
+      "2nd half - 3 way",
+      "either player blocks",
+      "team to score 1st fg",
+      "points",
+      "team specials",
+      "first/next to score x+ points",
+      "pass attempts",
+      "alternate total - 1h",
+      "last goalscorer",
+      "rush yards - 1h o/u",
+      "team totals - listed period",
+      "specials",
+      "rush yards",
+      "winning margin (exact)",
+      "3rd quarter",
+      "number 1 seed",
+      "1st drive result",
+      "most wins",
+      "blocks",
+      "#1 seed",
+      "assists - 1st quarter",
+      "player threes",
+      "rebounds 1st 3 mins",
+      "regular season wins",
+      "both team total points - q2",
+      "team threes in first 3 min",
+      "1st half",
+      "wins",
+      "rush attempts",
+      "nba cup",
+      "octopus",
+      "most assists",
+      "moneyline / total",
+      "comeback",
+      "1st fg type - team",
+      "score on 1st drive",
+      "cup mvp",
+      "overtime",
+      "both player steals",
+      "1st drive - catch a pass",
+      "passing props ",
+      "winning margin - q4",
+      "total odd/even",
+      "alternate spread - 2h",
+      "shots on goal - 1st period",
+      "game parlays",
+      "both player assists",
+      "1st fg - result",
+      "game props",
+      "quarter team totals",
+      "both teams to score x",
+      "td scorer",
+      "6th player",
+      "most threes",
+      "highest scoring period",
+      "last team to score - both halves",
+      "either player steals",
+      "playoffs y/n",
+      "to make play in",
+      "goal in first 10 - listed period",
+      "2nd half",
+      "60 min line",
+      "punt props",
+      "2nd quarter",
+      "1st point",
+      "1st half - 3 way ",
+      "either player rebounds",
+      "consecutive titles",
+      "1st drive",
+      "both team total points",
+      "halves won",
+      "both teams to score",
+      "rec yards - 1h",
+      "winning margin - exact (1st half)",
+      "player defense",
+      "winning margin - 12 way",
+      "turnovers",
+      "rush yards - 1q o/u",
+      "period winner - 3 way",
+      "1st fg made - type",
+      "fg yards",
+      "alternate total - 1q",
+      "team futures",
+      "name the finalists",
+      "undefeated",
+      "roty",
+      "alternate spread - 1h",
+      "pass yards - 1h o/u",
+      "goals",
+      "scoring props - listed half",
+      "most rebounds",
+      "highest scoring half",
+      "player specials",
+      "winning margin (3-way) - q1",
+      "triple-double",
+      "1st drive fg",
+      "alternate total - q1",
+      "time of 1st point",
+      "1st fg",
+      "1st team three",
+      "fewest wins",
+      "team points",
+      "longest rush - yards",
+      "rebounds - 1st quarter",
+      "team total threes",
+      "race to x assists",
+      "pass yards - 1h",
+      "playoff",
+      "correct score",
+      "team total points - all quarters",
+      "winning margin",
+      "1st td",
+      "points - 1st 3 mins",
+      "winning margin - 1st quarter",
+      "assists",
+      "moneyline",
+      "game props (60 min)",
+      "team totals odd/even - all quarters",
+      "winner",
+      "either player points",
+      "halves",
+      "largest lead",
+      "alternate spread - 1q",
+      "monthly team points",
+      "spread in x minutes",
+      "both teams total points - both halves",
+      "1st team fg",
+      "pts + reb",
+      "completions",
+      "1st first down",
+      "winning margin - listed half",
+      "half specials",
+      "assists o/u",
+      "alternate puck line",
+      "longest reception - yards",
+      "1st quarter - 3 way",
+      "most points",
+      "rush yards - 1h",
+      "moneyline/total goals",
+      "next to record x+ rebounds",
+      "any player to make x+ threes",
+      "1st three",
+      "completion - longest",
+      "rushing props",
+      "rocket richard",
+      "1st pass attempt",
+      "longest win streak",
+      "early season specials",
+      "periods",
+      "either player assists",
+      "goalscorer - 1st period",
+      "both player rebounds",
+      "last team to score",
+      "team totals (bands)",
+      "to make the playoffs",
+      "receptions",
+      "pass yards o/u",
+      "power play points",
+      "futures",
+      "alternate total - q3",
+      "quarter tds - total",
+      "1st period",
+      "combined player props",
+      "quarter / full time",
+      "receiving yards",
+      "first power play",
+      "every quarter",
+      "pass + rush yards o/u",
+      "punt total",
+      "winning margin - exact (2nd half)",
+      "receiving props",
+      "scoring leader - 1st quarter",
+      "safety",
+      "jax jaguars",
+      "group winner",
+      "regular season points o/u",
+      "final four",
+      "race to x rebounds",
+      "both team total points - q1",
+      "player combos",
+      "lebron james",
+      "game leaders",
+      "both player threes",
+      "winning margin - 3 way",
+      "player assists",
+      "combined player assists",
+      "last scoring play",
+      "assists 1st 3 mins",
+      "shots in 1st two minutes",
+      "h2h combined assists",
+      "norris ",
+      "pass + rush yards",
+      "safety props",
+      "first goalscorer",
+      "next to make x+ threes",
+      "shutout - listed quarter",
+      "team score 100+ points - 1st 3 quarters",
+      "h2h combined points",
+      "playoffs",
+      "double-double",
+      "1st of game",
+      "alternate spread - listed half",
+      "each team 1st drive",
+      "leagues",
+      "ecf mvp",
+      "threes in first 3 min",
+      "1st dunk scorer",
+      "ast + reb o/u",
+      "dunks + threes - 1st 3 mins",
+      "scoring props",
+      "wayman tisdale award",
+      "to go to ot",
+      "winning margin - q3",
+      "opoy",
+      "first to 5 shots on goal",
+      "rec yards - 1q",
+      "odd/even - listed period",
+      "most pts + reb + ast",
+      "alt total goals - listed period",
+      "halftime/fulltime",
+      "winning margin - exact (q2)",
+      "last team to score - all quarters",
+      "quarters",
+      "oroy",
+      "defensive props",
+      "champion",
+      "blocks o/u",
+      "odd/even",
+      "pts + reb + ast",
+      "both teams to score - 1st period",
+      "win from behind",
+      "popular specials",
+      "rebounds",
+      "1st scorer - exact",
+      "game specials",
+      "champion specials"
+    ],
+    "market_categories": {
+      "basketball": [
+        "General"
+      ],
+      "football": [
+        "General"
+      ],
+      "baseball": [
+        "General"
+      ],
+      "hockey": [
+        "General"
+      ]
+    }
+  }
+}
