@@ -1,0 +1,27 @@
+
+
+{
+
+    "tennis data urls": [
+        "https://tennisabstract.com/reports/atp_elo_ratings.html",
+        "https://tennisabstract.com/reports/wta_elo_ratings.html",
+        "https://tennisabstract.com/reports/atp_season_yelo_ratings.html",
+        "https://tennisabstract.com/reports/wta_season_yelo_ratings.html",
+        "https://tennisabstract.com/reports/mcp_leaders_serve_men_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_serve_men_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_return_men_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_return_men_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_rally_men_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_rally_men_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_tactics_men_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_tactics_men_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_serve_women_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_serve_women_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_return_women_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_return_women_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_rally_women_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_rally_women_career.html",
+        "https://tennisabstract.com/reports/mcp_leaders_tactics_women_last52.html",
+        "https://tennisabstract.com/reports/mcp_leaders_tactics_women_career.html"
+    ]
+}

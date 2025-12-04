@@ -1,0 +1,3873 @@
+[
+  {
+    "Rank": "1",
+    "Player": "Jannik Sinner",
+    "Wins": "58",
+    "Losses": "6",
+    "yElo": "2337.8"
+  },
+  {
+    "Rank": "2",
+    "Player": "Carlos Alcaraz",
+    "Wins": "71",
+    "Losses": "9",
+    "yElo": "2306.8"
+  },
+  {
+    "Rank": "3",
+    "Player": "Novak Djokovic",
+    "Wins": "39",
+    "Losses": "11",
+    "yElo": "2138.7"
+  },
+  {
+    "Rank": "4",
+    "Player": "Felix Auger Aliassime",
+    "Wins": "50",
+    "Losses": "25",
+    "yElo": "2064.9"
+  },
+  {
+    "Rank": "5",
+    "Player": "Alexander Zverev",
+    "Wins": "57",
+    "Losses": "25",
+    "yElo": "2038.4"
+  },
+  {
+    "Rank": "6",
+    "Player": "Jack Draper",
+    "Wins": "30",
+    "Losses": "9",
+    "yElo": "2032.4"
+  },
+  {
+    "Rank": "7",
+    "Player": "Taylor Fritz",
+    "Wins": "53",
+    "Losses": "23",
+    "yElo": "2014.2"
+  },
+  {
+    "Rank": "8",
+    "Player": "Alexander Bublik",
+    "Wins": "48",
+    "Losses": "24",
+    "yElo": "2008.7"
+  },
+  {
+    "Rank": "9",
+    "Player": "Alex De Minaur",
+    "Wins": "56",
+    "Losses": "24",
+    "yElo": "2004.4"
+  },
+  {
+    "Rank": "10",
+    "Player": "Arthur Fils",
+    "Wins": "22",
+    "Losses": "11",
+    "yElo": "1986.9"
+  },
+  {
+    "Rank": "11",
+    "Player": "Learner Tien",
+    "Wins": "39",
+    "Losses": "25",
+    "yElo": "1972.3"
+  },
+  {
+    "Rank": "12",
+    "Player": "Daniil Medvedev",
+    "Wins": "41",
+    "Losses": "23",
+    "yElo": "1962.6"
+  },
+  {
+    "Rank": "13",
+    "Player": "Lorenzo Musetti",
+    "Wins": "45",
+    "Losses": "22",
+    "yElo": "1953.2"
+  },
+  {
+    "Rank": "14",
+    "Player": "Ben Shelton",
+    "Wins": "40",
+    "Losses": "24",
+    "yElo": "1939.5"
+  },
+  {
+    "Rank": "15",
+    "Player": "Joao Fonseca",
+    "Wins": "39",
+    "Losses": "17",
+    "yElo": "1939.1"
+  },
+  {
+    "Rank": "16",
+    "Player": "Alejandro Davidovich Fokina",
+    "Wins": "44",
+    "Losses": "26",
+    "yElo": "1936.8"
+  },
+  {
+    "Rank": "17",
+    "Player": "Casper Ruud",
+    "Wins": "39",
+    "Losses": "16",
+    "yElo": "1934.4"
+  },
+  {
+    "Rank": "18",
+    "Player": "Tommy Paul",
+    "Wins": "29",
+    "Losses": "13",
+    "yElo": "1929.9"
+  },
+  {
+    "Rank": "19",
+    "Player": "Hubert Hurkacz",
+    "Wins": "15",
+    "Losses": "11",
+    "yElo": "1920.5"
+  },
+  {
+    "Rank": "20",
+    "Player": "Valentin Vacherot",
+    "Wins": "43",
+    "Losses": "23",
+    "yElo": "1917.6"
+  },
+  {
+    "Rank": "21",
+    "Player": "Grigor Dimitrov",
+    "Wins": "18",
+    "Losses": "11",
+    "yElo": "1913.8"
+  },
+  {
+    "Rank": "22",
+    "Player": "Jiri Lehecka",
+    "Wins": "41",
+    "Losses": "23",
+    "yElo": "1900.4"
+  },
+  {
+    "Rank": "23",
+    "Player": "Matteo Berrettini",
+    "Wins": "22",
+    "Losses": "17",
+    "yElo": "1893.0"
+  },
+  {
+    "Rank": "24",
+    "Player": "Cameron Norrie",
+    "Wins": "39",
+    "Losses": "29",
+    "yElo": "1892.1"
+  },
+  {
+    "Rank": "25",
+    "Player": "Holger Rune",
+    "Wins": "36",
+    "Losses": "22",
+    "yElo": "1877.4"
+  },
+  {
+    "Rank": "26",
+    "Player": "Ugo Humbert",
+    "Wins": "25",
+    "Losses": "20",
+    "yElo": "1870.0"
+  },
+  {
+    "Rank": "27",
+    "Player": "Arthur Rinderknech",
+    "Wins": "32",
+    "Losses": "35",
+    "yElo": "1869.1"
+  },
+  {
+    "Rank": "28",
+    "Player": "Flavio Cobolli",
+    "Wins": "36",
+    "Losses": "29",
+    "yElo": "1865.4"
+  },
+  {
+    "Rank": "29",
+    "Player": "Sebastian Korda",
+    "Wins": "24",
+    "Losses": "18",
+    "yElo": "1861.2"
+  },
+  {
+    "Rank": "30",
+    "Player": "Karen Khachanov",
+    "Wins": "32",
+    "Losses": "24",
+    "yElo": "1860.2"
+  },
+  {
+    "Rank": "31",
+    "Player": "Jakub Mensik",
+    "Wins": "36",
+    "Losses": "22",
+    "yElo": "1854.9"
+  },
+  {
+    "Rank": "32",
+    "Player": "Jaume Munar",
+    "Wins": "31",
+    "Losses": "29",
+    "yElo": "1853.3"
+  },
+  {
+    "Rank": "33",
+    "Player": "Francisco Cerundolo",
+    "Wins": "38",
+    "Losses": "25",
+    "yElo": "1853.2"
+  },
+  {
+    "Rank": "34",
+    "Player": "Corentin Moutet",
+    "Wins": "41",
+    "Losses": "30",
+    "yElo": "1847.4"
+  },
+  {
+    "Rank": "35",
+    "Player": "Andrey Rublev",
+    "Wins": "34",
+    "Losses": "25",
+    "yElo": "1835.2"
+  },
+  {
+    "Rank": "36",
+    "Player": "Yannick Hanfmann",
+    "Wins": "46",
+    "Losses": "28",
+    "yElo": "1820.2"
+  },
+  {
+    "Rank": "37",
+    "Player": "Gabriel Diallo",
+    "Wins": "37",
+    "Losses": "29",
+    "yElo": "1817.6"
+  },
+  {
+    "Rank": "38",
+    "Player": "Leandro Riedi",
+    "Wins": "13",
+    "Losses": "6",
+    "yElo": "1816.8"
+  },
+  {
+    "Rank": "39",
+    "Player": "Arthur Cazaux",
+    "Wins": "33",
+    "Losses": "24",
+    "yElo": "1815.4"
+  },
+  {
+    "Rank": "40",
+    "Player": "Zizou Bergs",
+    "Wins": "33",
+    "Losses": "29",
+    "yElo": "1814.2"
+  },
+  {
+    "Rank": "41",
+    "Player": "Lorenzo Sonego",
+    "Wins": "25",
+    "Losses": "29",
+    "yElo": "1811.2"
+  },
+  {
+    "Rank": "42",
+    "Player": "Jenson Brooksby",
+    "Wins": "27",
+    "Losses": "23",
+    "yElo": "1806.9"
+  },
+  {
+    "Rank": "43",
+    "Player": "Tomas Martin Etcheverry",
+    "Wins": "30",
+    "Losses": "33",
+    "yElo": "1800.9"
+  },
+  {
+    "Rank": "44",
+    "Player": "Raphael Collignon",
+    "Wins": "42",
+    "Losses": "23",
+    "yElo": "1800.1"
+  },
+  {
+    "Rank": "45",
+    "Player": "Fabian Marozsan",
+    "Wins": "28",
+    "Losses": "26",
+    "yElo": "1795.4"
+  },
+  {
+    "Rank": "46",
+    "Player": "Marton Fucsovics",
+    "Wins": "41",
+    "Losses": "22",
+    "yElo": "1795.2"
+  },
+  {
+    "Rank": "47",
+    "Player": "Daniel Altmaier",
+    "Wins": "34",
+    "Losses": "35",
+    "yElo": "1793.1"
+  },
+  {
+    "Rank": "48",
+    "Player": "Yibing Wu",
+    "Wins": "23",
+    "Losses": "10",
+    "yElo": "1792.0"
+  },
+  {
+    "Rank": "49",
+    "Player": "Tallon Griekspoor",
+    "Wins": "32",
+    "Losses": "24",
+    "yElo": "1787.8"
+  },
+  {
+    "Rank": "50",
+    "Player": "Marin Cilic",
+    "Wins": "29",
+    "Losses": "20",
+    "yElo": "1786.2"
+  },
+  {
+    "Rank": "51",
+    "Player": "Kamil Majchrzak",
+    "Wins": "39",
+    "Losses": "23",
+    "yElo": "1785.2"
+  },
+  {
+    "Rank": "52",
+    "Player": "Patrick Kypson",
+    "Wins": "39",
+    "Losses": "15",
+    "yElo": "1782.9"
+  },
+  {
+    "Rank": "53",
+    "Player": "Adrian Mannarino",
+    "Wins": "35",
+    "Losses": "36",
+    "yElo": "1782.5"
+  },
+  {
+    "Rank": "54",
+    "Player": "Denis Shapovalov",
+    "Wins": "26",
+    "Losses": "22",
+    "yElo": "1782.0"
+  },
+  {
+    "Rank": "55",
+    "Player": "Alejandro Tabilo",
+    "Wins": "27",
+    "Losses": "23",
+    "yElo": "1781.5"
+  },
+  {
+    "Rank": "56",
+    "Player": "Eliot Spizzirri",
+    "Wins": "55",
+    "Losses": "30",
+    "yElo": "1781.0"
+  },
+  {
+    "Rank": "57",
+    "Player": "Benjamin Bonzi",
+    "Wins": "23",
+    "Losses": "24",
+    "yElo": "1780.8"
+  },
+  {
+    "Rank": "58",
+    "Player": "Brandon Nakashima",
+    "Wins": "33",
+    "Losses": "30",
+    "yElo": "1780.4"
+  },
+  {
+    "Rank": "59",
+    "Player": "Zachary Svajda",
+    "Wins": "29",
+    "Losses": "20",
+    "yElo": "1776.4"
+  },
+  {
+    "Rank": "60",
+    "Player": "Cristian Garin",
+    "Wins": "50",
+    "Losses": "22",
+    "yElo": "1775.8"
+  },
+  {
+    "Rank": "61",
+    "Player": "Nuno Borges",
+    "Wins": "33",
+    "Losses": "33",
+    "yElo": "1759.1"
+  },
+  {
+    "Rank": "62",
+    "Player": "Roberto Bautista Agut",
+    "Wins": "15",
+    "Losses": "22",
+    "yElo": "1756.4"
+  },
+  {
+    "Rank": "63",
+    "Player": "Dino Prizmic",
+    "Wins": "34",
+    "Losses": "14",
+    "yElo": "1755.1"
+  },
+  {
+    "Rank": "64",
+    "Player": "Jan Lennard Struff",
+    "Wins": "27",
+    "Losses": "30",
+    "yElo": "1754.8"
+  },
+  {
+    "Rank": "65",
+    "Player": "Frances Tiafoe",
+    "Wins": "26",
+    "Losses": "23",
+    "yElo": "1754.2"
+  },
+  {
+    "Rank": "66",
+    "Player": "Reilly Opelka",
+    "Wins": "33",
+    "Losses": "28",
+    "yElo": "1753.6"
+  },
+  {
+    "Rank": "67",
+    "Player": "Michael Zheng",
+    "Wins": "25",
+    "Losses": "8",
+    "yElo": "1752.9"
+  },
+  {
+    "Rank": "68",
+    "Player": "Francisco Comesana",
+    "Wins": "30",
+    "Losses": "28",
+    "yElo": "1750.2"
+  },
+  {
+    "Rank": "69",
+    "Player": "Ignacio Buse",
+    "Wins": "45",
+    "Losses": "27",
+    "yElo": "1746.3"
+  },
+  {
+    "Rank": "70",
+    "Player": "Valentin Royer",
+    "Wins": "61",
+    "Losses": "31",
+    "yElo": "1745.5"
+  },
+  {
+    "Rank": "71",
+    "Player": "Rafael Jodar",
+    "Wins": "37",
+    "Losses": "12",
+    "yElo": "1743.9"
+  },
+  {
+    "Rank": "72",
+    "Player": "Luciano Darderi",
+    "Wins": "38",
+    "Losses": "30",
+    "yElo": "1743.4"
+  },
+  {
+    "Rank": "73",
+    "Player": "Yoshihito Nishioka",
+    "Wins": "26",
+    "Losses": "22",
+    "yElo": "1743.3"
+  },
+  {
+    "Rank": "74",
+    "Player": "Giovanni Mpetshi Perricard",
+    "Wins": "23",
+    "Losses": "26",
+    "yElo": "1741.5"
+  },
+  {
+    "Rank": "75",
+    "Player": "Hugo Gaston",
+    "Wins": "30",
+    "Losses": "31",
+    "yElo": "1741.0"
+  },
+  {
+    "Rank": "76",
+    "Player": "Ethan Quinn",
+    "Wins": "42",
+    "Losses": "28",
+    "yElo": "1740.1"
+  },
+  {
+    "Rank": "77",
+    "Player": "Thanasi Kokkinakis",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1739.8"
+  },
+  {
+    "Rank": "78",
+    "Player": "Alexandre Muller",
+    "Wins": "26",
+    "Losses": "29",
+    "yElo": "1736.2"
+  },
+  {
+    "Rank": "79",
+    "Player": "Jacob Fearnley",
+    "Wins": "32",
+    "Losses": "27",
+    "yElo": "1734.3"
+  },
+  {
+    "Rank": "80",
+    "Player": "Stefanos Tsitsipas",
+    "Wins": "22",
+    "Losses": "18",
+    "yElo": "1733.8"
+  },
+  {
+    "Rank": "81",
+    "Player": "Alexei Popyrin",
+    "Wins": "17",
+    "Losses": "24",
+    "yElo": "1730.4"
+  },
+  {
+    "Rank": "82",
+    "Player": "Pablo Carreno Busta",
+    "Wins": "41",
+    "Losses": "28",
+    "yElo": "1726.7"
+  },
+  {
+    "Rank": "83",
+    "Player": "Jesper De Jong",
+    "Wins": "35",
+    "Losses": "31",
+    "yElo": "1725.6"
+  },
+  {
+    "Rank": "84",
+    "Player": "Miomir Kecmanovic",
+    "Wins": "28",
+    "Losses": "30",
+    "yElo": "1725.0"
+  },
+  {
+    "Rank": "85",
+    "Player": "Pablo Llamas Ruiz",
+    "Wins": "22",
+    "Losses": "14",
+    "yElo": "1722.5"
+  },
+  {
+    "Rank": "86",
+    "Player": "Alex Michelsen",
+    "Wins": "29",
+    "Losses": "27",
+    "yElo": "1722.4"
+  },
+  {
+    "Rank": "87",
+    "Player": "Matteo Arnaldi",
+    "Wins": "23",
+    "Losses": "26",
+    "yElo": "1722.3"
+  },
+  {
+    "Rank": "88",
+    "Player": "Botic Van De Zandschulp",
+    "Wins": "29",
+    "Losses": "32",
+    "yElo": "1717.9"
+  },
+  {
+    "Rank": "89",
+    "Player": "Nikoloz Basilashvili",
+    "Wins": "39",
+    "Losses": "28",
+    "yElo": "1716.3"
+  },
+  {
+    "Rank": "90",
+    "Player": "Alexander Blockx",
+    "Wins": "42",
+    "Losses": "26",
+    "yElo": "1715.3"
+  },
+  {
+    "Rank": "91",
+    "Player": "Roman Andres Burruchaga",
+    "Wins": "53",
+    "Losses": "30",
+    "yElo": "1713.9"
+  },
+  {
+    "Rank": "92",
+    "Player": "Tomas Machac",
+    "Wins": "23",
+    "Losses": "19",
+    "yElo": "1709.6"
+  },
+  {
+    "Rank": "93",
+    "Player": "Damir Dzumhur",
+    "Wins": "38",
+    "Losses": "34",
+    "yElo": "1707.1"
+  },
+  {
+    "Rank": "94",
+    "Player": "Borna Coric",
+    "Wins": "26",
+    "Losses": "13",
+    "yElo": "1705.7"
+  },
+  {
+    "Rank": "95",
+    "Player": "Terence Atmane",
+    "Wins": "34",
+    "Losses": "29",
+    "yElo": "1705.4"
+  },
+  {
+    "Rank": "96",
+    "Player": "Aleksandar Vukic",
+    "Wins": "29",
+    "Losses": "38",
+    "yElo": "1705.0"
+  },
+  {
+    "Rank": "97",
+    "Player": "Marcos Giron",
+    "Wins": "23",
+    "Losses": "28",
+    "yElo": "1703.8"
+  },
+  {
+    "Rank": "98",
+    "Player": "Stan Wawrinka",
+    "Wins": "25",
+    "Losses": "23",
+    "yElo": "1703.2"
+  },
+  {
+    "Rank": "99",
+    "Player": "Zsombor Piros",
+    "Wins": "34",
+    "Losses": "15",
+    "yElo": "1699.5"
+  },
+  {
+    "Rank": "100",
+    "Player": "Gilles Arnaud Bailly",
+    "Wins": "11",
+    "Losses": "5",
+    "yElo": "1693.5"
+  },
+  {
+    "Rank": "101",
+    "Player": "Otto Virtanen",
+    "Wins": "27",
+    "Losses": "24",
+    "yElo": "1692.8"
+  },
+  {
+    "Rank": "102",
+    "Player": "Mariano Navone",
+    "Wins": "38",
+    "Losses": "31",
+    "yElo": "1691.8"
+  },
+  {
+    "Rank": "103",
+    "Player": "Kei Nishikori",
+    "Wins": "15",
+    "Losses": "12",
+    "yElo": "1689.6"
+  },
+  {
+    "Rank": "104",
+    "Player": "Hamad Medjedovic",
+    "Wins": "28",
+    "Losses": "21",
+    "yElo": "1688.3"
+  },
+  {
+    "Rank": "105",
+    "Player": "Martin Landaluce",
+    "Wins": "37",
+    "Losses": "29",
+    "yElo": "1685.9"
+  },
+  {
+    "Rank": "106",
+    "Player": "Mackenzie Mcdonald",
+    "Wins": "40",
+    "Losses": "31",
+    "yElo": "1685.3"
+  },
+  {
+    "Rank": "107",
+    "Player": "Tomas Barrios Vera",
+    "Wins": "52",
+    "Losses": "28",
+    "yElo": "1684.4"
+  },
+  {
+    "Rank": "108",
+    "Player": "Dalibor Svrcina",
+    "Wins": "47",
+    "Losses": "29",
+    "yElo": "1684.0"
+  },
+  {
+    "Rank": "109",
+    "Player": "Liam Broady",
+    "Wins": "5",
+    "Losses": "2",
+    "yElo": "1683.9"
+  },
+  {
+    "Rank": "110",
+    "Player": "Camilo Ugo Carabelli",
+    "Wins": "33",
+    "Losses": "29",
+    "yElo": "1679.1"
+  },
+  {
+    "Rank": "111",
+    "Player": "Arthur Fery",
+    "Wins": "26",
+    "Losses": "12",
+    "yElo": "1678.1"
+  },
+  {
+    "Rank": "112",
+    "Player": "Gael Monfils",
+    "Wins": "18",
+    "Losses": "15",
+    "yElo": "1677.1"
+  },
+  {
+    "Rank": "113",
+    "Player": "Jerome Kym",
+    "Wins": "24",
+    "Losses": "20",
+    "yElo": "1676.6"
+  },
+  {
+    "Rank": "114",
+    "Player": "Alexander Shevchenko",
+    "Wins": "31",
+    "Losses": "34",
+    "yElo": "1676.4"
+  },
+  {
+    "Rank": "115",
+    "Player": "Giulio Zeppieri",
+    "Wins": "35",
+    "Losses": "23",
+    "yElo": "1675.5"
+  },
+  {
+    "Rank": "116",
+    "Player": "Guy Den Ouden",
+    "Wins": "29",
+    "Losses": "13",
+    "yElo": "1675.3"
+  },
+  {
+    "Rank": "117",
+    "Player": "Lloyd Harris",
+    "Wins": "19",
+    "Losses": "18",
+    "yElo": "1673.6"
+  },
+  {
+    "Rank": "118",
+    "Player": "David Goffin",
+    "Wins": "16",
+    "Losses": "26",
+    "yElo": "1672.0"
+  },
+  {
+    "Rank": "119",
+    "Player": "Sho Shimabukuro",
+    "Wins": "34",
+    "Losses": "21",
+    "yElo": "1670.4"
+  },
+  {
+    "Rank": "120",
+    "Player": "Toby Samuel",
+    "Wins": "14",
+    "Losses": "5",
+    "yElo": "1669.2"
+  },
+  {
+    "Rank": "121",
+    "Player": "Mark Lajal",
+    "Wins": "42",
+    "Losses": "25",
+    "yElo": "1668.4"
+  },
+  {
+    "Rank": "122",
+    "Player": "James Duckworth",
+    "Wins": "46",
+    "Losses": "34",
+    "yElo": "1667.7"
+  },
+  {
+    "Rank": "123",
+    "Player": "Jan Choinski",
+    "Wins": "37",
+    "Losses": "27",
+    "yElo": "1666.1"
+  },
+  {
+    "Rank": "124",
+    "Player": "Gustavo Heide",
+    "Wins": "15",
+    "Losses": "10",
+    "yElo": "1665.2"
+  },
+  {
+    "Rank": "125",
+    "Player": "Emilio Nava",
+    "Wins": "54",
+    "Losses": "27",
+    "yElo": "1663.5"
+  },
+  {
+    "Rank": "126",
+    "Player": "Adolfo Daniel Vallejo",
+    "Wins": "34",
+    "Losses": "27",
+    "yElo": "1661.0"
+  },
+  {
+    "Rank": "127",
+    "Player": "Coleman Wong",
+    "Wins": "33",
+    "Losses": "28",
+    "yElo": "1660.1"
+  },
+  {
+    "Rank": "128",
+    "Player": "Mattia Bellucci",
+    "Wins": "24",
+    "Losses": "31",
+    "yElo": "1659.1"
+  },
+  {
+    "Rank": "129",
+    "Player": "Luka Mikrut",
+    "Wins": "27",
+    "Losses": "15",
+    "yElo": "1656.2"
+  },
+  {
+    "Rank": "130",
+    "Player": "Bu Yunchaokete",
+    "Wins": "21",
+    "Losses": "30",
+    "yElo": "1655.8"
+  },
+  {
+    "Rank": "131",
+    "Player": "Kaichi Uchida",
+    "Wins": "15",
+    "Losses": "8",
+    "yElo": "1654.7"
+  },
+  {
+    "Rank": "132",
+    "Player": "Richard Gasquet",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1653.2"
+  },
+  {
+    "Rank": "133",
+    "Player": "Lucas Pouille",
+    "Wins": "5",
+    "Losses": "4",
+    "yElo": "1651.6"
+  },
+  {
+    "Rank": "134",
+    "Player": "Roman Safiullin",
+    "Wins": "13",
+    "Losses": "20",
+    "yElo": "1650.1"
+  },
+  {
+    "Rank": "135",
+    "Player": "Nicolai Budkov Kjaer",
+    "Wins": "41",
+    "Losses": "25",
+    "yElo": "1649.6"
+  },
+  {
+    "Rank": "136",
+    "Player": "Francesco Maestrelli",
+    "Wins": "40",
+    "Losses": "25",
+    "yElo": "1648.2"
+  },
+  {
+    "Rank": "137",
+    "Player": "Juncheng Shang",
+    "Wins": "6",
+    "Losses": "8",
+    "yElo": "1647.8"
+  },
+  {
+    "Rank": "138",
+    "Player": "Alex Molcan",
+    "Wins": "17",
+    "Losses": "8",
+    "yElo": "1647.3"
+  },
+  {
+    "Rank": "139",
+    "Player": "Alex Bolt",
+    "Wins": "31",
+    "Losses": "21",
+    "yElo": "1644.4"
+  },
+  {
+    "Rank": "140",
+    "Player": "Nishesh Basavareddy",
+    "Wins": "26",
+    "Losses": "25",
+    "yElo": "1643.6"
+  },
+  {
+    "Rank": "141",
+    "Player": "Juan Manuel Cerundolo",
+    "Wins": "47",
+    "Losses": "30",
+    "yElo": "1643.0"
+  },
+  {
+    "Rank": "142",
+    "Player": "Jordan Thompson",
+    "Wins": "16",
+    "Losses": "18",
+    "yElo": "1640.8"
+  },
+  {
+    "Rank": "143",
+    "Player": "Vit Kopriva",
+    "Wins": "42",
+    "Losses": "30",
+    "yElo": "1639.1"
+  },
+  {
+    "Rank": "144",
+    "Player": "Chris Rodesch",
+    "Wins": "27",
+    "Losses": "20",
+    "yElo": "1635.8"
+  },
+  {
+    "Rank": "145",
+    "Player": "Elmer Moller",
+    "Wins": "34",
+    "Losses": "26",
+    "yElo": "1634.9"
+  },
+  {
+    "Rank": "146",
+    "Player": "Vilius Gaubas",
+    "Wins": "41",
+    "Losses": "28",
+    "yElo": "1632.3"
+  },
+  {
+    "Rank": "147",
+    "Player": "Marko Topo",
+    "Wins": "18",
+    "Losses": "13",
+    "yElo": "1632.1"
+  },
+  {
+    "Rank": "148",
+    "Player": "Martin Damm",
+    "Wins": "21",
+    "Losses": "12",
+    "yElo": "1631.7"
+  },
+  {
+    "Rank": "149",
+    "Player": "Nicolas Jarry",
+    "Wins": "16",
+    "Losses": "22",
+    "yElo": "1631.6"
+  },
+  {
+    "Rank": "150",
+    "Player": "Alvaro Guillen Meza",
+    "Wins": "39",
+    "Losses": "28",
+    "yElo": "1630.1"
+  },
+  {
+    "Rank": "151",
+    "Player": "Christopher Oconnell",
+    "Wins": "23",
+    "Losses": "28",
+    "yElo": "1625.8"
+  },
+  {
+    "Rank": "152",
+    "Player": "Daniil Glinka",
+    "Wins": "23",
+    "Losses": "13",
+    "yElo": "1624.3"
+  },
+  {
+    "Rank": "153",
+    "Player": "Luca Nardi",
+    "Wins": "28",
+    "Losses": "30",
+    "yElo": "1623.6"
+  },
+  {
+    "Rank": "154",
+    "Player": "Hugo Grenier",
+    "Wins": "39",
+    "Losses": "33",
+    "yElo": "1622.9"
+  },
+  {
+    "Rank": "155",
+    "Player": "Harold Mayot",
+    "Wins": "38",
+    "Losses": "31",
+    "yElo": "1620.0"
+  },
+  {
+    "Rank": "156",
+    "Player": "Filip Misolic",
+    "Wins": "48",
+    "Losses": "26",
+    "yElo": "1619.1"
+  },
+  {
+    "Rank": "157",
+    "Player": "Rinky Hijikata",
+    "Wins": "34",
+    "Losses": "33",
+    "yElo": "1618.7"
+  },
+  {
+    "Rank": "158",
+    "Player": "Marco Trungelliti",
+    "Wins": "47",
+    "Losses": "30",
+    "yElo": "1618.4"
+  },
+  {
+    "Rank": "159",
+    "Player": "Titouan Droguet",
+    "Wins": "40",
+    "Losses": "24",
+    "yElo": "1612.2"
+  },
+  {
+    "Rank": "160",
+    "Player": "Ugo Blanchet",
+    "Wins": "29",
+    "Losses": "27",
+    "yElo": "1612.1"
+  },
+  {
+    "Rank": "161",
+    "Player": "Shintaro Mochizuki",
+    "Wins": "43",
+    "Losses": "30",
+    "yElo": "1611.9"
+  },
+  {
+    "Rank": "162",
+    "Player": "Kyrian Jacquet",
+    "Wins": "33",
+    "Losses": "23",
+    "yElo": "1609.6"
+  },
+  {
+    "Rank": "163",
+    "Player": "Kyle Edmund",
+    "Wins": "4",
+    "Losses": "1",
+    "yElo": "1609.3"
+  },
+  {
+    "Rank": "164",
+    "Player": "Zdenek Kolar",
+    "Wins": "28",
+    "Losses": "19",
+    "yElo": "1606.5"
+  },
+  {
+    "Rank": "165",
+    "Player": "Carlos Taberner",
+    "Wins": "46",
+    "Losses": "28",
+    "yElo": "1605.2"
+  },
+  {
+    "Rank": "166",
+    "Player": "Laslo Djere",
+    "Wins": "25",
+    "Losses": "21",
+    "yElo": "1604.9"
+  },
+  {
+    "Rank": "167",
+    "Player": "Yosuke Watanuki",
+    "Wins": "29",
+    "Losses": "23",
+    "yElo": "1602.7"
+  },
+  {
+    "Rank": "168",
+    "Player": "Yi Zhou",
+    "Wins": "21",
+    "Losses": "21",
+    "yElo": "1600.6"
+  },
+  {
+    "Rank": "169",
+    "Player": "Alexander Vasilev",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1599.8"
+  },
+  {
+    "Rank": "170",
+    "Player": "Dan Added",
+    "Wins": "20",
+    "Losses": "15",
+    "yElo": "1597.9"
+  },
+  {
+    "Rank": "171",
+    "Player": "Francesco Passaro",
+    "Wins": "41",
+    "Losses": "27",
+    "yElo": "1597.0"
+  },
+  {
+    "Rank": "172",
+    "Player": "Luca Van Assche",
+    "Wins": "32",
+    "Losses": "26",
+    "yElo": "1596.0"
+  },
+  {
+    "Rank": "173",
+    "Player": "Rei Sakamoto",
+    "Wins": "25",
+    "Losses": "23",
+    "yElo": "1595.3"
+  },
+  {
+    "Rank": "174",
+    "Player": "Justin Engel",
+    "Wins": "21",
+    "Losses": "26",
+    "yElo": "1593.6"
+  },
+  {
+    "Rank": "175",
+    "Player": "Adam Walton",
+    "Wins": "36",
+    "Losses": "34",
+    "yElo": "1593.5"
+  },
+  {
+    "Rank": "176",
+    "Player": "Sebastian Ofner",
+    "Wins": "20",
+    "Losses": "19",
+    "yElo": "1591.2"
+  },
+  {
+    "Rank": "177",
+    "Player": "Cedrik Marcel Stebe",
+    "Wins": "16",
+    "Losses": "9",
+    "yElo": "1588.4"
+  },
+  {
+    "Rank": "178",
+    "Player": "Trevor Svajda",
+    "Wins": "10",
+    "Losses": "7",
+    "yElo": "1587.2"
+  },
+  {
+    "Rank": "179",
+    "Player": "Stefano Travaglia",
+    "Wins": "28",
+    "Losses": "19",
+    "yElo": "1586.0"
+  },
+  {
+    "Rank": "180",
+    "Player": "Jay Dylan Hara Friend",
+    "Wins": "8",
+    "Losses": "5",
+    "yElo": "1585.4"
+  },
+  {
+    "Rank": "181",
+    "Player": "Sumit Nagal",
+    "Wins": "25",
+    "Losses": "26",
+    "yElo": "1582.2"
+  },
+  {
+    "Rank": "182",
+    "Player": "Daniel Evans",
+    "Wins": "20",
+    "Losses": "23",
+    "yElo": "1582.0"
+  },
+  {
+    "Rank": "183",
+    "Player": "Nicolas Moreno De Alboran",
+    "Wins": "4",
+    "Losses": "6",
+    "yElo": "1580.7"
+  },
+  {
+    "Rank": "184",
+    "Player": "Andrea Vavassori",
+    "Wins": "8",
+    "Losses": "6",
+    "yElo": "1579.8"
+  },
+  {
+    "Rank": "185",
+    "Player": "Dhakshineswar Suresh",
+    "Wins": "8",
+    "Losses": "5",
+    "yElo": "1577.1"
+  },
+  {
+    "Rank": "186",
+    "Player": "Henri Squire",
+    "Wins": "22",
+    "Losses": "26",
+    "yElo": "1576.4"
+  },
+  {
+    "Rank": "187",
+    "Player": "Sebastian Baez",
+    "Wins": "20",
+    "Losses": "27",
+    "yElo": "1576.3"
+  },
+  {
+    "Rank": "188",
+    "Player": "Henrique Rocha",
+    "Wins": "34",
+    "Losses": "29",
+    "yElo": "1575.7"
+  },
+  {
+    "Rank": "189",
+    "Player": "Daniel Merida Aguilar",
+    "Wins": "30",
+    "Losses": "21",
+    "yElo": "1575.3"
+  },
+  {
+    "Rank": "190",
+    "Player": "Dusan Lajovic",
+    "Wins": "36",
+    "Losses": "33",
+    "yElo": "1574.8"
+  },
+  {
+    "Rank": "191",
+    "Player": "Aleksandar Kovacevic",
+    "Wins": "34",
+    "Losses": "33",
+    "yElo": "1569.4"
+  },
+  {
+    "Rank": "192",
+    "Player": "Dane Sweeny",
+    "Wins": "11",
+    "Losses": "7",
+    "yElo": "1569.2"
+  },
+  {
+    "Rank": "193",
+    "Player": "Akira Santillan",
+    "Wins": "5",
+    "Losses": "2",
+    "yElo": "1566.5"
+  },
+  {
+    "Rank": "194",
+    "Player": "Stefan Kozlov",
+    "Wins": "15",
+    "Losses": "10",
+    "yElo": "1565.6"
+  },
+  {
+    "Rank": "195",
+    "Player": "Roberto Carballes Baena",
+    "Wins": "19",
+    "Losses": "24",
+    "yElo": "1565.2"
+  },
+  {
+    "Rank": "196",
+    "Player": "Jurij Rodionov",
+    "Wins": "41",
+    "Losses": "30",
+    "yElo": "1564.1"
+  },
+  {
+    "Rank": "197",
+    "Player": "August Holmgren",
+    "Wins": "22",
+    "Losses": "23",
+    "yElo": "1563.5"
+  },
+  {
+    "Rank": "198",
+    "Player": "Jack Pinnington Jones",
+    "Wins": "20",
+    "Losses": "13",
+    "yElo": "1562.8"
+  },
+  {
+    "Rank": "199",
+    "Player": "Zhizhen Zhang",
+    "Wins": "5",
+    "Losses": "12",
+    "yElo": "1562.2"
+  },
+  {
+    "Rank": "200",
+    "Player": "Dominik Koepfer",
+    "Wins": "7",
+    "Losses": "6",
+    "yElo": "1561.7"
+  },
+  {
+    "Rank": "201",
+    "Player": "Matteo Gigante",
+    "Wins": "25",
+    "Losses": "22",
+    "yElo": "1560.7"
+  },
+  {
+    "Rank": "202",
+    "Player": "Colton Smith",
+    "Wins": "30",
+    "Losses": "19",
+    "yElo": "1559.8"
+  },
+  {
+    "Rank": "203",
+    "Player": "Thiago Agustin Tirante",
+    "Wins": "48",
+    "Losses": "33",
+    "yElo": "1558.9"
+  },
+  {
+    "Rank": "204",
+    "Player": "Alejandro Moro Canas",
+    "Wins": "30",
+    "Losses": "29",
+    "yElo": "1558.7"
+  },
+  {
+    "Rank": "205",
+    "Player": "Jay Clarke",
+    "Wins": "29",
+    "Losses": "23",
+    "yElo": "1556.9"
+  },
+  {
+    "Rank": "206",
+    "Player": "Moez Echargui",
+    "Wins": "24",
+    "Losses": "12",
+    "yElo": "1556.6"
+  },
+  {
+    "Rank": "207",
+    "Player": "Chun Hsin Tseng",
+    "Wins": "32",
+    "Losses": "34",
+    "yElo": "1555.5"
+  },
+  {
+    "Rank": "208",
+    "Player": "Gianluca Cadenasso",
+    "Wins": "8",
+    "Losses": "4",
+    "yElo": "1555.5"
+  },
+  {
+    "Rank": "209",
+    "Player": "Jason Kubler",
+    "Wins": "20",
+    "Losses": "14",
+    "yElo": "1555.3"
+  },
+  {
+    "Rank": "210",
+    "Player": "Duncan Chan",
+    "Wins": "4",
+    "Losses": "2",
+    "yElo": "1553.1"
+  },
+  {
+    "Rank": "211",
+    "Player": "Federico Agustin Gomez",
+    "Wins": "27",
+    "Losses": "30",
+    "yElo": "1552.4"
+  },
+  {
+    "Rank": "212",
+    "Player": "Tristan Schoolkate",
+    "Wins": "44",
+    "Losses": "36",
+    "yElo": "1549.0"
+  },
+  {
+    "Rank": "213",
+    "Player": "Juan Carlos Prado Angelo",
+    "Wins": "33",
+    "Losses": "26",
+    "yElo": "1547.6"
+  },
+  {
+    "Rank": "214",
+    "Player": "Bernard Tomic",
+    "Wins": "40",
+    "Losses": "33",
+    "yElo": "1547.3"
+  },
+  {
+    "Rank": "215",
+    "Player": "Sandro Kopp",
+    "Wins": "12",
+    "Losses": "7",
+    "yElo": "1547.2"
+  },
+  {
+    "Rank": "216",
+    "Player": "Mitchell Krueger",
+    "Wins": "29",
+    "Losses": "31",
+    "yElo": "1547.1"
+  },
+  {
+    "Rank": "217",
+    "Player": "J J Wolf",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1546.8"
+  },
+  {
+    "Rank": "218",
+    "Player": "Gonzalo Bueno",
+    "Wins": "40",
+    "Losses": "30",
+    "yElo": "1546.3"
+  },
+  {
+    "Rank": "219",
+    "Player": "Vitaliy Sachko",
+    "Wins": "25",
+    "Losses": "29",
+    "yElo": "1545.0"
+  },
+  {
+    "Rank": "220",
+    "Player": "Stefanos Sakellaridis",
+    "Wins": "17",
+    "Losses": "11",
+    "yElo": "1543.4"
+  },
+  {
+    "Rank": "221",
+    "Player": "Daniel Elahi Galan",
+    "Wins": "32",
+    "Losses": "27",
+    "yElo": "1543.3"
+  },
+  {
+    "Rank": "222",
+    "Player": "George Loffhagen",
+    "Wins": "18",
+    "Losses": "11",
+    "yElo": "1542.3"
+  },
+  {
+    "Rank": "223",
+    "Player": "Matej Dodig",
+    "Wins": "22",
+    "Losses": "23",
+    "yElo": "1541.9"
+  },
+  {
+    "Rank": "224",
+    "Player": "Matisse Bobichon",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1540.0"
+  },
+  {
+    "Rank": "225",
+    "Player": "Gabriel Ghetu",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1537.2"
+  },
+  {
+    "Rank": "226",
+    "Player": "Alex Barrena",
+    "Wins": "32",
+    "Losses": "16",
+    "yElo": "1534.5"
+  },
+  {
+    "Rank": "227",
+    "Player": "Nicolas Mejia",
+    "Wins": "36",
+    "Losses": "32",
+    "yElo": "1533.7"
+  },
+  {
+    "Rank": "228",
+    "Player": "Lukas Klein",
+    "Wins": "30",
+    "Losses": "26",
+    "yElo": "1533.4"
+  },
+  {
+    "Rank": "229",
+    "Player": "Ryan Peniston",
+    "Wins": "20",
+    "Losses": "16",
+    "yElo": "1533.1"
+  },
+  {
+    "Rank": "230",
+    "Player": "Felipe Meligeni Alves",
+    "Wins": "17",
+    "Losses": "13",
+    "yElo": "1532.1"
+  },
+  {
+    "Rank": "231",
+    "Player": "Liam Draxl",
+    "Wins": "48",
+    "Losses": "29",
+    "yElo": "1531.8"
+  },
+  {
+    "Rank": "232",
+    "Player": "Mert Alkaya",
+    "Wins": "6",
+    "Losses": "3",
+    "yElo": "1531.7"
+  },
+  {
+    "Rank": "233",
+    "Player": "Carlos Lopez Montagud",
+    "Wins": "4",
+    "Losses": "3",
+    "yElo": "1531.6"
+  },
+  {
+    "Rank": "234",
+    "Player": "Hayato Matsuoka",
+    "Wins": "7",
+    "Losses": "4",
+    "yElo": "1529.8"
+  },
+  {
+    "Rank": "235",
+    "Player": "Mikhail Kukushkin",
+    "Wins": "20",
+    "Losses": "24",
+    "yElo": "1529.4"
+  },
+  {
+    "Rank": "236",
+    "Player": "Facundo Diaz Acosta",
+    "Wins": "23",
+    "Losses": "22",
+    "yElo": "1529.2"
+  },
+  {
+    "Rank": "237",
+    "Player": "Marco Cecchinato",
+    "Wins": "26",
+    "Losses": "23",
+    "yElo": "1527.8"
+  },
+  {
+    "Rank": "238",
+    "Player": "Luka Pavlovic",
+    "Wins": "26",
+    "Losses": "20",
+    "yElo": "1527.3"
+  },
+  {
+    "Rank": "239",
+    "Player": "Oliver Tarvet",
+    "Wins": "9",
+    "Losses": "8",
+    "yElo": "1526.2"
+  },
+  {
+    "Rank": "240",
+    "Player": "Joel Schwaerzler",
+    "Wins": "21",
+    "Losses": "21",
+    "yElo": "1525.8"
+  },
+  {
+    "Rank": "241",
+    "Player": "Michael Geerts",
+    "Wins": "23",
+    "Losses": "23",
+    "yElo": "1524.6"
+  },
+  {
+    "Rank": "242",
+    "Player": "Duje Ajdukovic",
+    "Wins": "21",
+    "Losses": "25",
+    "yElo": "1523.1"
+  },
+  {
+    "Rank": "243",
+    "Player": "Yu Hsiou Hsu",
+    "Wins": "32",
+    "Losses": "24",
+    "yElo": "1522.6"
+  },
+  {
+    "Rank": "244",
+    "Player": "Quentin Halys",
+    "Wins": "19",
+    "Losses": "31",
+    "yElo": "1519.1"
+  },
+  {
+    "Rank": "245",
+    "Player": "Clement Tabur",
+    "Wins": "20",
+    "Losses": "19",
+    "yElo": "1519.0"
+  },
+  {
+    "Rank": "246",
+    "Player": "Petr Brunclik",
+    "Wins": "17",
+    "Losses": "13",
+    "yElo": "1518.9"
+  },
+  {
+    "Rank": "247",
+    "Player": "Carl Emil Overbeck",
+    "Wins": "5",
+    "Losses": "3",
+    "yElo": "1518.6"
+  },
+  {
+    "Rank": "248",
+    "Player": "Juan Pablo Varillas",
+    "Wins": "25",
+    "Losses": "17",
+    "yElo": "1518.3"
+  },
+  {
+    "Rank": "249",
+    "Player": "Federico Coria",
+    "Wins": "20",
+    "Losses": "18",
+    "yElo": "1517.9"
+  },
+  {
+    "Rank": "250",
+    "Player": "Frederico Ferreira Silva",
+    "Wins": "26",
+    "Losses": "22",
+    "yElo": "1515.8"
+  },
+  {
+    "Rank": "251",
+    "Player": "Albert Ramos",
+    "Wins": "10",
+    "Losses": "16",
+    "yElo": "1511.4"
+  },
+  {
+    "Rank": "252",
+    "Player": "Stefano Napolitano",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1510.7"
+  },
+  {
+    "Rank": "253",
+    "Player": "Ilia Simakin",
+    "Wins": "25",
+    "Losses": "17",
+    "yElo": "1510.7"
+  },
+  {
+    "Rank": "254",
+    "Player": "Lorenzo Giustino",
+    "Wins": "15",
+    "Losses": "19",
+    "yElo": "1510.2"
+  },
+  {
+    "Rank": "255",
+    "Player": "Remy Bertola",
+    "Wins": "12",
+    "Losses": "19",
+    "yElo": "1509.3"
+  },
+  {
+    "Rank": "256",
+    "Player": "Alexis Galarneau",
+    "Wins": "33",
+    "Losses": "32",
+    "yElo": "1508.2"
+  },
+  {
+    "Rank": "257",
+    "Player": "Hugo Dellien",
+    "Wins": "29",
+    "Losses": "25",
+    "yElo": "1508.1"
+  },
+  {
+    "Rank": "258",
+    "Player": "Kenta Miyoshi",
+    "Wins": "6",
+    "Losses": "5",
+    "yElo": "1507.2"
+  },
+  {
+    "Rank": "259",
+    "Player": "Franco Agamenone",
+    "Wins": "13",
+    "Losses": "9",
+    "yElo": "1507.0"
+  },
+  {
+    "Rank": "260",
+    "Player": "Billy Harris",
+    "Wins": "41",
+    "Losses": "44",
+    "yElo": "1506.7"
+  },
+  {
+    "Rank": "261",
+    "Player": "Pierre Hugues Herbert",
+    "Wins": "27",
+    "Losses": "26",
+    "yElo": "1504.3"
+  },
+  {
+    "Rank": "262",
+    "Player": "Andrea Pellegrino",
+    "Wins": "29",
+    "Losses": "23",
+    "yElo": "1504.2"
+  },
+  {
+    "Rank": "263",
+    "Player": "Facundo Bagnis",
+    "Wins": "12",
+    "Losses": "12",
+    "yElo": "1504.1"
+  },
+  {
+    "Rank": "264",
+    "Player": "Abedallah Shelbayh",
+    "Wins": "21",
+    "Losses": "24",
+    "yElo": "1503.7"
+  },
+  {
+    "Rank": "265",
+    "Player": "Beibit Zhukayev",
+    "Wins": "21",
+    "Losses": "28",
+    "yElo": "1501.8"
+  },
+  {
+    "Rank": "266",
+    "Player": "Brandon Holt",
+    "Wins": "43",
+    "Losses": "29",
+    "yElo": "1501.6"
+  },
+  {
+    "Rank": "267",
+    "Player": "Clement Chidekh",
+    "Wins": "22",
+    "Losses": "24",
+    "yElo": "1500.6"
+  },
+  {
+    "Rank": "268",
+    "Player": "Zach Stephens",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1500.3"
+  },
+  {
+    "Rank": "269",
+    "Player": "Alberto Barroso Campos",
+    "Wins": "4",
+    "Losses": "3",
+    "yElo": "1499.5"
+  },
+  {
+    "Rank": "270",
+    "Player": "Shintaro Imai",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1499.2"
+  },
+  {
+    "Rank": "271",
+    "Player": "Elias Ymer",
+    "Wins": "31",
+    "Losses": "28",
+    "yElo": "1498.7"
+  },
+  {
+    "Rank": "272",
+    "Player": "Pedro Martinez",
+    "Wins": "16",
+    "Losses": "34",
+    "yElo": "1498.5"
+  },
+  {
+    "Rank": "273",
+    "Player": "Aslan Karatsev",
+    "Wins": "15",
+    "Losses": "10",
+    "yElo": "1497.5"
+  },
+  {
+    "Rank": "274",
+    "Player": "Andrej Martin",
+    "Wins": "12",
+    "Losses": "12",
+    "yElo": "1496.9"
+  },
+  {
+    "Rank": "275",
+    "Player": "Murphy Cassone",
+    "Wins": "34",
+    "Losses": "31",
+    "yElo": "1496.6"
+  },
+  {
+    "Rank": "276",
+    "Player": "James Mccabe",
+    "Wins": "32",
+    "Losses": "35",
+    "yElo": "1496.6"
+  },
+  {
+    "Rank": "277",
+    "Player": "Bor Artnak",
+    "Wins": "4",
+    "Losses": "2",
+    "yElo": "1495.8"
+  },
+  {
+    "Rank": "278",
+    "Player": "Olukayode Alafia Damina Ayeni",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1494.5"
+  },
+  {
+    "Rank": "279",
+    "Player": "Harry Wendelken",
+    "Wins": "10",
+    "Losses": "8",
+    "yElo": "1494.4"
+  },
+  {
+    "Rank": "280",
+    "Player": "Tom Paris",
+    "Wins": "14",
+    "Losses": "15",
+    "yElo": "1493.9"
+  },
+  {
+    "Rank": "281",
+    "Player": "Alexander Ritschard",
+    "Wins": "13",
+    "Losses": "14",
+    "yElo": "1492.6"
+  },
+  {
+    "Rank": "282",
+    "Player": "Borna Gojo",
+    "Wins": "13",
+    "Losses": "17",
+    "yElo": "1490.7"
+  },
+  {
+    "Rank": "283",
+    "Player": "Dominic Stricker",
+    "Wins": "9",
+    "Losses": "18",
+    "yElo": "1490.3"
+  },
+  {
+    "Rank": "284",
+    "Player": "Johannus Monday",
+    "Wins": "23",
+    "Losses": "26",
+    "yElo": "1490.2"
+  },
+  {
+    "Rank": "285",
+    "Player": "Federico Cina",
+    "Wins": "27",
+    "Losses": "21",
+    "yElo": "1489.6"
+  },
+  {
+    "Rank": "286",
+    "Player": "Henry Bernet",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1489.6"
+  },
+  {
+    "Rank": "287",
+    "Player": "Dinko Dinev",
+    "Wins": "4",
+    "Losses": "2",
+    "yElo": "1489.2"
+  },
+  {
+    "Rank": "288",
+    "Player": "Kimmer Coppejans",
+    "Wins": "25",
+    "Losses": "25",
+    "yElo": "1488.8"
+  },
+  {
+    "Rank": "289",
+    "Player": "Igor Ribeiro Marcondes",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1488.8"
+  },
+  {
+    "Rank": "290",
+    "Player": "Inaki Montes De La Torre",
+    "Wins": "11",
+    "Losses": "13",
+    "yElo": "1486.8"
+  },
+  {
+    "Rank": "291",
+    "Player": "Johan Alexander Rodriguez Rodriguez",
+    "Wins": "4",
+    "Losses": "3",
+    "yElo": "1486.7"
+  },
+  {
+    "Rank": "292",
+    "Player": "Pedro Rodrigues",
+    "Wins": "4",
+    "Losses": "2",
+    "yElo": "1484.9"
+  },
+  {
+    "Rank": "293",
+    "Player": "Daniel Rincon",
+    "Wins": "28",
+    "Losses": "26",
+    "yElo": "1484.6"
+  },
+  {
+    "Rank": "294",
+    "Player": "Nerman Fatic",
+    "Wins": "18",
+    "Losses": "14",
+    "yElo": "1482.8"
+  },
+  {
+    "Rank": "295",
+    "Player": "Hamish Stewart",
+    "Wins": "8",
+    "Losses": "7",
+    "yElo": "1482.3"
+  },
+  {
+    "Rank": "296",
+    "Player": "Darwin Blanch",
+    "Wins": "14",
+    "Losses": "14",
+    "yElo": "1480.6"
+  },
+  {
+    "Rank": "297",
+    "Player": "Ilya Snitari",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1477.7"
+  },
+  {
+    "Rank": "298",
+    "Player": "Norbert Gombos",
+    "Wins": "19",
+    "Losses": "16",
+    "yElo": "1477.5"
+  },
+  {
+    "Rank": "299",
+    "Player": "Lukas Neumayer",
+    "Wins": "33",
+    "Losses": "30",
+    "yElo": "1476.6"
+  },
+  {
+    "Rank": "300",
+    "Player": "Anton Matusevich",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1475.7"
+  },
+  {
+    "Rank": "301",
+    "Player": "Thiago Monteiro",
+    "Wins": "26",
+    "Losses": "30",
+    "yElo": "1475.0"
+  },
+  {
+    "Rank": "302",
+    "Player": "Gabriel Debru",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1474.4"
+  },
+  {
+    "Rank": "303",
+    "Player": "Martin Klizan",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1474.3"
+  },
+  {
+    "Rank": "304",
+    "Player": "Andrew Paulson",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1473.7"
+  },
+  {
+    "Rank": "305",
+    "Player": "Li Tu",
+    "Wins": "14",
+    "Losses": "22",
+    "yElo": "1472.5"
+  },
+  {
+    "Rank": "306",
+    "Player": "Kilian Feldbausch",
+    "Wins": "10",
+    "Losses": "13",
+    "yElo": "1472.4"
+  },
+  {
+    "Rank": "307",
+    "Player": "Mats Rosenkranz",
+    "Wins": "15",
+    "Losses": "16",
+    "yElo": "1471.9"
+  },
+  {
+    "Rank": "308",
+    "Player": "Juan Sebastian Gomez",
+    "Wins": "5",
+    "Losses": "3",
+    "yElo": "1470.8"
+  },
+  {
+    "Rank": "309",
+    "Player": "Radu Mihai Papoe",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1470.8"
+  },
+  {
+    "Rank": "310",
+    "Player": "Mae Malige",
+    "Wins": "7",
+    "Losses": "8",
+    "yElo": "1470.8"
+  },
+  {
+    "Rank": "311",
+    "Player": "James Trotter",
+    "Wins": "23",
+    "Losses": "26",
+    "yElo": "1470.5"
+  },
+  {
+    "Rank": "312",
+    "Player": "Tom Gentzsch",
+    "Wins": "8",
+    "Losses": "9",
+    "yElo": "1470.3"
+  },
+  {
+    "Rank": "313",
+    "Player": "Eliakim Coulibaly",
+    "Wins": "22",
+    "Losses": "17",
+    "yElo": "1469.9"
+  },
+  {
+    "Rank": "314",
+    "Player": "Martin Krumich",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1469.8"
+  },
+  {
+    "Rank": "315",
+    "Player": "Andrea Collarini",
+    "Wins": "31",
+    "Losses": "31",
+    "yElo": "1469.6"
+  },
+  {
+    "Rank": "316",
+    "Player": "Antoine Ghibaudo",
+    "Wins": "14",
+    "Losses": "11",
+    "yElo": "1469.2"
+  },
+  {
+    "Rank": "317",
+    "Player": "Andrej Nedic",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1469.1"
+  },
+  {
+    "Rank": "318",
+    "Player": "Alibek Kachmazov",
+    "Wins": "16",
+    "Losses": "19",
+    "yElo": "1469.0"
+  },
+  {
+    "Rank": "319",
+    "Player": "Hynek Barton",
+    "Wins": "17",
+    "Losses": "20",
+    "yElo": "1467.9"
+  },
+  {
+    "Rank": "320",
+    "Player": "Edas Butvilas",
+    "Wins": "26",
+    "Losses": "29",
+    "yElo": "1467.5"
+  },
+  {
+    "Rank": "321",
+    "Player": "Emil Ruusuvuori",
+    "Wins": "11",
+    "Losses": "16",
+    "yElo": "1467.2"
+  },
+  {
+    "Rank": "322",
+    "Player": "Gastao Elias",
+    "Wins": "5",
+    "Losses": "9",
+    "yElo": "1466.7"
+  },
+  {
+    "Rank": "323",
+    "Player": "Constant Lestienne",
+    "Wins": "14",
+    "Losses": "17",
+    "yElo": "1466.2"
+  },
+  {
+    "Rank": "324",
+    "Player": "Genaro Alberto Olivieri",
+    "Wins": "29",
+    "Losses": "28",
+    "yElo": "1465.0"
+  },
+  {
+    "Rank": "325",
+    "Player": "Sergio Callejon Hernando",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1464.6"
+  },
+  {
+    "Rank": "326",
+    "Player": "Jacopo Vasami",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1463.1"
+  },
+  {
+    "Rank": "327",
+    "Player": "Michael Mmoh",
+    "Wins": "17",
+    "Losses": "16",
+    "yElo": "1461.8"
+  },
+  {
+    "Rank": "328",
+    "Player": "Manuel Guinard",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1460.2"
+  },
+  {
+    "Rank": "329",
+    "Player": "Marat Sharipov",
+    "Wins": "14",
+    "Losses": "15",
+    "yElo": "1460.2"
+  },
+  {
+    "Rank": "330",
+    "Player": "Lautaro Midon",
+    "Wins": "25",
+    "Losses": "21",
+    "yElo": "1457.8"
+  },
+  {
+    "Rank": "331",
+    "Player": "Javier Barranco Cosano",
+    "Wins": "12",
+    "Losses": "14",
+    "yElo": "1456.3"
+  },
+  {
+    "Rank": "332",
+    "Player": "Calvin Hemery",
+    "Wins": "26",
+    "Losses": "31",
+    "yElo": "1456.0"
+  },
+  {
+    "Rank": "333",
+    "Player": "Tai Sach",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1455.5"
+  },
+  {
+    "Rank": "334",
+    "Player": "Tristan Boyer",
+    "Wins": "20",
+    "Losses": "32",
+    "yElo": "1452.9"
+  },
+  {
+    "Rank": "335",
+    "Player": "Elmar Ejupovic",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1452.6"
+  },
+  {
+    "Rank": "336",
+    "Player": "Oliver Crawford",
+    "Wins": "24",
+    "Losses": "18",
+    "yElo": "1452.5"
+  },
+  {
+    "Rank": "337",
+    "Player": "Oriol Roca Batalla",
+    "Wins": "9",
+    "Losses": "15",
+    "yElo": "1452.4"
+  },
+  {
+    "Rank": "338",
+    "Player": "Jakub Paul",
+    "Wins": "13",
+    "Losses": "14",
+    "yElo": "1452.4"
+  },
+  {
+    "Rank": "339",
+    "Player": "Laurent Lokoli",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1452.2"
+  },
+  {
+    "Rank": "340",
+    "Player": "Maximilian Marterer",
+    "Wins": "4",
+    "Losses": "6",
+    "yElo": "1452.2"
+  },
+  {
+    "Rank": "341",
+    "Player": "Adria Soriano Barrera",
+    "Wins": "8",
+    "Losses": "10",
+    "yElo": "1451.5"
+  },
+  {
+    "Rank": "342",
+    "Player": "Milos Karol",
+    "Wins": "10",
+    "Losses": "13",
+    "yElo": "1450.5"
+  },
+  {
+    "Rank": "343",
+    "Player": "Buvaysar Gadamauri",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1449.6"
+  },
+  {
+    "Rank": "344",
+    "Player": "Mili Poljicak",
+    "Wins": "15",
+    "Losses": "18",
+    "yElo": "1448.5"
+  },
+  {
+    "Rank": "345",
+    "Player": "Arthur Bouquier",
+    "Wins": "15",
+    "Losses": "13",
+    "yElo": "1448.3"
+  },
+  {
+    "Rank": "346",
+    "Player": "Eduardo Ribeiro",
+    "Wins": "7",
+    "Losses": "6",
+    "yElo": "1448.3"
+  },
+  {
+    "Rank": "347",
+    "Player": "Jaime Faria",
+    "Wins": "23",
+    "Losses": "29",
+    "yElo": "1447.1"
+  },
+  {
+    "Rank": "348",
+    "Player": "Joao Lucas Reis Da Silva",
+    "Wins": "33",
+    "Losses": "30",
+    "yElo": "1446.2"
+  },
+  {
+    "Rank": "349",
+    "Player": "Stefan Dostanic",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1445.5"
+  },
+  {
+    "Rank": "350",
+    "Player": "David Jorda Sanchis",
+    "Wins": "10",
+    "Losses": "9",
+    "yElo": "1445.3"
+  },
+  {
+    "Rank": "351",
+    "Player": "Maxim Mrva",
+    "Wins": "17",
+    "Losses": "18",
+    "yElo": "1444.4"
+  },
+  {
+    "Rank": "352",
+    "Player": "Stuart Parker",
+    "Wins": "10",
+    "Losses": "9",
+    "yElo": "1444.3"
+  },
+  {
+    "Rank": "353",
+    "Player": "Sascha Gueymard Wayenburg",
+    "Wins": "22",
+    "Losses": "29",
+    "yElo": "1444.2"
+  },
+  {
+    "Rank": "354",
+    "Player": "Tibo Colson",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1444.1"
+  },
+  {
+    "Rank": "355",
+    "Player": "Maks Kasnikowski",
+    "Wins": "7",
+    "Losses": "9",
+    "yElo": "1443.8"
+  },
+  {
+    "Rank": "356",
+    "Player": "Timofey Skatov",
+    "Wins": "27",
+    "Losses": "31",
+    "yElo": "1443.5"
+  },
+  {
+    "Rank": "357",
+    "Player": "Gauthier Onclin",
+    "Wins": "21",
+    "Losses": "28",
+    "yElo": "1443.1"
+  },
+  {
+    "Rank": "358",
+    "Player": "Gabriele Piraino",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1440.8"
+  },
+  {
+    "Rank": "359",
+    "Player": "Facundo Mena",
+    "Wins": "18",
+    "Losses": "24",
+    "yElo": "1440.4"
+  },
+  {
+    "Rank": "360",
+    "Player": "Samir Banerjee",
+    "Wins": "8",
+    "Losses": "7",
+    "yElo": "1440.3"
+  },
+  {
+    "Rank": "361",
+    "Player": "Joshua Sheehy",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1438.2"
+  },
+  {
+    "Rank": "362",
+    "Player": "Yasutaka Uchiyama",
+    "Wins": "18",
+    "Losses": "27",
+    "yElo": "1437.9"
+  },
+  {
+    "Rank": "363",
+    "Player": "Karue Sell",
+    "Wins": "10",
+    "Losses": "15",
+    "yElo": "1436.3"
+  },
+  {
+    "Rank": "364",
+    "Player": "Andre Ilagan",
+    "Wins": "19",
+    "Losses": "21",
+    "yElo": "1436.0"
+  },
+  {
+    "Rank": "365",
+    "Player": "Filip Peliwo",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1435.6"
+  },
+  {
+    "Rank": "366",
+    "Player": "Murkel Alejandro Dellien Velasco",
+    "Wins": "30",
+    "Losses": "33",
+    "yElo": "1435.4"
+  },
+  {
+    "Rank": "367",
+    "Player": "Marc Andrea Huesler",
+    "Wins": "23",
+    "Losses": "26",
+    "yElo": "1432.1"
+  },
+  {
+    "Rank": "368",
+    "Player": "Lilian Marmousez",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1431.9"
+  },
+  {
+    "Rank": "369",
+    "Player": "Oleg Prihodko",
+    "Wins": "10",
+    "Losses": "18",
+    "yElo": "1431.6"
+  },
+  {
+    "Rank": "370",
+    "Player": "Juan Manuel La Serna",
+    "Wins": "6",
+    "Losses": "5",
+    "yElo": "1431.3"
+  },
+  {
+    "Rank": "371",
+    "Player": "Max Hans Rehberg",
+    "Wins": "8",
+    "Losses": "9",
+    "yElo": "1431.3"
+  },
+  {
+    "Rank": "372",
+    "Player": "Dennis Novak",
+    "Wins": "8",
+    "Losses": "7",
+    "yElo": "1430.8"
+  },
+  {
+    "Rank": "373",
+    "Player": "Dimitar Kuzmanov",
+    "Wins": "30",
+    "Losses": "27",
+    "yElo": "1430.4"
+  },
+  {
+    "Rank": "374",
+    "Player": "Fajing Sun",
+    "Wins": "15",
+    "Losses": "19",
+    "yElo": "1430.0"
+  },
+  {
+    "Rank": "375",
+    "Player": "Gianluca Mager",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1429.8"
+  },
+  {
+    "Rank": "376",
+    "Player": "Pavel Kotov",
+    "Wins": "9",
+    "Losses": "21",
+    "yElo": "1429.7"
+  },
+  {
+    "Rank": "377",
+    "Player": "Pedro Boscardin Dias",
+    "Wins": "18",
+    "Losses": "19",
+    "yElo": "1429.4"
+  },
+  {
+    "Rank": "378",
+    "Player": "Nicolas Kicker",
+    "Wins": "21",
+    "Losses": "21",
+    "yElo": "1429.1"
+  },
+  {
+    "Rank": "379",
+    "Player": "Philip Henning",
+    "Wins": "9",
+    "Losses": "8",
+    "yElo": "1428.9"
+  },
+  {
+    "Rank": "380",
+    "Player": "Ioannis Xilas",
+    "Wins": "7",
+    "Losses": "6",
+    "yElo": "1428.9"
+  },
+  {
+    "Rank": "381",
+    "Player": "Christopher Eubanks",
+    "Wins": "17",
+    "Losses": "29",
+    "yElo": "1428.6"
+  },
+  {
+    "Rank": "382",
+    "Player": "Mika Brunold",
+    "Wins": "19",
+    "Losses": "21",
+    "yElo": "1428.1"
+  },
+  {
+    "Rank": "383",
+    "Player": "Edward Winter",
+    "Wins": "8",
+    "Losses": "8",
+    "yElo": "1427.3"
+  },
+  {
+    "Rank": "384",
+    "Player": "Daniel Masur",
+    "Wins": "7",
+    "Losses": "11",
+    "yElo": "1426.8"
+  },
+  {
+    "Rank": "385",
+    "Player": "Jan Kumstat",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1424.5"
+  },
+  {
+    "Rank": "386",
+    "Player": "Enzo Couacaud",
+    "Wins": "7",
+    "Losses": "10",
+    "yElo": "1424.4"
+  },
+  {
+    "Rank": "387",
+    "Player": "Ricardas Berankis",
+    "Wins": "12",
+    "Losses": "11",
+    "yElo": "1423.7"
+  },
+  {
+    "Rank": "388",
+    "Player": "Juan Bautista Torres",
+    "Wins": "18",
+    "Losses": "28",
+    "yElo": "1423.2"
+  },
+  {
+    "Rank": "389",
+    "Player": "Rio Noguchi",
+    "Wins": "29",
+    "Losses": "28",
+    "yElo": "1422.2"
+  },
+  {
+    "Rank": "390",
+    "Player": "Hernan Casanova",
+    "Wins": "11",
+    "Losses": "11",
+    "yElo": "1421.7"
+  },
+  {
+    "Rank": "391",
+    "Player": "Mathys Erhard",
+    "Wins": "23",
+    "Losses": "22",
+    "yElo": "1420.3"
+  },
+  {
+    "Rank": "392",
+    "Player": "Charlie Robertson",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1417.1"
+  },
+  {
+    "Rank": "393",
+    "Player": "Carlo Alberto Caniato",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1416.3"
+  },
+  {
+    "Rank": "394",
+    "Player": "Filip Cristian Jianu",
+    "Wins": "25",
+    "Losses": "35",
+    "yElo": "1416.0"
+  },
+  {
+    "Rank": "395",
+    "Player": "Viktor Durasovic",
+    "Wins": "23",
+    "Losses": "27",
+    "yElo": "1414.2"
+  },
+  {
+    "Rank": "396",
+    "Player": "Charles Broom",
+    "Wins": "8",
+    "Losses": "13",
+    "yElo": "1414.1"
+  },
+  {
+    "Rank": "397",
+    "Player": "Juan Pablo Ficovich",
+    "Wins": "37",
+    "Losses": "33",
+    "yElo": "1413.3"
+  },
+  {
+    "Rank": "398",
+    "Player": "Aziz Dougaz",
+    "Wins": "14",
+    "Losses": "18",
+    "yElo": "1413.1"
+  },
+  {
+    "Rank": "399",
+    "Player": "Arthur Gea",
+    "Wins": "17",
+    "Losses": "22",
+    "yElo": "1413.1"
+  },
+  {
+    "Rank": "400",
+    "Player": "Kaylan Bigun",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1411.3"
+  },
+  {
+    "Rank": "401",
+    "Player": "James Watt",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1410.6"
+  },
+  {
+    "Rank": "402",
+    "Player": "Micah Braswell",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1410.3"
+  },
+  {
+    "Rank": "403",
+    "Player": "Ivan Gakhov",
+    "Wins": "19",
+    "Losses": "21",
+    "yElo": "1409.2"
+  },
+  {
+    "Rank": "404",
+    "Player": "Hady Habib",
+    "Wins": "24",
+    "Losses": "28",
+    "yElo": "1408.0"
+  },
+  {
+    "Rank": "405",
+    "Player": "Luca Preda",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1407.5"
+  },
+  {
+    "Rank": "406",
+    "Player": "Enrico Dalla Valle",
+    "Wins": "12",
+    "Losses": "17",
+    "yElo": "1407.0"
+  },
+  {
+    "Rank": "407",
+    "Player": "Alexey Vatutin",
+    "Wins": "8",
+    "Losses": "16",
+    "yElo": "1405.5"
+  },
+  {
+    "Rank": "408",
+    "Player": "Geoffrey Blancaneaux",
+    "Wins": "24",
+    "Losses": "28",
+    "yElo": "1405.4"
+  },
+  {
+    "Rank": "409",
+    "Player": "Luca Potenza",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1405.1"
+  },
+  {
+    "Rank": "410",
+    "Player": "Antoine Escoffier",
+    "Wins": "13",
+    "Losses": "21",
+    "yElo": "1404.7"
+  },
+  {
+    "Rank": "411",
+    "Player": "Alex Martinez",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1404.6"
+  },
+  {
+    "Rank": "412",
+    "Player": "Christoph Negritu",
+    "Wins": "17",
+    "Losses": "25",
+    "yElo": "1404.0"
+  },
+  {
+    "Rank": "413",
+    "Player": "Pietro Fellin",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1403.6"
+  },
+  {
+    "Rank": "414",
+    "Player": "Gabi Adrian Boitan",
+    "Wins": "8",
+    "Losses": "9",
+    "yElo": "1403.1"
+  },
+  {
+    "Rank": "415",
+    "Player": "Tsung Hao Huang",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1402.9"
+  },
+  {
+    "Rank": "416",
+    "Player": "Pedro Cachin",
+    "Wins": "4",
+    "Losses": "9",
+    "yElo": "1402.0"
+  },
+  {
+    "Rank": "417",
+    "Player": "Henry Searle",
+    "Wins": "11",
+    "Losses": "12",
+    "yElo": "1401.8"
+  },
+  {
+    "Rank": "418",
+    "Player": "Eero Vasa",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1401.4"
+  },
+  {
+    "Rank": "419",
+    "Player": "Thiago Seyboth Wild",
+    "Wins": "14",
+    "Losses": "27",
+    "yElo": "1400.9"
+  },
+  {
+    "Rank": "420",
+    "Player": "Denis Yevseyev",
+    "Wins": "17",
+    "Losses": "30",
+    "yElo": "1399.6"
+  },
+  {
+    "Rank": "421",
+    "Player": "Andres Martin",
+    "Wins": "22",
+    "Losses": "20",
+    "yElo": "1399.2"
+  },
+  {
+    "Rank": "422",
+    "Player": "Petr Bar Biryukov",
+    "Wins": "9",
+    "Losses": "14",
+    "yElo": "1397.9"
+  },
+  {
+    "Rank": "423",
+    "Player": "Giles Hussey",
+    "Wins": "14",
+    "Losses": "14",
+    "yElo": "1396.7"
+  },
+  {
+    "Rank": "424",
+    "Player": "Thomas Faurel",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1394.5"
+  },
+  {
+    "Rank": "425",
+    "Player": "Fabio Fognini",
+    "Wins": "4",
+    "Losses": "15",
+    "yElo": "1394.4"
+  },
+  {
+    "Rank": "426",
+    "Player": "Pedro Sakamoto",
+    "Wins": "9",
+    "Losses": "10",
+    "yElo": "1393.5"
+  },
+  {
+    "Rank": "427",
+    "Player": "Andrea Picchione",
+    "Wins": "5",
+    "Losses": "9",
+    "yElo": "1393.4"
+  },
+  {
+    "Rank": "428",
+    "Player": "Alex Rybakov",
+    "Wins": "10",
+    "Losses": "14",
+    "yElo": "1392.8"
+  },
+  {
+    "Rank": "429",
+    "Player": "Taro Daniel",
+    "Wins": "11",
+    "Losses": "30",
+    "yElo": "1391.5"
+  },
+  {
+    "Rank": "430",
+    "Player": "Benjamin Hassan",
+    "Wins": "28",
+    "Losses": "33",
+    "yElo": "1390.9"
+  },
+  {
+    "Rank": "431",
+    "Player": "Daniel Dutra Da Silva",
+    "Wins": "11",
+    "Losses": "20",
+    "yElo": "1390.8"
+  },
+  {
+    "Rank": "432",
+    "Player": "Andres Andrade",
+    "Wins": "18",
+    "Losses": "22",
+    "yElo": "1390.7"
+  },
+  {
+    "Rank": "433",
+    "Player": "Blake Ellis",
+    "Wins": "7",
+    "Losses": "8",
+    "yElo": "1390.6"
+  },
+  {
+    "Rank": "434",
+    "Player": "Yuta Shimizu",
+    "Wins": "21",
+    "Losses": "24",
+    "yElo": "1390.3"
+  },
+  {
+    "Rank": "435",
+    "Player": "Renta Tokuda",
+    "Wins": "6",
+    "Losses": "8",
+    "yElo": "1390.3"
+  },
+  {
+    "Rank": "436",
+    "Player": "Dan Martin",
+    "Wins": "7",
+    "Losses": "9",
+    "yElo": "1389.5"
+  },
+  {
+    "Rank": "437",
+    "Player": "Matteo Martineau",
+    "Wins": "20",
+    "Losses": "28",
+    "yElo": "1388.8"
+  },
+  {
+    "Rank": "438",
+    "Player": "Valerio Aboian",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1388.6"
+  },
+  {
+    "Rank": "439",
+    "Player": "Neil Oberleitner",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1387.6"
+  },
+  {
+    "Rank": "440",
+    "Player": "Andres Santamarta Roig",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1386.7"
+  },
+  {
+    "Rank": "441",
+    "Player": "Diego Dedura Palomero",
+    "Wins": "8",
+    "Losses": "18",
+    "yElo": "1383.9"
+  },
+  {
+    "Rank": "442",
+    "Player": "Taha Baadi",
+    "Wins": "5",
+    "Losses": "7",
+    "yElo": "1382.5"
+  },
+  {
+    "Rank": "443",
+    "Player": "Robin Bertrand",
+    "Wins": "11",
+    "Losses": "18",
+    "yElo": "1380.6"
+  },
+  {
+    "Rank": "444",
+    "Player": "Alfredo Perez",
+    "Wins": "14",
+    "Losses": "18",
+    "yElo": "1380.2"
+  },
+  {
+    "Rank": "445",
+    "Player": "Federico Arnaboldi",
+    "Wins": "15",
+    "Losses": "27",
+    "yElo": "1379.4"
+  },
+  {
+    "Rank": "446",
+    "Player": "Yusuke Takahashi",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1376.8"
+  },
+  {
+    "Rank": "447",
+    "Player": "Jie Cui",
+    "Wins": "14",
+    "Losses": "19",
+    "yElo": "1376.0"
+  },
+  {
+    "Rank": "448",
+    "Player": "Mees Rottgering",
+    "Wins": "6",
+    "Losses": "10",
+    "yElo": "1375.8"
+  },
+  {
+    "Rank": "449",
+    "Player": "Miguel Damas",
+    "Wins": "5",
+    "Losses": "8",
+    "yElo": "1372.1"
+  },
+  {
+    "Rank": "450",
+    "Player": "Nikolas Sanchez Izquierdo",
+    "Wins": "15",
+    "Losses": "20",
+    "yElo": "1371.7"
+  },
+  {
+    "Rank": "451",
+    "Player": "Peter Bertran",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1369.3"
+  },
+  {
+    "Rank": "452",
+    "Player": "Daniel Michalski",
+    "Wins": "12",
+    "Losses": "17",
+    "yElo": "1369.2"
+  },
+  {
+    "Rank": "453",
+    "Player": "Paul Jubb",
+    "Wins": "4",
+    "Losses": "13",
+    "yElo": "1369.0"
+  },
+  {
+    "Rank": "454",
+    "Player": "Max Houkes",
+    "Wins": "15",
+    "Losses": "19",
+    "yElo": "1368.4"
+  },
+  {
+    "Rank": "455",
+    "Player": "Radu Albot",
+    "Wins": "14",
+    "Losses": "29",
+    "yElo": "1368.2"
+  },
+  {
+    "Rank": "456",
+    "Player": "Garrett Johns",
+    "Wins": "12",
+    "Losses": "18",
+    "yElo": "1365.8"
+  },
+  {
+    "Rank": "457",
+    "Player": "Daniel Milavsky",
+    "Wins": "4",
+    "Losses": "6",
+    "yElo": "1365.8"
+  },
+  {
+    "Rank": "458",
+    "Player": "Philip Sekulic",
+    "Wins": "8",
+    "Losses": "14",
+    "yElo": "1365.5"
+  },
+  {
+    "Rank": "459",
+    "Player": "Rodrigo Pacheco Mendez",
+    "Wins": "20",
+    "Losses": "31",
+    "yElo": "1365.2"
+  },
+  {
+    "Rank": "460",
+    "Player": "Florent Bax",
+    "Wins": "5",
+    "Losses": "7",
+    "yElo": "1365.0"
+  },
+  {
+    "Rank": "461",
+    "Player": "Maxime Chazal",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1364.4"
+  },
+  {
+    "Rank": "462",
+    "Player": "Alexander Donski",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1364.1"
+  },
+  {
+    "Rank": "463",
+    "Player": "Patrick Zahraj",
+    "Wins": "17",
+    "Losses": "25",
+    "yElo": "1363.6"
+  },
+  {
+    "Rank": "464",
+    "Player": "Oleksandr Ovcharenko",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1361.7"
+  },
+  {
+    "Rank": "465",
+    "Player": "Leo Borg",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1361.2"
+  },
+  {
+    "Rank": "466",
+    "Player": "Jake Delaney",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1359.2"
+  },
+  {
+    "Rank": "467",
+    "Player": "Nicolas Alvarez Varona",
+    "Wins": "13",
+    "Losses": "18",
+    "yElo": "1359.0"
+  },
+  {
+    "Rank": "468",
+    "Player": "Maximus Jones",
+    "Wins": "19",
+    "Losses": "20",
+    "yElo": "1358.7"
+  },
+  {
+    "Rank": "469",
+    "Player": "Tyler Zink",
+    "Wins": "16",
+    "Losses": "22",
+    "yElo": "1358.5"
+  },
+  {
+    "Rank": "470",
+    "Player": "Santiago Fa Rodriguez Taverna",
+    "Wins": "24",
+    "Losses": "28",
+    "yElo": "1356.7"
+  },
+  {
+    "Rank": "471",
+    "Player": "Naoki Nakagawa",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1354.4"
+  },
+  {
+    "Rank": "472",
+    "Player": "Sergey Fomin",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1354.3"
+  },
+  {
+    "Rank": "473",
+    "Player": "Andrew Fenty",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1351.7"
+  },
+  {
+    "Rank": "474",
+    "Player": "Luciano Emanuel Ambrogi",
+    "Wins": "7",
+    "Losses": "15",
+    "yElo": "1351.6"
+  },
+  {
+    "Rank": "475",
+    "Player": "Govind Nanda",
+    "Wins": "5",
+    "Losses": "11",
+    "yElo": "1351.3"
+  },
+  {
+    "Rank": "476",
+    "Player": "Max Alcala Gurri",
+    "Wins": "4",
+    "Losses": "11",
+    "yElo": "1350.5"
+  },
+  {
+    "Rank": "477",
+    "Player": "Matheus Pucinelli De Almeida",
+    "Wins": "22",
+    "Losses": "22",
+    "yElo": "1348.3"
+  },
+  {
+    "Rank": "478",
+    "Player": "Michael Vrbensky",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1347.7"
+  },
+  {
+    "Rank": "479",
+    "Player": "Rodrigo Alujas",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1346.6"
+  },
+  {
+    "Rank": "480",
+    "Player": "Vadym Ursu",
+    "Wins": "4",
+    "Losses": "9",
+    "yElo": "1344.2"
+  },
+  {
+    "Rank": "481",
+    "Player": "Carlos Maria Zarate",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1343.6"
+  },
+  {
+    "Rank": "482",
+    "Player": "Maximilian Neuchrist",
+    "Wins": "8",
+    "Losses": "10",
+    "yElo": "1343.2"
+  },
+  {
+    "Rank": "483",
+    "Player": "Raul Brancaccio",
+    "Wins": "6",
+    "Losses": "11",
+    "yElo": "1342.5"
+  },
+  {
+    "Rank": "484",
+    "Player": "Tung Lin Wu",
+    "Wins": "14",
+    "Losses": "26",
+    "yElo": "1342.3"
+  },
+  {
+    "Rank": "485",
+    "Player": "Lukas Pokorny",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1342.2"
+  },
+  {
+    "Rank": "486",
+    "Player": "Guido Ivan Justo",
+    "Wins": "11",
+    "Losses": "16",
+    "yElo": "1342.1"
+  },
+  {
+    "Rank": "487",
+    "Player": "Hiroki Moriya",
+    "Wins": "7",
+    "Losses": "11",
+    "yElo": "1341.7"
+  },
+  {
+    "Rank": "488",
+    "Player": "San Hui Sin",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1341.5"
+  },
+  {
+    "Rank": "489",
+    "Player": "Gregoire Barrere",
+    "Wins": "8",
+    "Losses": "16",
+    "yElo": "1341.2"
+  },
+  {
+    "Rank": "490",
+    "Player": "Max Basing",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1341.1"
+  },
+  {
+    "Rank": "491",
+    "Player": "Hyeon Chung",
+    "Wins": "7",
+    "Losses": "11",
+    "yElo": "1338.7"
+  },
+  {
+    "Rank": "492",
+    "Player": "Giovanni Fonio",
+    "Wins": "5",
+    "Losses": "12",
+    "yElo": "1338.5"
+  },
+  {
+    "Rank": "493",
+    "Player": "Sasi Kumar Mukund",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1337.8"
+  },
+  {
+    "Rank": "494",
+    "Player": "Dmitry Popko",
+    "Wins": "22",
+    "Losses": "30",
+    "yElo": "1337.6"
+  },
+  {
+    "Rank": "495",
+    "Player": "Olaf Pieczkowski",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1337.1"
+  },
+  {
+    "Rank": "496",
+    "Player": "Patrick Maloney",
+    "Wins": "10",
+    "Losses": "16",
+    "yElo": "1335.3"
+  },
+  {
+    "Rank": "497",
+    "Player": "Dali Blanch",
+    "Wins": "9",
+    "Losses": "9",
+    "yElo": "1334.9"
+  },
+  {
+    "Rank": "498",
+    "Player": "Robert Strombachs",
+    "Wins": "7",
+    "Losses": "9",
+    "yElo": "1333.5"
+  },
+  {
+    "Rank": "499",
+    "Player": "Cezar Cretu",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1333.5"
+  },
+  {
+    "Rank": "500",
+    "Player": "Dominik Kellovsky",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1332.8"
+  },
+  {
+    "Rank": "501",
+    "Player": "Pol Martin Tiffon",
+    "Wins": "12",
+    "Losses": "20",
+    "yElo": "1332.6"
+  },
+  {
+    "Rank": "502",
+    "Player": "Cannon Kingsley",
+    "Wins": "6",
+    "Losses": "10",
+    "yElo": "1332.1"
+  },
+  {
+    "Rank": "503",
+    "Player": "Maxime Janvier",
+    "Wins": "7",
+    "Losses": "19",
+    "yElo": "1331.9"
+  },
+  {
+    "Rank": "504",
+    "Player": "Pedro Araujo",
+    "Wins": "3",
+    "Losses": "10",
+    "yElo": "1331.2"
+  },
+  {
+    "Rank": "505",
+    "Player": "Aleksandre Bakshi",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1330.3"
+  },
+  {
+    "Rank": "506",
+    "Player": "Franco Roncadelli",
+    "Wins": "15",
+    "Losses": "19",
+    "yElo": "1329.5"
+  },
+  {
+    "Rank": "507",
+    "Player": "Karl Poling",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1329.5"
+  },
+  {
+    "Rank": "508",
+    "Player": "Jacopo Berrettini",
+    "Wins": "9",
+    "Losses": "10",
+    "yElo": "1328.9"
+  },
+  {
+    "Rank": "509",
+    "Player": "Roberto Cid",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1328.1"
+  },
+  {
+    "Rank": "510",
+    "Player": "Gonzalo Villanueva",
+    "Wins": "15",
+    "Losses": "24",
+    "yElo": "1327.9"
+  },
+  {
+    "Rank": "511",
+    "Player": "Matias Soto",
+    "Wins": "17",
+    "Losses": "25",
+    "yElo": "1327.5"
+  },
+  {
+    "Rank": "512",
+    "Player": "Ergi Kirkin",
+    "Wins": "8",
+    "Losses": "12",
+    "yElo": "1325.1"
+  },
+  {
+    "Rank": "513",
+    "Player": "Joao Eduardo Schiessl",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1323.4"
+  },
+  {
+    "Rank": "514",
+    "Player": "Alexandr Binda",
+    "Wins": "6",
+    "Losses": "8",
+    "yElo": "1321.8"
+  },
+  {
+    "Rank": "515",
+    "Player": "Karan Singh",
+    "Wins": "5",
+    "Losses": "12",
+    "yElo": "1321.2"
+  },
+  {
+    "Rank": "516",
+    "Player": "Paulo Andre Saraiva Dos Santos",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1316.8"
+  },
+  {
+    "Rank": "517",
+    "Player": "Ilya Ivashka",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1314.0"
+  },
+  {
+    "Rank": "518",
+    "Player": "Olle Wallin",
+    "Wins": "7",
+    "Losses": "12",
+    "yElo": "1312.4"
+  },
+  {
+    "Rank": "519",
+    "Player": "Corentin Denolly",
+    "Wins": "10",
+    "Losses": "19",
+    "yElo": "1309.6"
+  },
+  {
+    "Rank": "520",
+    "Player": "Jelle Sels",
+    "Wins": "10",
+    "Losses": "19",
+    "yElo": "1308.3"
+  },
+  {
+    "Rank": "521",
+    "Player": "Aidan Mayo",
+    "Wins": "6",
+    "Losses": "16",
+    "yElo": "1305.2"
+  },
+  {
+    "Rank": "522",
+    "Player": "Masamichi Imamura",
+    "Wins": "6",
+    "Losses": "14",
+    "yElo": "1305.2"
+  },
+  {
+    "Rank": "523",
+    "Player": "Conner Huertas Del Pino",
+    "Wins": "5",
+    "Losses": "8",
+    "yElo": "1304.8"
+  },
+  {
+    "Rank": "524",
+    "Player": "Khumoun Sultanov",
+    "Wins": "13",
+    "Losses": "19",
+    "yElo": "1302.5"
+  },
+  {
+    "Rank": "525",
+    "Player": "Juan Alejandro Hernandez Serrano",
+    "Wins": "8",
+    "Losses": "17",
+    "yElo": "1299.0"
+  },
+  {
+    "Rank": "526",
+    "Player": "Aryan Shah",
+    "Wins": "8",
+    "Losses": "12",
+    "yElo": "1297.4"
+  },
+  {
+    "Rank": "527",
+    "Player": "Pierluigi Basile",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1297.0"
+  },
+  {
+    "Rank": "528",
+    "Player": "Bernabe Zapata Miralles",
+    "Wins": "5",
+    "Losses": "17",
+    "yElo": "1295.7"
+  },
+  {
+    "Rank": "529",
+    "Player": "Tiago Pereira",
+    "Wins": "9",
+    "Losses": "19",
+    "yElo": "1295.4"
+  },
+  {
+    "Rank": "530",
+    "Player": "Max Wiskandt",
+    "Wins": "8",
+    "Losses": "16",
+    "yElo": "1294.2"
+  },
+  {
+    "Rank": "531",
+    "Player": "Rudolf Molleker",
+    "Wins": "6",
+    "Losses": "12",
+    "yElo": "1291.8"
+  },
+  {
+    "Rank": "532",
+    "Player": "Christian Langmo",
+    "Wins": "8",
+    "Losses": "16",
+    "yElo": "1290.3"
+  },
+  {
+    "Rank": "533",
+    "Player": "Mateus Alves",
+    "Wins": "7",
+    "Losses": "19",
+    "yElo": "1288.7"
+  },
+  {
+    "Rank": "534",
+    "Player": "Marek Gengel",
+    "Wins": "13",
+    "Losses": "25",
+    "yElo": "1288.5"
+  },
+  {
+    "Rank": "535",
+    "Player": "Jozef Kovalik",
+    "Wins": "6",
+    "Losses": "19",
+    "yElo": "1288.2"
+  },
+  {
+    "Rank": "536",
+    "Player": "Sebastian Gima",
+    "Wins": "3",
+    "Losses": "9",
+    "yElo": "1279.9"
+  },
+  {
+    "Rank": "537",
+    "Player": "Miguel Tobon",
+    "Wins": "7",
+    "Losses": "13",
+    "yElo": "1279.3"
+  },
+  {
+    "Rank": "538",
+    "Player": "Carlos Sanchez Jover",
+    "Wins": "7",
+    "Losses": "15",
+    "yElo": "1268.7"
+  },
+  {
+    "Rank": "539",
+    "Player": "Kasidit Samrej",
+    "Wins": "4",
+    "Losses": "15",
+    "yElo": "1268.2"
+  },
+  {
+    "Rank": "540",
+    "Player": "Omar Jasika",
+    "Wins": "15",
+    "Losses": "26",
+    "yElo": "1267.4"
+  },
+  {
+    "Rank": "541",
+    "Player": "Lorenzo Carboni",
+    "Wins": "3",
+    "Losses": "11",
+    "yElo": "1266.8"
+  },
+  {
+    "Rank": "542",
+    "Player": "Bruno Kuzuhara",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1266.4"
+  },
+  {
+    "Rank": "543",
+    "Player": "Adrian Andreev",
+    "Wins": "4",
+    "Losses": "13",
+    "yElo": "1263.6"
+  },
+  {
+    "Rank": "544",
+    "Player": "Mariano Kestelboim",
+    "Wins": "7",
+    "Losses": "15",
+    "yElo": "1260.2"
+  },
+  {
+    "Rank": "545",
+    "Player": "Blaise Bicknell",
+    "Wins": "5",
+    "Losses": "12",
+    "yElo": "1255.6"
+  },
+  {
+    "Rank": "546",
+    "Player": "Lucas Poullain",
+    "Wins": "4",
+    "Losses": "13",
+    "yElo": "1255.6"
+  },
+  {
+    "Rank": "547",
+    "Player": "Kokoro Isomura",
+    "Wins": "4",
+    "Losses": "10",
+    "yElo": "1251.5"
+  },
+  {
+    "Rank": "548",
+    "Player": "Federico Bondioli",
+    "Wins": "6",
+    "Losses": "15",
+    "yElo": "1247.9"
+  },
+  {
+    "Rank": "549",
+    "Player": "Saba Purtseladze",
+    "Wins": "7",
+    "Losses": "17",
+    "yElo": "1236.9"
+  },
+  {
+    "Rank": "550",
+    "Player": "Renzo Olivo",
+    "Wins": "8",
+    "Losses": "16",
+    "yElo": "1236.6"
+  },
+  {
+    "Rank": "551",
+    "Player": "Alex Marti Pujolras",
+    "Wins": "3",
+    "Losses": "10",
+    "yElo": "1232.6"
+  },
+  {
+    "Rank": "552",
+    "Player": "Moerani Bouzige",
+    "Wins": "9",
+    "Losses": "20",
+    "yElo": "1215.5"
+  },
+  {
+    "Rank": "553",
+    "Player": "Benoit Paire",
+    "Wins": "4",
+    "Losses": "14",
+    "yElo": "1212.6"
+  }
+]

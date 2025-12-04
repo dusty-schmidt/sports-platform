@@ -1,0 +1,3999 @@
+[
+  {
+    "Rank": "1",
+    "Player": "Elena Rybakina",
+    "Wins": "59",
+    "Losses": "19",
+    "yElo": "2218.3"
+  },
+  {
+    "Rank": "2",
+    "Player": "Aryna Sabalenka",
+    "Wins": "63",
+    "Losses": "12",
+    "yElo": "2216.3"
+  },
+  {
+    "Rank": "3",
+    "Player": "Amanda Anisimova",
+    "Wins": "47",
+    "Losses": "18",
+    "yElo": "2144.2"
+  },
+  {
+    "Rank": "4",
+    "Player": "Iga Swiatek",
+    "Wins": "62",
+    "Losses": "17",
+    "yElo": "2114.6"
+  },
+  {
+    "Rank": "5",
+    "Player": "Coco Gauff",
+    "Wins": "48",
+    "Losses": "16",
+    "yElo": "2094.6"
+  },
+  {
+    "Rank": "6",
+    "Player": "Jessica Pegula",
+    "Wins": "53",
+    "Losses": "23",
+    "yElo": "2057.0"
+  },
+  {
+    "Rank": "7",
+    "Player": "Belinda Bencic",
+    "Wins": "39",
+    "Losses": "17",
+    "yElo": "2024.7"
+  },
+  {
+    "Rank": "8",
+    "Player": "Jasmine Paolini",
+    "Wins": "46",
+    "Losses": "21",
+    "yElo": "2024.5"
+  },
+  {
+    "Rank": "9",
+    "Player": "Victoria Mboko",
+    "Wins": "43",
+    "Losses": "14",
+    "yElo": "1995.4"
+  },
+  {
+    "Rank": "10",
+    "Player": "Marketa Vondrousova",
+    "Wins": "18",
+    "Losses": "10",
+    "yElo": "1986.4"
+  },
+  {
+    "Rank": "11",
+    "Player": "Naomi Osaka",
+    "Wins": "35",
+    "Losses": "15",
+    "yElo": "1984.3"
+  },
+  {
+    "Rank": "12",
+    "Player": "Ekaterina Alexandrova",
+    "Wins": "47",
+    "Losses": "25",
+    "yElo": "1956.6"
+  },
+  {
+    "Rank": "13",
+    "Player": "Leylah Fernandez",
+    "Wins": "34",
+    "Losses": "25",
+    "yElo": "1956.4"
+  },
+  {
+    "Rank": "14",
+    "Player": "Linda Noskova",
+    "Wins": "38",
+    "Losses": "26",
+    "yElo": "1955.0"
+  },
+  {
+    "Rank": "15",
+    "Player": "Barbora Krejcikova",
+    "Wins": "16",
+    "Losses": "9",
+    "yElo": "1952.1"
+  },
+  {
+    "Rank": "16",
+    "Player": "Elina Svitolina",
+    "Wins": "36",
+    "Losses": "15",
+    "yElo": "1952.0"
+  },
+  {
+    "Rank": "17",
+    "Player": "Qinwen Zheng",
+    "Wins": "20",
+    "Losses": "12",
+    "yElo": "1944.8"
+  },
+  {
+    "Rank": "18",
+    "Player": "Karolina Muchova",
+    "Wins": "26",
+    "Losses": "17",
+    "yElo": "1932.1"
+  },
+  {
+    "Rank": "19",
+    "Player": "Tereza Valentova",
+    "Wins": "47",
+    "Losses": "12",
+    "yElo": "1929.3"
+  },
+  {
+    "Rank": "20",
+    "Player": "Katerina Siniakova",
+    "Wins": "37",
+    "Losses": "22",
+    "yElo": "1921.4"
+  },
+  {
+    "Rank": "21",
+    "Player": "Madison Keys",
+    "Wins": "37",
+    "Losses": "15",
+    "yElo": "1915.7"
+  },
+  {
+    "Rank": "22",
+    "Player": "Marta Kostyuk",
+    "Wins": "28",
+    "Losses": "20",
+    "yElo": "1911.8"
+  },
+  {
+    "Rank": "23",
+    "Player": "Janice Tjen",
+    "Wins": "39",
+    "Losses": "8",
+    "yElo": "1903.7"
+  },
+  {
+    "Rank": "24",
+    "Player": "Eva Lys",
+    "Wins": "34",
+    "Losses": "24",
+    "yElo": "1900.9"
+  },
+  {
+    "Rank": "25",
+    "Player": "Anna Kalinskaya",
+    "Wins": "25",
+    "Losses": "21",
+    "yElo": "1899.3"
+  },
+  {
+    "Rank": "26",
+    "Player": "Sorana Cirstea",
+    "Wins": "30",
+    "Losses": "20",
+    "yElo": "1898.2"
+  },
+  {
+    "Rank": "27",
+    "Player": "Mirra Andreeva",
+    "Wins": "40",
+    "Losses": "16",
+    "yElo": "1883.7"
+  },
+  {
+    "Rank": "28",
+    "Player": "Mccartney Kessler",
+    "Wins": "37",
+    "Losses": "24",
+    "yElo": "1872.8"
+  },
+  {
+    "Rank": "29",
+    "Player": "Ann Li",
+    "Wins": "33",
+    "Losses": "25",
+    "yElo": "1862.2"
+  },
+  {
+    "Rank": "30",
+    "Player": "Clara Tauson",
+    "Wins": "36",
+    "Losses": "22",
+    "yElo": "1860.8"
+  },
+  {
+    "Rank": "31",
+    "Player": "Elise Mertens",
+    "Wins": "36",
+    "Losses": "20",
+    "yElo": "1855.8"
+  },
+  {
+    "Rank": "32",
+    "Player": "Shuai Zhang",
+    "Wins": "39",
+    "Losses": "15",
+    "yElo": "1854.7"
+  },
+  {
+    "Rank": "33",
+    "Player": "Taylor Townsend",
+    "Wins": "20",
+    "Losses": "15",
+    "yElo": "1854.1"
+  },
+  {
+    "Rank": "34",
+    "Player": "Marie Bouzkova",
+    "Wins": "31",
+    "Losses": "21",
+    "yElo": "1851.8"
+  },
+  {
+    "Rank": "35",
+    "Player": "Emma Navarro",
+    "Wins": "32",
+    "Losses": "25",
+    "yElo": "1850.9"
+  },
+  {
+    "Rank": "36",
+    "Player": "Anastasia Potapova",
+    "Wins": "24",
+    "Losses": "16",
+    "yElo": "1850.2"
+  },
+  {
+    "Rank": "37",
+    "Player": "Emma Raducanu",
+    "Wins": "28",
+    "Losses": "22",
+    "yElo": "1849.4"
+  },
+  {
+    "Rank": "38",
+    "Player": "Liudmila Samsonova",
+    "Wins": "30",
+    "Losses": "23",
+    "yElo": "1848.2"
+  },
+  {
+    "Rank": "39",
+    "Player": "Laura Siegemund",
+    "Wins": "22",
+    "Losses": "22",
+    "yElo": "1847.7"
+  },
+  {
+    "Rank": "40",
+    "Player": "Paula Badosa",
+    "Wins": "18",
+    "Losses": "13",
+    "yElo": "1846.5"
+  },
+  {
+    "Rank": "41",
+    "Player": "Lulu Sun",
+    "Wins": "28",
+    "Losses": "26",
+    "yElo": "1841.4"
+  },
+  {
+    "Rank": "42",
+    "Player": "Maya Joint",
+    "Wins": "52",
+    "Losses": "28",
+    "yElo": "1838.5"
+  },
+  {
+    "Rank": "43",
+    "Player": "Diana Shnaider",
+    "Wins": "28",
+    "Losses": "25",
+    "yElo": "1837.9"
+  },
+  {
+    "Rank": "44",
+    "Player": "Dayana Yastremska",
+    "Wins": "32",
+    "Losses": "22",
+    "yElo": "1832.8"
+  },
+  {
+    "Rank": "45",
+    "Player": "Veronika Kudermetova",
+    "Wins": "35",
+    "Losses": "25",
+    "yElo": "1830.1"
+  },
+  {
+    "Rank": "46",
+    "Player": "Lois Boisson",
+    "Wins": "23",
+    "Losses": "11",
+    "yElo": "1827.6"
+  },
+  {
+    "Rank": "47",
+    "Player": "Sonay Kartal",
+    "Wins": "24",
+    "Losses": "20",
+    "yElo": "1822.1"
+  },
+  {
+    "Rank": "48",
+    "Player": "Jaqueline Cristian",
+    "Wins": "32",
+    "Losses": "25",
+    "yElo": "1816.1"
+  },
+  {
+    "Rank": "49",
+    "Player": "Viktorija Golubic",
+    "Wins": "36",
+    "Losses": "25",
+    "yElo": "1814.6"
+  },
+  {
+    "Rank": "50",
+    "Player": "Varvara Gracheva",
+    "Wins": "32",
+    "Losses": "26",
+    "yElo": "1809.7"
+  },
+  {
+    "Rank": "51",
+    "Player": "Caty Mcnally",
+    "Wins": "39",
+    "Losses": "20",
+    "yElo": "1805.0"
+  },
+  {
+    "Rank": "52",
+    "Player": "Iva Jovic",
+    "Wins": "33",
+    "Losses": "17",
+    "yElo": "1802.2"
+  },
+  {
+    "Rank": "53",
+    "Player": "Jessica Bouzas Maneiro",
+    "Wins": "29",
+    "Losses": "25",
+    "yElo": "1801.7"
+  },
+  {
+    "Rank": "54",
+    "Player": "Ella Seidel",
+    "Wins": "42",
+    "Losses": "26",
+    "yElo": "1799.4"
+  },
+  {
+    "Rank": "55",
+    "Player": "Sara Bejlek",
+    "Wins": "38",
+    "Losses": "16",
+    "yElo": "1795.1"
+  },
+  {
+    "Rank": "56",
+    "Player": "Olga Danilovic",
+    "Wins": "23",
+    "Losses": "17",
+    "yElo": "1789.7"
+  },
+  {
+    "Rank": "57",
+    "Player": "Renata Zarazua",
+    "Wins": "36",
+    "Losses": "28",
+    "yElo": "1789.3"
+  },
+  {
+    "Rank": "58",
+    "Player": "Victoria Azarenka",
+    "Wins": "11",
+    "Losses": "12",
+    "yElo": "1779.3"
+  },
+  {
+    "Rank": "59",
+    "Player": "Maria Sakkari",
+    "Wins": "25",
+    "Losses": "29",
+    "yElo": "1775.4"
+  },
+  {
+    "Rank": "60",
+    "Player": "Oleksandra Oliynykova",
+    "Wins": "47",
+    "Losses": "18",
+    "yElo": "1775.1"
+  },
+  {
+    "Rank": "61",
+    "Player": "Cristina Bucsa",
+    "Wins": "33",
+    "Losses": "31",
+    "yElo": "1774.4"
+  },
+  {
+    "Rank": "62",
+    "Player": "Anastasia Pavlyuchenkova",
+    "Wins": "14",
+    "Losses": "14",
+    "yElo": "1770.6"
+  },
+  {
+    "Rank": "63",
+    "Player": "Irina Camelia Begu",
+    "Wins": "13",
+    "Losses": "12",
+    "yElo": "1769.0"
+  },
+  {
+    "Rank": "64",
+    "Player": "Danielle Collins",
+    "Wins": "15",
+    "Losses": "14",
+    "yElo": "1767.1"
+  },
+  {
+    "Rank": "65",
+    "Player": "Ajla Tomljanovic",
+    "Wins": "27",
+    "Losses": "26",
+    "yElo": "1765.2"
+  },
+  {
+    "Rank": "66",
+    "Player": "Sofia Kenin",
+    "Wins": "31",
+    "Losses": "26",
+    "yElo": "1764.5"
+  },
+  {
+    "Rank": "67",
+    "Player": "Antonia Ruzic",
+    "Wins": "41",
+    "Losses": "22",
+    "yElo": "1764.0"
+  },
+  {
+    "Rank": "68",
+    "Player": "Katie Volynets",
+    "Wins": "38",
+    "Losses": "27",
+    "yElo": "1761.5"
+  },
+  {
+    "Rank": "69",
+    "Player": "Anna Blinkova",
+    "Wins": "29",
+    "Losses": "27",
+    "yElo": "1761.3"
+  },
+  {
+    "Rank": "70",
+    "Player": "Priscilla Hon",
+    "Wins": "37",
+    "Losses": "20",
+    "yElo": "1759.5"
+  },
+  {
+    "Rank": "71",
+    "Player": "Elisabetta Cocciaretto",
+    "Wins": "31",
+    "Losses": "28",
+    "yElo": "1758.2"
+  },
+  {
+    "Rank": "72",
+    "Player": "Dalma Galfi",
+    "Wins": "41",
+    "Losses": "25",
+    "yElo": "1758.0"
+  },
+  {
+    "Rank": "73",
+    "Player": "Elsa Jacquemot",
+    "Wins": "46",
+    "Losses": "29",
+    "yElo": "1757.6"
+  },
+  {
+    "Rank": "74",
+    "Player": "Oksana Selekhmeteva",
+    "Wins": "50",
+    "Losses": "20",
+    "yElo": "1757.4"
+  },
+  {
+    "Rank": "75",
+    "Player": "Emerson Jones",
+    "Wins": "35",
+    "Losses": "15",
+    "yElo": "1750.1"
+  },
+  {
+    "Rank": "76",
+    "Player": "Magdalena Frech",
+    "Wins": "15",
+    "Losses": "25",
+    "yElo": "1750.0"
+  },
+  {
+    "Rank": "77",
+    "Player": "Simona Waltert",
+    "Wins": "55",
+    "Losses": "23",
+    "yElo": "1749.7"
+  },
+  {
+    "Rank": "78",
+    "Player": "Kaja Juvan",
+    "Wins": "46",
+    "Losses": "18",
+    "yElo": "1747.2"
+  },
+  {
+    "Rank": "79",
+    "Player": "Lilli Tagger",
+    "Wins": "16",
+    "Losses": "6",
+    "yElo": "1746.7"
+  },
+  {
+    "Rank": "80",
+    "Player": "Alexandra Eala",
+    "Wins": "41",
+    "Losses": "25",
+    "yElo": "1742.3"
+  },
+  {
+    "Rank": "81",
+    "Player": "Julia Grabher",
+    "Wins": "50",
+    "Losses": "25",
+    "yElo": "1736.1"
+  },
+  {
+    "Rank": "82",
+    "Player": "Katie Boulter",
+    "Wins": "22",
+    "Losses": "22",
+    "yElo": "1735.2"
+  },
+  {
+    "Rank": "83",
+    "Player": "Greet Minnen",
+    "Wins": "33",
+    "Losses": "19",
+    "yElo": "1734.8"
+  },
+  {
+    "Rank": "84",
+    "Player": "Francesca Jones",
+    "Wins": "45",
+    "Losses": "18",
+    "yElo": "1732.4"
+  },
+  {
+    "Rank": "85",
+    "Player": "Darja Semenistaja",
+    "Wins": "51",
+    "Losses": "29",
+    "yElo": "1731.7"
+  },
+  {
+    "Rank": "86",
+    "Player": "Elena Gabriela Ruse",
+    "Wins": "30",
+    "Losses": "19",
+    "yElo": "1730.3"
+  },
+  {
+    "Rank": "87",
+    "Player": "Rebecca Sramkova",
+    "Wins": "23",
+    "Losses": "28",
+    "yElo": "1730.0"
+  },
+  {
+    "Rank": "88",
+    "Player": "Xin Yu Wang",
+    "Wins": "25",
+    "Losses": "25",
+    "yElo": "1728.6"
+  },
+  {
+    "Rank": "89",
+    "Player": "Ons Jabeur",
+    "Wins": "15",
+    "Losses": "15",
+    "yElo": "1724.6"
+  },
+  {
+    "Rank": "90",
+    "Player": "Aliaksandra Sasnovich",
+    "Wins": "33",
+    "Losses": "25",
+    "yElo": "1724.5"
+  },
+  {
+    "Rank": "91",
+    "Player": "Anna Bondar",
+    "Wins": "38",
+    "Losses": "27",
+    "yElo": "1721.9"
+  },
+  {
+    "Rank": "92",
+    "Player": "Beatriz Haddad Maia",
+    "Wins": "16",
+    "Losses": "26",
+    "yElo": "1719.6"
+  },
+  {
+    "Rank": "93",
+    "Player": "Daria Kasatkina",
+    "Wins": "19",
+    "Losses": "22",
+    "yElo": "1716.4"
+  },
+  {
+    "Rank": "94",
+    "Player": "Yulia Putintseva",
+    "Wins": "25",
+    "Losses": "27",
+    "yElo": "1715.2"
+  },
+  {
+    "Rank": "95",
+    "Player": "Marina Stakusic",
+    "Wins": "25",
+    "Losses": "21",
+    "yElo": "1710.4"
+  },
+  {
+    "Rank": "96",
+    "Player": "Robin Montgomery",
+    "Wins": "12",
+    "Losses": "9",
+    "yElo": "1707.5"
+  },
+  {
+    "Rank": "97",
+    "Player": "Rebeka Masarova",
+    "Wins": "33",
+    "Losses": "21",
+    "yElo": "1707.5"
+  },
+  {
+    "Rank": "98",
+    "Player": "Hailey Baptiste",
+    "Wins": "28",
+    "Losses": "25",
+    "yElo": "1707.5"
+  },
+  {
+    "Rank": "99",
+    "Player": "Laura Samson",
+    "Wins": "26",
+    "Losses": "10",
+    "yElo": "1705.7"
+  },
+  {
+    "Rank": "100",
+    "Player": "Polina Iatcenko",
+    "Wins": "25",
+    "Losses": "10",
+    "yElo": "1705.2"
+  },
+  {
+    "Rank": "101",
+    "Player": "Camila Osorio",
+    "Wins": "21",
+    "Losses": "21",
+    "yElo": "1702.4"
+  },
+  {
+    "Rank": "102",
+    "Player": "Petra Marcinko",
+    "Wins": "44",
+    "Losses": "23",
+    "yElo": "1702.2"
+  },
+  {
+    "Rank": "103",
+    "Player": "Peyton Stearns",
+    "Wins": "19",
+    "Losses": "21",
+    "yElo": "1700.9"
+  },
+  {
+    "Rank": "104",
+    "Player": "Aoi Ito",
+    "Wins": "27",
+    "Losses": "22",
+    "yElo": "1697.5"
+  },
+  {
+    "Rank": "105",
+    "Player": "Lucie Havlickova",
+    "Wins": "14",
+    "Losses": "5",
+    "yElo": "1697.4"
+  },
+  {
+    "Rank": "106",
+    "Player": "Solana Sierra",
+    "Wins": "38",
+    "Losses": "20",
+    "yElo": "1697.3"
+  },
+  {
+    "Rank": "107",
+    "Player": "Kimberly Birrell",
+    "Wins": "39",
+    "Losses": "29",
+    "yElo": "1697.3"
+  },
+  {
+    "Rank": "108",
+    "Player": "Jelena Ostapenko",
+    "Wins": "18",
+    "Losses": "20",
+    "yElo": "1696.4"
+  },
+  {
+    "Rank": "109",
+    "Player": "Xiyu Wang",
+    "Wins": "21",
+    "Losses": "18",
+    "yElo": "1692.9"
+  },
+  {
+    "Rank": "110",
+    "Player": "Linda Klimovicova",
+    "Wins": "36",
+    "Losses": "15",
+    "yElo": "1690.9"
+  },
+  {
+    "Rank": "111",
+    "Player": "Magda Linette",
+    "Wins": "21",
+    "Losses": "25",
+    "yElo": "1690.9"
+  },
+  {
+    "Rank": "112",
+    "Player": "Lola Radivojevic",
+    "Wins": "32",
+    "Losses": "27",
+    "yElo": "1690.7"
+  },
+  {
+    "Rank": "113",
+    "Player": "Maja Chwalinska",
+    "Wins": "28",
+    "Losses": "19",
+    "yElo": "1690.4"
+  },
+  {
+    "Rank": "114",
+    "Player": "Alina Korneeva",
+    "Wins": "30",
+    "Losses": "14",
+    "yElo": "1689.7"
+  },
+  {
+    "Rank": "115",
+    "Player": "Claire Liu",
+    "Wins": "23",
+    "Losses": "16",
+    "yElo": "1688.9"
+  },
+  {
+    "Rank": "116",
+    "Player": "Talia Gibson",
+    "Wins": "45",
+    "Losses": "27",
+    "yElo": "1683.3"
+  },
+  {
+    "Rank": "117",
+    "Player": "Ashlyn Krueger",
+    "Wins": "25",
+    "Losses": "27",
+    "yElo": "1681.7"
+  },
+  {
+    "Rank": "118",
+    "Player": "Jeline Vandromme",
+    "Wins": "6",
+    "Losses": "2",
+    "yElo": "1678.1"
+  },
+  {
+    "Rank": "119",
+    "Player": "Mayar Sherif",
+    "Wins": "36",
+    "Losses": "26",
+    "yElo": "1670.6"
+  },
+  {
+    "Rank": "120",
+    "Player": "Anastasija Sevastova",
+    "Wins": "12",
+    "Losses": "13",
+    "yElo": "1670.6"
+  },
+  {
+    "Rank": "121",
+    "Player": "Panna Udvardy",
+    "Wins": "50",
+    "Losses": "29",
+    "yElo": "1667.8"
+  },
+  {
+    "Rank": "122",
+    "Player": "Donna Vekic",
+    "Wins": "14",
+    "Losses": "23",
+    "yElo": "1666.9"
+  },
+  {
+    "Rank": "123",
+    "Player": "Veronika Erjavec",
+    "Wins": "37",
+    "Losses": "24",
+    "yElo": "1664.7"
+  },
+  {
+    "Rank": "124",
+    "Player": "Zeynep Sonmez",
+    "Wins": "22",
+    "Losses": "26",
+    "yElo": "1662.6"
+  },
+  {
+    "Rank": "125",
+    "Player": "Linda Fruhvirtova",
+    "Wins": "33",
+    "Losses": "23",
+    "yElo": "1662.6"
+  },
+  {
+    "Rank": "126",
+    "Player": "Kamilla Rakhimova",
+    "Wins": "26",
+    "Losses": "33",
+    "yElo": "1661.2"
+  },
+  {
+    "Rank": "127",
+    "Player": "Lin Zhu",
+    "Wins": "13",
+    "Losses": "14",
+    "yElo": "1659.8"
+  },
+  {
+    "Rank": "128",
+    "Player": "Yafan Wang",
+    "Wins": "7",
+    "Losses": "11",
+    "yElo": "1658.5"
+  },
+  {
+    "Rank": "129",
+    "Player": "Emiliana Arango",
+    "Wins": "29",
+    "Losses": "28",
+    "yElo": "1658.3"
+  },
+  {
+    "Rank": "130",
+    "Player": "Yue Yuan",
+    "Wins": "19",
+    "Losses": "27",
+    "yElo": "1658.1"
+  },
+  {
+    "Rank": "131",
+    "Player": "Anastasia Zakharova",
+    "Wins": "36",
+    "Losses": "31",
+    "yElo": "1655.9"
+  },
+  {
+    "Rank": "132",
+    "Player": "Hanyu Guo",
+    "Wins": "26",
+    "Losses": "17",
+    "yElo": "1655.9"
+  },
+  {
+    "Rank": "133",
+    "Player": "Viktoriya Tomova",
+    "Wins": "18",
+    "Losses": "26",
+    "yElo": "1654.5"
+  },
+  {
+    "Rank": "134",
+    "Player": "Nikola Bartunkova",
+    "Wins": "25",
+    "Losses": "14",
+    "yElo": "1654.0"
+  },
+  {
+    "Rank": "135",
+    "Player": "Katrina Scott",
+    "Wins": "17",
+    "Losses": "8",
+    "yElo": "1653.7"
+  },
+  {
+    "Rank": "136",
+    "Player": "Eva Guerrero Alvarez",
+    "Wins": "29",
+    "Losses": "10",
+    "yElo": "1650.6"
+  },
+  {
+    "Rank": "137",
+    "Player": "Jil Teichmann",
+    "Wins": "23",
+    "Losses": "21",
+    "yElo": "1647.0"
+  },
+  {
+    "Rank": "138",
+    "Player": "Lanlana Tararudee",
+    "Wins": "38",
+    "Losses": "25",
+    "yElo": "1646.8"
+  },
+  {
+    "Rank": "139",
+    "Player": "Petra Martic",
+    "Wins": "15",
+    "Losses": "13",
+    "yElo": "1646.6"
+  },
+  {
+    "Rank": "140",
+    "Player": "Carson Branstine",
+    "Wins": "27",
+    "Losses": "20",
+    "yElo": "1646.5"
+  },
+  {
+    "Rank": "141",
+    "Player": "Bianca Andreescu",
+    "Wins": "10",
+    "Losses": "12",
+    "yElo": "1644.5"
+  },
+  {
+    "Rank": "142",
+    "Player": "Himeno Sakatsume",
+    "Wins": "40",
+    "Losses": "20",
+    "yElo": "1643.3"
+  },
+  {
+    "Rank": "143",
+    "Player": "Lucrezia Stefanini",
+    "Wins": "38",
+    "Losses": "28",
+    "yElo": "1641.3"
+  },
+  {
+    "Rank": "144",
+    "Player": "Tamara Korpatsch",
+    "Wins": "44",
+    "Losses": "27",
+    "yElo": "1640.9"
+  },
+  {
+    "Rank": "145",
+    "Player": "Sinja Kraus",
+    "Wins": "53",
+    "Losses": "25",
+    "yElo": "1638.2"
+  },
+  {
+    "Rank": "146",
+    "Player": "Suzan Lamens",
+    "Wins": "28",
+    "Losses": "30",
+    "yElo": "1636.8"
+  },
+  {
+    "Rank": "147",
+    "Player": "Daria Snigur",
+    "Wins": "39",
+    "Losses": "24",
+    "yElo": "1636.5"
+  },
+  {
+    "Rank": "148",
+    "Player": "Kaitlin Quevedo",
+    "Wins": "40",
+    "Losses": "19",
+    "yElo": "1634.9"
+  },
+  {
+    "Rank": "149",
+    "Player": "Tatjana Maria",
+    "Wins": "27",
+    "Losses": "32",
+    "yElo": "1633.7"
+  },
+  {
+    "Rank": "150",
+    "Player": "Moyuka Uchijima",
+    "Wins": "24",
+    "Losses": "32",
+    "yElo": "1633.5"
+  },
+  {
+    "Rank": "151",
+    "Player": "Caroline Dolehide",
+    "Wins": "27",
+    "Losses": "26",
+    "yElo": "1633.5"
+  },
+  {
+    "Rank": "152",
+    "Player": "Victoria Jimenez Kasintseva",
+    "Wins": "40",
+    "Losses": "30",
+    "yElo": "1633.1"
+  },
+  {
+    "Rank": "153",
+    "Player": "Varvara Lepchenko",
+    "Wins": "39",
+    "Losses": "34",
+    "yElo": "1631.9"
+  },
+  {
+    "Rank": "154",
+    "Player": "Alina Charaeva",
+    "Wins": "32",
+    "Losses": "24",
+    "yElo": "1625.0"
+  },
+  {
+    "Rank": "155",
+    "Player": "Mia Pohankova",
+    "Wins": "7",
+    "Losses": "4",
+    "yElo": "1624.7"
+  },
+  {
+    "Rank": "156",
+    "Player": "Clara Burel",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1624.6"
+  },
+  {
+    "Rank": "157",
+    "Player": "Alisa Oktiabreva",
+    "Wins": "8",
+    "Losses": "3",
+    "yElo": "1622.4"
+  },
+  {
+    "Rank": "158",
+    "Player": "Caroline Garcia",
+    "Wins": "4",
+    "Losses": "9",
+    "yElo": "1622.1"
+  },
+  {
+    "Rank": "159",
+    "Player": "Joanna Garland",
+    "Wins": "23",
+    "Losses": "15",
+    "yElo": "1620.9"
+  },
+  {
+    "Rank": "160",
+    "Player": "Leolia Jeanjean",
+    "Wins": "40",
+    "Losses": "30",
+    "yElo": "1619.7"
+  },
+  {
+    "Rank": "161",
+    "Player": "Maria Timofeeva",
+    "Wins": "35",
+    "Losses": "27",
+    "yElo": "1618.9"
+  },
+  {
+    "Rank": "162",
+    "Player": "Hanne Vandewinkel",
+    "Wins": "41",
+    "Losses": "24",
+    "yElo": "1618.5"
+  },
+  {
+    "Rank": "163",
+    "Player": "Darja Vidmanova",
+    "Wins": "26",
+    "Losses": "10",
+    "yElo": "1617.5"
+  },
+  {
+    "Rank": "164",
+    "Player": "Dominika Salkova",
+    "Wins": "28",
+    "Losses": "22",
+    "yElo": "1614.9"
+  },
+  {
+    "Rank": "165",
+    "Player": "Anca Alexia Todoni",
+    "Wins": "26",
+    "Losses": "18",
+    "yElo": "1614.8"
+  },
+  {
+    "Rank": "166",
+    "Player": "Diane Parry",
+    "Wins": "20",
+    "Losses": "23",
+    "yElo": "1610.2"
+  },
+  {
+    "Rank": "167",
+    "Player": "Lucciana Perez Alarcon",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1606.7"
+  },
+  {
+    "Rank": "168",
+    "Player": "Eva Bennemann",
+    "Wins": "7",
+    "Losses": "3",
+    "yElo": "1604.1"
+  },
+  {
+    "Rank": "169",
+    "Player": "Anhelina Kalinina",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1601.8"
+  },
+  {
+    "Rank": "170",
+    "Player": "Alice Tubello",
+    "Wins": "6",
+    "Losses": "2",
+    "yElo": "1600.0"
+  },
+  {
+    "Rank": "171",
+    "Player": "Rebecca Marino",
+    "Wins": "17",
+    "Losses": "20",
+    "yElo": "1597.9"
+  },
+  {
+    "Rank": "172",
+    "Player": "Daria Saville",
+    "Wins": "13",
+    "Losses": "17",
+    "yElo": "1595.6"
+  },
+  {
+    "Rank": "173",
+    "Player": "Harriet Dart",
+    "Wins": "19",
+    "Losses": "22",
+    "yElo": "1593.0"
+  },
+  {
+    "Rank": "174",
+    "Player": "Tamara Zidansek",
+    "Wins": "36",
+    "Losses": "22",
+    "yElo": "1592.9"
+  },
+  {
+    "Rank": "175",
+    "Player": "Tatiana Prozorova",
+    "Wins": "32",
+    "Losses": "20",
+    "yElo": "1592.7"
+  },
+  {
+    "Rank": "176",
+    "Player": "Susan Bandecchi",
+    "Wins": "26",
+    "Losses": "24",
+    "yElo": "1591.8"
+  },
+  {
+    "Rank": "177",
+    "Player": "Teodora Kostovic",
+    "Wins": "35",
+    "Losses": "15",
+    "yElo": "1591.6"
+  },
+  {
+    "Rank": "178",
+    "Player": "Nuria Brancaccio",
+    "Wins": "28",
+    "Losses": "21",
+    "yElo": "1591.1"
+  },
+  {
+    "Rank": "179",
+    "Player": "Katarzyna Kawa",
+    "Wins": "33",
+    "Losses": "27",
+    "yElo": "1589.8"
+  },
+  {
+    "Rank": "180",
+    "Player": "Elizara Yaneva",
+    "Wins": "13",
+    "Losses": "4",
+    "yElo": "1588.6"
+  },
+  {
+    "Rank": "181",
+    "Player": "Tiantsoa Sarah Rakotomanga Rajaonah",
+    "Wins": "30",
+    "Losses": "22",
+    "yElo": "1587.2"
+  },
+  {
+    "Rank": "182",
+    "Player": "Carole Monnet",
+    "Wins": "33",
+    "Losses": "24",
+    "yElo": "1584.8"
+  },
+  {
+    "Rank": "183",
+    "Player": "Renata Jamrichova",
+    "Wins": "24",
+    "Losses": "20",
+    "yElo": "1584.7"
+  },
+  {
+    "Rank": "184",
+    "Player": "Olivia Gadecki",
+    "Wins": "22",
+    "Losses": "28",
+    "yElo": "1584.4"
+  },
+  {
+    "Rank": "185",
+    "Player": "Anna Lena Friedsam",
+    "Wins": "31",
+    "Losses": "19",
+    "yElo": "1583.6"
+  },
+  {
+    "Rank": "186",
+    "Player": "Vendula Valdmannova",
+    "Wins": "7",
+    "Losses": "3",
+    "yElo": "1581.1"
+  },
+  {
+    "Rank": "187",
+    "Player": "Francisca Jorge",
+    "Wins": "30",
+    "Losses": "20",
+    "yElo": "1578.7"
+  },
+  {
+    "Rank": "188",
+    "Player": "Elina Avanesyan",
+    "Wins": "12",
+    "Losses": "16",
+    "yElo": "1577.4"
+  },
+  {
+    "Rank": "189",
+    "Player": "Yeon Woo Ku",
+    "Wins": "10",
+    "Losses": "7",
+    "yElo": "1576.2"
+  },
+  {
+    "Rank": "190",
+    "Player": "Lea Nilsson",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1576.0"
+  },
+  {
+    "Rank": "191",
+    "Player": "Jana Fett",
+    "Wins": "22",
+    "Losses": "19",
+    "yElo": "1574.6"
+  },
+  {
+    "Rank": "192",
+    "Player": "Sara Dols",
+    "Wins": "4",
+    "Losses": "1",
+    "yElo": "1573.9"
+  },
+  {
+    "Rank": "193",
+    "Player": "Kayla Day",
+    "Wins": "14",
+    "Losses": "11",
+    "yElo": "1570.0"
+  },
+  {
+    "Rank": "194",
+    "Player": "Maddison Inglis",
+    "Wins": "35",
+    "Losses": "28",
+    "yElo": "1568.9"
+  },
+  {
+    "Rank": "195",
+    "Player": "Lisa Pigato",
+    "Wins": "11",
+    "Losses": "8",
+    "yElo": "1566.0"
+  },
+  {
+    "Rank": "196",
+    "Player": "Alice Rame",
+    "Wins": "35",
+    "Losses": "22",
+    "yElo": "1564.8"
+  },
+  {
+    "Rank": "197",
+    "Player": "Bernarda Pera",
+    "Wins": "15",
+    "Losses": "23",
+    "yElo": "1562.5"
+  },
+  {
+    "Rank": "198",
+    "Player": "Xinyu Gao",
+    "Wins": "25",
+    "Losses": "19",
+    "yElo": "1562.0"
+  },
+  {
+    "Rank": "199",
+    "Player": "Julieta Pareja",
+    "Wins": "9",
+    "Losses": "7",
+    "yElo": "1561.8"
+  },
+  {
+    "Rank": "200",
+    "Player": "Carol Young Suh Lee",
+    "Wins": "20",
+    "Losses": "7",
+    "yElo": "1560.4"
+  },
+  {
+    "Rank": "201",
+    "Player": "Cadence Brace",
+    "Wins": "26",
+    "Losses": "13",
+    "yElo": "1559.4"
+  },
+  {
+    "Rank": "202",
+    "Player": "Nina Stojanovic",
+    "Wins": "19",
+    "Losses": "15",
+    "yElo": "1559.3"
+  },
+  {
+    "Rank": "203",
+    "Player": "Iryna Shymanovich",
+    "Wins": "35",
+    "Losses": "22",
+    "yElo": "1558.1"
+  },
+  {
+    "Rank": "204",
+    "Player": "Elizabeth Mandlik",
+    "Wins": "25",
+    "Losses": "20",
+    "yElo": "1557.4"
+  },
+  {
+    "Rank": "205",
+    "Player": "Sara Sorribes Tormo",
+    "Wins": "13",
+    "Losses": "10",
+    "yElo": "1555.5"
+  },
+  {
+    "Rank": "206",
+    "Player": "Tara Wurth",
+    "Wins": "18",
+    "Losses": "16",
+    "yElo": "1555.4"
+  },
+  {
+    "Rank": "207",
+    "Player": "Arantxa Rus",
+    "Wins": "36",
+    "Losses": "34",
+    "yElo": "1554.2"
+  },
+  {
+    "Rank": "208",
+    "Player": "Guiomar Maristany Zuleta De Reales",
+    "Wins": "28",
+    "Losses": "23",
+    "yElo": "1553.8"
+  },
+  {
+    "Rank": "209",
+    "Player": "Yuliia Starodubtseva",
+    "Wins": "24",
+    "Losses": "35",
+    "yElo": "1550.6"
+  },
+  {
+    "Rank": "210",
+    "Player": "Elena Pridankina",
+    "Wins": "36",
+    "Losses": "25",
+    "yElo": "1550.3"
+  },
+  {
+    "Rank": "211",
+    "Player": "Clervie Ngounoue",
+    "Wins": "23",
+    "Losses": "14",
+    "yElo": "1547.0"
+  },
+  {
+    "Rank": "212",
+    "Player": "Ye Xin Ma",
+    "Wins": "21",
+    "Losses": "20",
+    "yElo": "1546.5"
+  },
+  {
+    "Rank": "213",
+    "Player": "Anna Pircher",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1544.9"
+  },
+  {
+    "Rank": "214",
+    "Player": "Fangran Tian",
+    "Wins": "16",
+    "Losses": "9",
+    "yElo": "1542.9"
+  },
+  {
+    "Rank": "215",
+    "Player": "Lidia Encheva",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1542.8"
+  },
+  {
+    "Rank": "216",
+    "Player": "Ekaterina Reyngold",
+    "Wins": "20",
+    "Losses": "8",
+    "yElo": "1542.3"
+  },
+  {
+    "Rank": "217",
+    "Player": "Alycia Parks",
+    "Wins": "19",
+    "Losses": "30",
+    "yElo": "1542.0"
+  },
+  {
+    "Rank": "218",
+    "Player": "Alevtina Ibragimova",
+    "Wins": "22",
+    "Losses": "19",
+    "yElo": "1541.8"
+  },
+  {
+    "Rank": "219",
+    "Player": "Andrea Lazaro Garcia",
+    "Wins": "29",
+    "Losses": "25",
+    "yElo": "1541.1"
+  },
+  {
+    "Rank": "220",
+    "Player": "Lucia Bronzetti",
+    "Wins": "21",
+    "Losses": "31",
+    "yElo": "1538.8"
+  },
+  {
+    "Rank": "221",
+    "Player": "Polina Kudermetova",
+    "Wins": "19",
+    "Losses": "26",
+    "yElo": "1538.3"
+  },
+  {
+    "Rank": "222",
+    "Player": "Kajsa Rinaldo Persson",
+    "Wins": "19",
+    "Losses": "14",
+    "yElo": "1535.7"
+  },
+  {
+    "Rank": "223",
+    "Player": "Carmen Andreea Herea",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1535.0"
+  },
+  {
+    "Rank": "224",
+    "Player": "Sofia Costoulas",
+    "Wins": "31",
+    "Losses": "18",
+    "yElo": "1533.7"
+  },
+  {
+    "Rank": "225",
+    "Player": "Jessika Ponchet",
+    "Wins": "32",
+    "Losses": "27",
+    "yElo": "1533.3"
+  },
+  {
+    "Rank": "226",
+    "Player": "Jana Kolodynska",
+    "Wins": "8",
+    "Losses": "4",
+    "yElo": "1530.9"
+  },
+  {
+    "Rank": "227",
+    "Player": "Monika Ekstrand",
+    "Wins": "4",
+    "Losses": "3",
+    "yElo": "1530.2"
+  },
+  {
+    "Rank": "228",
+    "Player": "Julia Riera",
+    "Wins": "24",
+    "Losses": "23",
+    "yElo": "1530.0"
+  },
+  {
+    "Rank": "229",
+    "Player": "Jesika Maleckova",
+    "Wins": "7",
+    "Losses": "7",
+    "yElo": "1529.7"
+  },
+  {
+    "Rank": "230",
+    "Player": "Katie Swan",
+    "Wins": "8",
+    "Losses": "4",
+    "yElo": "1529.0"
+  },
+  {
+    "Rank": "231",
+    "Player": "Aliona Bolsova",
+    "Wins": "20",
+    "Losses": "18",
+    "yElo": "1528.1"
+  },
+  {
+    "Rank": "232",
+    "Player": "Aliona Falei",
+    "Wins": "17",
+    "Losses": "16",
+    "yElo": "1528.1"
+  },
+  {
+    "Rank": "233",
+    "Player": "Ekaterine Gorgodze",
+    "Wins": "32",
+    "Losses": "24",
+    "yElo": "1527.9"
+  },
+  {
+    "Rank": "234",
+    "Player": "Heather Watson",
+    "Wins": "14",
+    "Losses": "18",
+    "yElo": "1527.6"
+  },
+  {
+    "Rank": "235",
+    "Player": "Mananchaya Sawangkaew",
+    "Wins": "16",
+    "Losses": "13",
+    "yElo": "1527.6"
+  },
+  {
+    "Rank": "236",
+    "Player": "Miriam Bianca Bulgaru",
+    "Wins": "28",
+    "Losses": "30",
+    "yElo": "1527.1"
+  },
+  {
+    "Rank": "237",
+    "Player": "Mona Barthel",
+    "Wins": "23",
+    "Losses": "22",
+    "yElo": "1526.7"
+  },
+  {
+    "Rank": "238",
+    "Player": "Camilla Rosatello",
+    "Wins": "30",
+    "Losses": "19",
+    "yElo": "1526.2"
+  },
+  {
+    "Rank": "239",
+    "Player": "Mingge Xu",
+    "Wins": "15",
+    "Losses": "13",
+    "yElo": "1525.9"
+  },
+  {
+    "Rank": "240",
+    "Player": "Anastasia Gasanova",
+    "Wins": "12",
+    "Losses": "11",
+    "yElo": "1525.7"
+  },
+  {
+    "Rank": "241",
+    "Player": "Ariana Geerlings",
+    "Wins": "11",
+    "Losses": "8",
+    "yElo": "1525.3"
+  },
+  {
+    "Rank": "242",
+    "Player": "Alexis Blokhina",
+    "Wins": "11",
+    "Losses": "5",
+    "yElo": "1525.0"
+  },
+  {
+    "Rank": "243",
+    "Player": "Wakana Sonobe",
+    "Wins": "16",
+    "Losses": "13",
+    "yElo": "1524.7"
+  },
+  {
+    "Rank": "244",
+    "Player": "Nao Hibino",
+    "Wins": "27",
+    "Losses": "26",
+    "yElo": "1524.7"
+  },
+  {
+    "Rank": "245",
+    "Player": "Ena Shibahara",
+    "Wins": "25",
+    "Losses": "27",
+    "yElo": "1523.3"
+  },
+  {
+    "Rank": "246",
+    "Player": "Martina Colmegna",
+    "Wins": "5",
+    "Losses": "4",
+    "yElo": "1522.8"
+  },
+  {
+    "Rank": "247",
+    "Player": "Rada Zolotareva",
+    "Wins": "7",
+    "Losses": "3",
+    "yElo": "1522.8"
+  },
+  {
+    "Rank": "248",
+    "Player": "Fiona Crawley",
+    "Wins": "13",
+    "Losses": "10",
+    "yElo": "1522.6"
+  },
+  {
+    "Rank": "249",
+    "Player": "Gabriela Andrea Knutson",
+    "Wins": "30",
+    "Losses": "24",
+    "yElo": "1521.4"
+  },
+  {
+    "Rank": "250",
+    "Player": "Mariam Bolkvadze",
+    "Wins": "19",
+    "Losses": "16",
+    "yElo": "1517.1"
+  },
+  {
+    "Rank": "251",
+    "Player": "Elena Ruxandra Bertea",
+    "Wins": "14",
+    "Losses": "8",
+    "yElo": "1516.7"
+  },
+  {
+    "Rank": "252",
+    "Player": "Kayla Cross",
+    "Wins": "26",
+    "Losses": "26",
+    "yElo": "1512.5"
+  },
+  {
+    "Rank": "253",
+    "Player": "Storm Hunter",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1512.1"
+  },
+  {
+    "Rank": "254",
+    "Player": "Amarissa Kiara Toth",
+    "Wins": "19",
+    "Losses": "11",
+    "yElo": "1511.1"
+  },
+  {
+    "Rank": "255",
+    "Player": "Lina Gjorcheska",
+    "Wins": "22",
+    "Losses": "19",
+    "yElo": "1510.7"
+  },
+  {
+    "Rank": "256",
+    "Player": "Mathilde Lollia",
+    "Wins": "8",
+    "Losses": "6",
+    "yElo": "1507.8"
+  },
+  {
+    "Rank": "257",
+    "Player": "Harmony Tan",
+    "Wins": "25",
+    "Losses": "18",
+    "yElo": "1506.8"
+  },
+  {
+    "Rank": "258",
+    "Player": "Eleejah Inisan",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1506.0"
+  },
+  {
+    "Rank": "259",
+    "Player": "Mary Stoiana",
+    "Wins": "10",
+    "Losses": "11",
+    "yElo": "1505.6"
+  },
+  {
+    "Rank": "260",
+    "Player": "Aleksandra Krunic",
+    "Wins": "15",
+    "Losses": "11",
+    "yElo": "1505.5"
+  },
+  {
+    "Rank": "261",
+    "Player": "Kyoka Okamura",
+    "Wins": "24",
+    "Losses": "28",
+    "yElo": "1504.0"
+  },
+  {
+    "Rank": "262",
+    "Player": "Sayaka Ishii",
+    "Wins": "18",
+    "Losses": "17",
+    "yElo": "1502.2"
+  },
+  {
+    "Rank": "263",
+    "Player": "Viktoria Hruncakova",
+    "Wins": "22",
+    "Losses": "16",
+    "yElo": "1498.7"
+  },
+  {
+    "Rank": "264",
+    "Player": "Tyra Caterina Grant",
+    "Wins": "24",
+    "Losses": "19",
+    "yElo": "1498.3"
+  },
+  {
+    "Rank": "265",
+    "Player": "Astra Sharma",
+    "Wins": "26",
+    "Losses": "23",
+    "yElo": "1496.2"
+  },
+  {
+    "Rank": "266",
+    "Player": "Anouk Koevermans",
+    "Wins": "28",
+    "Losses": "26",
+    "yElo": "1496.0"
+  },
+  {
+    "Rank": "267",
+    "Player": "Chloe Paquet",
+    "Wins": "19",
+    "Losses": "33",
+    "yElo": "1495.0"
+  },
+  {
+    "Rank": "268",
+    "Player": "Fiona Ferro",
+    "Wins": "9",
+    "Losses": "7",
+    "yElo": "1494.4"
+  },
+  {
+    "Rank": "269",
+    "Player": "Alize Cornet",
+    "Wins": "4",
+    "Losses": "6",
+    "yElo": "1492.4"
+  },
+  {
+    "Rank": "270",
+    "Player": "Emina Bektas",
+    "Wins": "22",
+    "Losses": "22",
+    "yElo": "1490.9"
+  },
+  {
+    "Rank": "271",
+    "Player": "Manon Leonard",
+    "Wins": "25",
+    "Losses": "21",
+    "yElo": "1490.6"
+  },
+  {
+    "Rank": "272",
+    "Player": "Tereza Martincova",
+    "Wins": "13",
+    "Losses": "11",
+    "yElo": "1490.2"
+  },
+  {
+    "Rank": "273",
+    "Player": "Despina Papamichail",
+    "Wins": "26",
+    "Losses": "19",
+    "yElo": "1489.9"
+  },
+  {
+    "Rank": "274",
+    "Player": "Kristina Dmitruk",
+    "Wins": "13",
+    "Losses": "13",
+    "yElo": "1489.3"
+  },
+  {
+    "Rank": "275",
+    "Player": "Sara Errani",
+    "Wins": "3",
+    "Losses": "9",
+    "yElo": "1489.3"
+  },
+  {
+    "Rank": "276",
+    "Player": "Mia Ristic",
+    "Wins": "20",
+    "Losses": "16",
+    "yElo": "1488.5"
+  },
+  {
+    "Rank": "277",
+    "Player": "Caijsa Wilda Hennemann",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1488.3"
+  },
+  {
+    "Rank": "278",
+    "Player": "Louisa Chirico",
+    "Wins": "21",
+    "Losses": "27",
+    "yElo": "1487.7"
+  },
+  {
+    "Rank": "279",
+    "Player": "Nuria Parrizas Diaz",
+    "Wins": "15",
+    "Losses": "20",
+    "yElo": "1487.7"
+  },
+  {
+    "Rank": "280",
+    "Player": "Julie Struplova",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1484.0"
+  },
+  {
+    "Rank": "281",
+    "Player": "Alena Kovackova",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1483.7"
+  },
+  {
+    "Rank": "282",
+    "Player": "Ane Mintegi Del Olmo",
+    "Wins": "8",
+    "Losses": "6",
+    "yElo": "1481.3"
+  },
+  {
+    "Rank": "283",
+    "Player": "Eva Marie Voracek",
+    "Wins": "3",
+    "Losses": "1",
+    "yElo": "1480.9"
+  },
+  {
+    "Rank": "284",
+    "Player": "Maaya Rajeshwaran Revathi",
+    "Wins": "7",
+    "Losses": "4",
+    "yElo": "1480.5"
+  },
+  {
+    "Rank": "285",
+    "Player": "Yuriko Miyazaki",
+    "Wins": "30",
+    "Losses": "23",
+    "yElo": "1478.4"
+  },
+  {
+    "Rank": "286",
+    "Player": "Brenda Fruhvirtova",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1477.3"
+  },
+  {
+    "Rank": "287",
+    "Player": "Ana Bogdan",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1475.7"
+  },
+  {
+    "Rank": "288",
+    "Player": "Giulia Safina Popa",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1472.3"
+  },
+  {
+    "Rank": "289",
+    "Player": "Vitalia Diatchenko",
+    "Wins": "11",
+    "Losses": "9",
+    "yElo": "1471.9"
+  },
+  {
+    "Rank": "290",
+    "Player": "Carla Markus",
+    "Wins": "6",
+    "Losses": "3",
+    "yElo": "1471.3"
+  },
+  {
+    "Rank": "291",
+    "Player": "Destanee Aiava",
+    "Wins": "19",
+    "Losses": "22",
+    "yElo": "1471.0"
+  },
+  {
+    "Rank": "292",
+    "Player": "Silvia Ambrosio",
+    "Wins": "28",
+    "Losses": "21",
+    "yElo": "1469.9"
+  },
+  {
+    "Rank": "293",
+    "Player": "Petra Sedlackova",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1468.6"
+  },
+  {
+    "Rank": "294",
+    "Player": "Viktoria Morvayova",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1468.0"
+  },
+  {
+    "Rank": "295",
+    "Player": "Mei Yamaguchi",
+    "Wins": "29",
+    "Losses": "31",
+    "yElo": "1467.8"
+  },
+  {
+    "Rank": "296",
+    "Player": "Noma Noha Akugue",
+    "Wins": "39",
+    "Losses": "32",
+    "yElo": "1467.2"
+  },
+  {
+    "Rank": "297",
+    "Player": "Sijia Wei",
+    "Wins": "25",
+    "Losses": "26",
+    "yElo": "1466.4"
+  },
+  {
+    "Rank": "298",
+    "Player": "Yidi Yang",
+    "Wins": "7",
+    "Losses": "8",
+    "yElo": "1466.1"
+  },
+  {
+    "Rank": "299",
+    "Player": "Gabriela Ce",
+    "Wins": "12",
+    "Losses": "11",
+    "yElo": "1465.8"
+  },
+  {
+    "Rank": "300",
+    "Player": "Anastasiia Gureva",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1463.7"
+  },
+  {
+    "Rank": "301",
+    "Player": "Maria Lourdes Carle",
+    "Wins": "33",
+    "Losses": "31",
+    "yElo": "1463.2"
+  },
+  {
+    "Rank": "302",
+    "Player": "Caroline Uebelhoer",
+    "Wins": "26",
+    "Losses": "24",
+    "yElo": "1462.5"
+  },
+  {
+    "Rank": "303",
+    "Player": "Eunhye Lee",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1460.5"
+  },
+  {
+    "Rank": "304",
+    "Player": "Selena Janicijevic",
+    "Wins": "28",
+    "Losses": "33",
+    "yElo": "1460.2"
+  },
+  {
+    "Rank": "305",
+    "Player": "Anna Karolina Schmiedlova",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1460.1"
+  },
+  {
+    "Rank": "306",
+    "Player": "Kristina Liutova",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1458.9"
+  },
+  {
+    "Rank": "307",
+    "Player": "Marina Bassols Ribera",
+    "Wins": "22",
+    "Losses": "20",
+    "yElo": "1458.4"
+  },
+  {
+    "Rank": "308",
+    "Player": "Eva Vedder",
+    "Wins": "29",
+    "Losses": "25",
+    "yElo": "1457.4"
+  },
+  {
+    "Rank": "309",
+    "Player": "Jazmin Ortenzi",
+    "Wins": "14",
+    "Losses": "14",
+    "yElo": "1454.6"
+  },
+  {
+    "Rank": "310",
+    "Player": "Marie Benoit",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1454.2"
+  },
+  {
+    "Rank": "311",
+    "Player": "Tiphanie Fiquet",
+    "Wins": "12",
+    "Losses": "10",
+    "yElo": "1453.9"
+  },
+  {
+    "Rank": "312",
+    "Player": "Celine Naef",
+    "Wins": "20",
+    "Losses": "20",
+    "yElo": "1453.5"
+  },
+  {
+    "Rank": "313",
+    "Player": "Ranah Akua Stoiber",
+    "Wins": "10",
+    "Losses": "10",
+    "yElo": "1453.1"
+  },
+  {
+    "Rank": "314",
+    "Player": "Rina Saigo",
+    "Wins": "8",
+    "Losses": "7",
+    "yElo": "1451.5"
+  },
+  {
+    "Rank": "315",
+    "Player": "Anastasia Zolotareva",
+    "Wins": "8",
+    "Losses": "7",
+    "yElo": "1451.0"
+  },
+  {
+    "Rank": "316",
+    "Player": "Jule Niemeier",
+    "Wins": "11",
+    "Losses": "24",
+    "yElo": "1449.5"
+  },
+  {
+    "Rank": "317",
+    "Player": "Isis Louise Van Den Broek",
+    "Wins": "4",
+    "Losses": "3",
+    "yElo": "1449.1"
+  },
+  {
+    "Rank": "318",
+    "Player": "Jessica Pieri",
+    "Wins": "23",
+    "Losses": "19",
+    "yElo": "1449.1"
+  },
+  {
+    "Rank": "319",
+    "Player": "Maria Golovina",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1447.1"
+  },
+  {
+    "Rank": "320",
+    "Player": "Zhibek Kulambayeva",
+    "Wins": "14",
+    "Losses": "12",
+    "yElo": "1446.9"
+  },
+  {
+    "Rank": "321",
+    "Player": "Ayla Aksu",
+    "Wins": "13",
+    "Losses": "16",
+    "yElo": "1445.2"
+  },
+  {
+    "Rank": "322",
+    "Player": "Amarni Banks",
+    "Wins": "10",
+    "Losses": "11",
+    "yElo": "1444.7"
+  },
+  {
+    "Rank": "323",
+    "Player": "Ana Sofia Sanchez",
+    "Wins": "20",
+    "Losses": "12",
+    "yElo": "1444.1"
+  },
+  {
+    "Rank": "324",
+    "Player": "Arina Rodionova",
+    "Wins": "27",
+    "Losses": "23",
+    "yElo": "1444.0"
+  },
+  {
+    "Rank": "325",
+    "Player": "Akasha Urhobo",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1443.8"
+  },
+  {
+    "Rank": "326",
+    "Player": "Katherine Sebov",
+    "Wins": "20",
+    "Losses": "17",
+    "yElo": "1443.5"
+  },
+  {
+    "Rank": "327",
+    "Player": "Emeline Dartron",
+    "Wins": "12",
+    "Losses": "10",
+    "yElo": "1443.3"
+  },
+  {
+    "Rank": "328",
+    "Player": "Eryn Cayetano",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1442.8"
+  },
+  {
+    "Rank": "329",
+    "Player": "Marianna Argyrokastriti",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1442.5"
+  },
+  {
+    "Rank": "330",
+    "Player": "Matilde Paoletti",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1442.4"
+  },
+  {
+    "Rank": "331",
+    "Player": "Mina Hodzic",
+    "Wins": "10",
+    "Losses": "12",
+    "yElo": "1442.4"
+  },
+  {
+    "Rank": "332",
+    "Player": "Maria Sara Popa",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1442.0"
+  },
+  {
+    "Rank": "333",
+    "Player": "Draginja Vukovic",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1439.7"
+  },
+  {
+    "Rank": "334",
+    "Player": "Shrivalli Rashmikaa Bhamidipaty",
+    "Wins": "9",
+    "Losses": "8",
+    "yElo": "1439.4"
+  },
+  {
+    "Rank": "335",
+    "Player": "Amandine Hesse",
+    "Wins": "14",
+    "Losses": "21",
+    "yElo": "1437.5"
+  },
+  {
+    "Rank": "336",
+    "Player": "Erika Andreeva",
+    "Wins": "11",
+    "Losses": "21",
+    "yElo": "1436.5"
+  },
+  {
+    "Rank": "337",
+    "Player": "Valentina Steiner",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1436.1"
+  },
+  {
+    "Rank": "338",
+    "Player": "Amandine Monnot",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1435.9"
+  },
+  {
+    "Rank": "339",
+    "Player": "Isabella Shinikova",
+    "Wins": "10",
+    "Losses": "10",
+    "yElo": "1435.6"
+  },
+  {
+    "Rank": "340",
+    "Player": "Sachia Vickery",
+    "Wins": "7",
+    "Losses": "7",
+    "yElo": "1435.3"
+  },
+  {
+    "Rank": "341",
+    "Player": "Anastasiya Soboleva",
+    "Wins": "22",
+    "Losses": "26",
+    "yElo": "1435.3"
+  },
+  {
+    "Rank": "342",
+    "Player": "Alexandra Vagramov",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1434.5"
+  },
+  {
+    "Rank": "343",
+    "Player": "Miho Kuramochi",
+    "Wins": "11",
+    "Losses": "10",
+    "yElo": "1434.1"
+  },
+  {
+    "Rank": "344",
+    "Player": "Zarina Diyas",
+    "Wins": "24",
+    "Losses": "18",
+    "yElo": "1433.9"
+  },
+  {
+    "Rank": "345",
+    "Player": "Laura Pigossi",
+    "Wins": "21",
+    "Losses": "32",
+    "yElo": "1433.6"
+  },
+  {
+    "Rank": "346",
+    "Player": "Sahaja Yamalapalli",
+    "Wins": "10",
+    "Losses": "12",
+    "yElo": "1433.5"
+  },
+  {
+    "Rank": "347",
+    "Player": "Angelina Voloshchuk",
+    "Wins": "9",
+    "Losses": "12",
+    "yElo": "1433.2"
+  },
+  {
+    "Rank": "348",
+    "Player": "Ayana Akli",
+    "Wins": "16",
+    "Losses": "14",
+    "yElo": "1432.1"
+  },
+  {
+    "Rank": "349",
+    "Player": "Kristiana Sidorova",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1431.7"
+  },
+  {
+    "Rank": "350",
+    "Player": "Taylah Preston",
+    "Wins": "20",
+    "Losses": "19",
+    "yElo": "1431.6"
+  },
+  {
+    "Rank": "351",
+    "Player": "Margaux Rouvroy",
+    "Wins": "19",
+    "Losses": "22",
+    "yElo": "1430.8"
+  },
+  {
+    "Rank": "352",
+    "Player": "Stephanie Wagner",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1430.4"
+  },
+  {
+    "Rank": "353",
+    "Player": "Madison Brengle",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1430.4"
+  },
+  {
+    "Rank": "354",
+    "Player": "Lisa Zaar",
+    "Wins": "8",
+    "Losses": "8",
+    "yElo": "1428.7"
+  },
+  {
+    "Rank": "355",
+    "Player": "Carol Zhao",
+    "Wins": "14",
+    "Losses": "18",
+    "yElo": "1427.6"
+  },
+  {
+    "Rank": "356",
+    "Player": "Carolyn Ansari",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1427.5"
+  },
+  {
+    "Rank": "357",
+    "Player": "Mariia Tkacheva",
+    "Wins": "7",
+    "Losses": "6",
+    "yElo": "1426.7"
+  },
+  {
+    "Rank": "358",
+    "Player": "Elena Milovanovic",
+    "Wins": "3",
+    "Losses": "2",
+    "yElo": "1426.6"
+  },
+  {
+    "Rank": "359",
+    "Player": "Noemi Basiletti",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1426.3"
+  },
+  {
+    "Rank": "360",
+    "Player": "Raquel Gonzalez Vilar",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1425.8"
+  },
+  {
+    "Rank": "361",
+    "Player": "Matilde Jorge",
+    "Wins": "26",
+    "Losses": "23",
+    "yElo": "1424.5"
+  },
+  {
+    "Rank": "362",
+    "Player": "Oana Georgeta Simion",
+    "Wins": "7",
+    "Losses": "5",
+    "yElo": "1423.6"
+  },
+  {
+    "Rank": "363",
+    "Player": "Alessandra Mazzola",
+    "Wins": "7",
+    "Losses": "7",
+    "yElo": "1423.4"
+  },
+  {
+    "Rank": "364",
+    "Player": "Laura Mair",
+    "Wins": "7",
+    "Losses": "5",
+    "yElo": "1421.8"
+  },
+  {
+    "Rank": "365",
+    "Player": "Arianne Hartono",
+    "Wins": "25",
+    "Losses": "31",
+    "yElo": "1421.3"
+  },
+  {
+    "Rank": "366",
+    "Player": "Astrid Lew Yan Foon",
+    "Wins": "12",
+    "Losses": "10",
+    "yElo": "1421.0"
+  },
+  {
+    "Rank": "367",
+    "Player": "Sohyun Park",
+    "Wins": "17",
+    "Losses": "13",
+    "yElo": "1419.3"
+  },
+  {
+    "Rank": "368",
+    "Player": "Lizette Cabrera",
+    "Wins": "15",
+    "Losses": "17",
+    "yElo": "1419.2"
+  },
+  {
+    "Rank": "369",
+    "Player": "Valentina Ryser",
+    "Wins": "22",
+    "Losses": "18",
+    "yElo": "1418.1"
+  },
+  {
+    "Rank": "370",
+    "Player": "Darya Astakhova",
+    "Wins": "8",
+    "Losses": "12",
+    "yElo": "1417.6"
+  },
+  {
+    "Rank": "371",
+    "Player": "Antonia Vergara Rivera",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1417.6"
+  },
+  {
+    "Rank": "372",
+    "Player": "Vaidehi Chaudhari",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1416.8"
+  },
+  {
+    "Rank": "373",
+    "Player": "Victoria Rodriguez",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1416.0"
+  },
+  {
+    "Rank": "374",
+    "Player": "Leyre Romero Gormaz",
+    "Wins": "25",
+    "Losses": "29",
+    "yElo": "1415.0"
+  },
+  {
+    "Rank": "375",
+    "Player": "Sara Daavettila",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1413.9"
+  },
+  {
+    "Rank": "376",
+    "Player": "Weronika Ewald",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1412.7"
+  },
+  {
+    "Rank": "377",
+    "Player": "Nastasja Schunk",
+    "Wins": "7",
+    "Losses": "14",
+    "yElo": "1412.5"
+  },
+  {
+    "Rank": "378",
+    "Player": "Miriana Tona",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1411.7"
+  },
+  {
+    "Rank": "379",
+    "Player": "Julia Avdeeva",
+    "Wins": "21",
+    "Losses": "19",
+    "yElo": "1411.7"
+  },
+  {
+    "Rank": "380",
+    "Player": "Salma Ewing",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1411.7"
+  },
+  {
+    "Rank": "381",
+    "Player": "Hina Inoue",
+    "Wins": "17",
+    "Losses": "21",
+    "yElo": "1411.4"
+  },
+  {
+    "Rank": "382",
+    "Player": "Joelle Lilly Sophie Steur",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1411.1"
+  },
+  {
+    "Rank": "383",
+    "Player": "Tessah Andrianjafitrimo",
+    "Wins": "20",
+    "Losses": "22",
+    "yElo": "1411.0"
+  },
+  {
+    "Rank": "384",
+    "Player": "Dasha Plekhanova",
+    "Wins": "7",
+    "Losses": "4",
+    "yElo": "1409.3"
+  },
+  {
+    "Rank": "385",
+    "Player": "Irina Bara",
+    "Wins": "12",
+    "Losses": "11",
+    "yElo": "1409.1"
+  },
+  {
+    "Rank": "386",
+    "Player": "Iveta Dapkute",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1408.0"
+  },
+  {
+    "Rank": "387",
+    "Player": "Sofia Rocchetti",
+    "Wins": "6",
+    "Losses": "6",
+    "yElo": "1407.4"
+  },
+  {
+    "Rank": "388",
+    "Player": "Haley Giavara",
+    "Wins": "14",
+    "Losses": "16",
+    "yElo": "1407.3"
+  },
+  {
+    "Rank": "389",
+    "Player": "Berfu Cengiz",
+    "Wins": "7",
+    "Losses": "12",
+    "yElo": "1406.7"
+  },
+  {
+    "Rank": "390",
+    "Player": "Anna Siskova",
+    "Wins": "12",
+    "Losses": "11",
+    "yElo": "1406.7"
+  },
+  {
+    "Rank": "391",
+    "Player": "Noelia Bouzo Zanotti",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1406.3"
+  },
+  {
+    "Rank": "392",
+    "Player": "Anja Stankovic",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1406.1"
+  },
+  {
+    "Rank": "393",
+    "Player": "Polona Hercog",
+    "Wins": "5",
+    "Losses": "9",
+    "yElo": "1405.9"
+  },
+  {
+    "Rank": "394",
+    "Player": "Ylena In Albon",
+    "Wins": "12",
+    "Losses": "15",
+    "yElo": "1405.6"
+  },
+  {
+    "Rank": "395",
+    "Player": "Radka Zelnickova",
+    "Wins": "9",
+    "Losses": "12",
+    "yElo": "1405.5"
+  },
+  {
+    "Rank": "396",
+    "Player": "Elvina Kalieva",
+    "Wins": "21",
+    "Losses": "27",
+    "yElo": "1404.5"
+  },
+  {
+    "Rank": "397",
+    "Player": "Daria Kudashova",
+    "Wins": "9",
+    "Losses": "9",
+    "yElo": "1404.5"
+  },
+  {
+    "Rank": "398",
+    "Player": "Alexandra Shubladze",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1404.4"
+  },
+  {
+    "Rank": "399",
+    "Player": "Jodie Burrage",
+    "Wins": "10",
+    "Losses": "24",
+    "yElo": "1403.1"
+  },
+  {
+    "Rank": "400",
+    "Player": "Raluka Serban",
+    "Wins": "30",
+    "Losses": "31",
+    "yElo": "1401.8"
+  },
+  {
+    "Rank": "401",
+    "Player": "Justina Mikulskyte",
+    "Wins": "27",
+    "Losses": "23",
+    "yElo": "1401.7"
+  },
+  {
+    "Rank": "402",
+    "Player": "Alicia Herrero Linana",
+    "Wins": "18",
+    "Losses": "18",
+    "yElo": "1401.2"
+  },
+  {
+    "Rank": "403",
+    "Player": "Irene Burillo Escorihuela",
+    "Wins": "15",
+    "Losses": "23",
+    "yElo": "1400.9"
+  },
+  {
+    "Rank": "404",
+    "Player": "Hiromi Abe",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1398.8"
+  },
+  {
+    "Rank": "405",
+    "Player": "Aneta Kladivova",
+    "Wins": "13",
+    "Losses": "13",
+    "yElo": "1398.1"
+  },
+  {
+    "Rank": "406",
+    "Player": "Rasheeda Mcadoo",
+    "Wins": "8",
+    "Losses": "8",
+    "yElo": "1398.0"
+  },
+  {
+    "Rank": "407",
+    "Player": "Thaisa Grana Pedretti",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1397.8"
+  },
+  {
+    "Rank": "408",
+    "Player": "Ikumi Yamazaki",
+    "Wins": "10",
+    "Losses": "9",
+    "yElo": "1397.0"
+  },
+  {
+    "Rank": "409",
+    "Player": "Denislava Glushkova",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1396.0"
+  },
+  {
+    "Rank": "410",
+    "Player": "Maia Ilinca Burcescu",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1396.0"
+  },
+  {
+    "Rank": "411",
+    "Player": "Gabriela Lee",
+    "Wins": "15",
+    "Losses": "15",
+    "yElo": "1395.3"
+  },
+  {
+    "Rank": "412",
+    "Player": "Josy Daems",
+    "Wins": "5",
+    "Losses": "5",
+    "yElo": "1395.3"
+  },
+  {
+    "Rank": "413",
+    "Player": "Deborah Chiesa",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1394.6"
+  },
+  {
+    "Rank": "414",
+    "Player": "Xiaodi You",
+    "Wins": "14",
+    "Losses": "15",
+    "yElo": "1394.5"
+  },
+  {
+    "Rank": "415",
+    "Player": "Tina Nadine Smith",
+    "Wins": "18",
+    "Losses": "24",
+    "yElo": "1393.8"
+  },
+  {
+    "Rank": "416",
+    "Player": "Victoria Allen",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1393.6"
+  },
+  {
+    "Rank": "417",
+    "Player": "Katarina Zavatska",
+    "Wins": "17",
+    "Losses": "20",
+    "yElo": "1392.8"
+  },
+  {
+    "Rank": "418",
+    "Player": "Lea Ma",
+    "Wins": "14",
+    "Losses": "14",
+    "yElo": "1392.4"
+  },
+  {
+    "Rank": "419",
+    "Player": "Kira Pavlova",
+    "Wins": "5",
+    "Losses": "8",
+    "yElo": "1391.7"
+  },
+  {
+    "Rank": "420",
+    "Player": "Barbora Palicova",
+    "Wins": "25",
+    "Losses": "31",
+    "yElo": "1390.1"
+  },
+  {
+    "Rank": "421",
+    "Player": "Ashley Lahey",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1389.5"
+  },
+  {
+    "Rank": "422",
+    "Player": "Elena Malygina",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1388.9"
+  },
+  {
+    "Rank": "423",
+    "Player": "Momoko Kobori",
+    "Wins": "8",
+    "Losses": "12",
+    "yElo": "1388.2"
+  },
+  {
+    "Rank": "424",
+    "Player": "Anastasia Abbagnato",
+    "Wins": "11",
+    "Losses": "7",
+    "yElo": "1386.5"
+  },
+  {
+    "Rank": "425",
+    "Player": "Anna Sinclair Rogers",
+    "Wins": "13",
+    "Losses": "25",
+    "yElo": "1386.0"
+  },
+  {
+    "Rank": "426",
+    "Player": "En Shuo Liang",
+    "Wins": "14",
+    "Losses": "17",
+    "yElo": "1384.2"
+  },
+  {
+    "Rank": "427",
+    "Player": "Noelia Zeballos",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1384.1"
+  },
+  {
+    "Rank": "428",
+    "Player": "Marine Szostak",
+    "Wins": "6",
+    "Losses": "6",
+    "yElo": "1381.6"
+  },
+  {
+    "Rank": "429",
+    "Player": "Mara Guth",
+    "Wins": "3",
+    "Losses": "3",
+    "yElo": "1380.3"
+  },
+  {
+    "Rank": "430",
+    "Player": "Bianca Elena Barbulescu",
+    "Wins": "4",
+    "Losses": "4",
+    "yElo": "1380.0"
+  },
+  {
+    "Rank": "431",
+    "Player": "Meiqi Guo",
+    "Wins": "7",
+    "Losses": "7",
+    "yElo": "1379.4"
+  },
+  {
+    "Rank": "432",
+    "Player": "Ena Koike",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1378.6"
+  },
+  {
+    "Rank": "433",
+    "Player": "Federica Urgesi",
+    "Wins": "11",
+    "Losses": "13",
+    "yElo": "1378.2"
+  },
+  {
+    "Rank": "434",
+    "Player": "Elina Nepliy",
+    "Wins": "8",
+    "Losses": "4",
+    "yElo": "1378.0"
+  },
+  {
+    "Rank": "435",
+    "Player": "Elena Micic",
+    "Wins": "9",
+    "Losses": "16",
+    "yElo": "1376.2"
+  },
+  {
+    "Rank": "436",
+    "Player": "Priska Madelyn Nugroho",
+    "Wins": "12",
+    "Losses": "16",
+    "yElo": "1375.6"
+  },
+  {
+    "Rank": "437",
+    "Player": "Ariana Arseneault",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1375.4"
+  },
+  {
+    "Rank": "438",
+    "Player": "Alize Lim",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1374.3"
+  },
+  {
+    "Rank": "439",
+    "Player": "Nahia Berecoechea",
+    "Wins": "7",
+    "Losses": "12",
+    "yElo": "1373.2"
+  },
+  {
+    "Rank": "440",
+    "Player": "Yasmine Mansouri",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1370.8"
+  },
+  {
+    "Rank": "441",
+    "Player": "Kamilla Bartone",
+    "Wins": "4",
+    "Losses": "5",
+    "yElo": "1370.8"
+  },
+  {
+    "Rank": "442",
+    "Player": "Robin Anderson",
+    "Wins": "9",
+    "Losses": "9",
+    "yElo": "1369.2"
+  },
+  {
+    "Rank": "443",
+    "Player": "Karina Miller",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1368.7"
+  },
+  {
+    "Rank": "444",
+    "Player": "Mai Hontama",
+    "Wins": "21",
+    "Losses": "31",
+    "yElo": "1366.9"
+  },
+  {
+    "Rank": "445",
+    "Player": "Cagla Buyukakcay",
+    "Wins": "16",
+    "Losses": "17",
+    "yElo": "1365.8"
+  },
+  {
+    "Rank": "446",
+    "Player": "Angela Fita Boluda",
+    "Wins": "20",
+    "Losses": "27",
+    "yElo": "1365.5"
+  },
+  {
+    "Rank": "447",
+    "Player": "Francesca Curmi",
+    "Wins": "18",
+    "Losses": "16",
+    "yElo": "1364.4"
+  },
+  {
+    "Rank": "448",
+    "Player": "Sofya Lansere",
+    "Wins": "9",
+    "Losses": "10",
+    "yElo": "1363.5"
+  },
+  {
+    "Rank": "449",
+    "Player": "Zongyu Li",
+    "Wins": "8",
+    "Losses": "9",
+    "yElo": "1362.1"
+  },
+  {
+    "Rank": "450",
+    "Player": "Tatiana Pieri",
+    "Wins": "11",
+    "Losses": "13",
+    "yElo": "1361.9"
+  },
+  {
+    "Rank": "451",
+    "Player": "Yuliya Hatouka",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1360.8"
+  },
+  {
+    "Rank": "452",
+    "Player": "Kathinka Von Deichmann",
+    "Wins": "24",
+    "Losses": "31",
+    "yElo": "1360.6"
+  },
+  {
+    "Rank": "453",
+    "Player": "Samira De Stefano",
+    "Wins": "8",
+    "Losses": "13",
+    "yElo": "1359.4"
+  },
+  {
+    "Rank": "454",
+    "Player": "Sara Saito",
+    "Wins": "23",
+    "Losses": "25",
+    "yElo": "1359.3"
+  },
+  {
+    "Rank": "455",
+    "Player": "Stephanie Judith Visscher",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1359.0"
+  },
+  {
+    "Rank": "456",
+    "Player": "Lea Boskovic",
+    "Wins": "14",
+    "Losses": "20",
+    "yElo": "1358.6"
+  },
+  {
+    "Rank": "457",
+    "Player": "Sada Nahimana",
+    "Wins": "25",
+    "Losses": "23",
+    "yElo": "1358.6"
+  },
+  {
+    "Rank": "458",
+    "Player": "Ilinca Dalina Amariei",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1358.1"
+  },
+  {
+    "Rank": "459",
+    "Player": "Rositsa Dencheva",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1357.8"
+  },
+  {
+    "Rank": "460",
+    "Player": "Eva Maria Ionescu",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1357.3"
+  },
+  {
+    "Rank": "461",
+    "Player": "Amelia Rajecki",
+    "Wins": "8",
+    "Losses": "12",
+    "yElo": "1356.9"
+  },
+  {
+    "Rank": "462",
+    "Player": "Madison Sieg",
+    "Wins": "9",
+    "Losses": "11",
+    "yElo": "1355.9"
+  },
+  {
+    "Rank": "463",
+    "Player": "Andreea Prisacariu",
+    "Wins": "5",
+    "Losses": "9",
+    "yElo": "1353.7"
+  },
+  {
+    "Rank": "464",
+    "Player": "Akiko Omae",
+    "Wins": "4",
+    "Losses": "6",
+    "yElo": "1351.8"
+  },
+  {
+    "Rank": "465",
+    "Player": "Julie Belgraver",
+    "Wins": "15",
+    "Losses": "18",
+    "yElo": "1351.5"
+  },
+  {
+    "Rank": "466",
+    "Player": "Saki Imamura",
+    "Wins": "14",
+    "Losses": "15",
+    "yElo": "1347.8"
+  },
+  {
+    "Rank": "467",
+    "Player": "Hanna Chang",
+    "Wins": "20",
+    "Losses": "30",
+    "yElo": "1347.6"
+  },
+  {
+    "Rank": "468",
+    "Player": "Maria Kozyreva",
+    "Wins": "6",
+    "Losses": "13",
+    "yElo": "1347.4"
+  },
+  {
+    "Rank": "469",
+    "Player": "Maria Martinez Vaquero",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1346.7"
+  },
+  {
+    "Rank": "470",
+    "Player": "Lauren Davis",
+    "Wins": "6",
+    "Losses": "13",
+    "yElo": "1341.4"
+  },
+  {
+    "Rank": "471",
+    "Player": "Fangzhou Liu",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1340.9"
+  },
+  {
+    "Rank": "472",
+    "Player": "Tessa Johanna Brockmann",
+    "Wins": "9",
+    "Losses": "12",
+    "yElo": "1339.7"
+  },
+  {
+    "Rank": "473",
+    "Player": "Martyna Kubka",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1339.2"
+  },
+  {
+    "Rank": "474",
+    "Player": "Dalila Spiteri",
+    "Wins": "16",
+    "Losses": "17",
+    "yElo": "1337.5"
+  },
+  {
+    "Rank": "475",
+    "Player": "Gina Marie Dittmann",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1337.0"
+  },
+  {
+    "Rank": "476",
+    "Player": "Malaika Rapolu",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1336.1"
+  },
+  {
+    "Rank": "477",
+    "Player": "Anastasia Kulikova",
+    "Wins": "6",
+    "Losses": "12",
+    "yElo": "1335.6"
+  },
+  {
+    "Rank": "478",
+    "Player": "Jessica Failla",
+    "Wins": "4",
+    "Losses": "9",
+    "yElo": "1334.2"
+  },
+  {
+    "Rank": "479",
+    "Player": "Whitney Osuigwe",
+    "Wins": "18",
+    "Losses": "25",
+    "yElo": "1331.2"
+  },
+  {
+    "Rank": "480",
+    "Player": "Briana Szabo",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1330.4"
+  },
+  {
+    "Rank": "481",
+    "Player": "Emily Seibold",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1329.5"
+  },
+  {
+    "Rank": "482",
+    "Player": "Carolina Alves",
+    "Wins": "18",
+    "Losses": "20",
+    "yElo": "1329.5"
+  },
+  {
+    "Rank": "483",
+    "Player": "Ella Mcdonald",
+    "Wins": "8",
+    "Losses": "10",
+    "yElo": "1329.3"
+  },
+  {
+    "Rank": "484",
+    "Player": "Jenny Lim",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1329.3"
+  },
+  {
+    "Rank": "485",
+    "Player": "Patricia Maria Tig",
+    "Wins": "6",
+    "Losses": "13",
+    "yElo": "1328.9"
+  },
+  {
+    "Rank": "486",
+    "Player": "Dalila Jakupovic",
+    "Wins": "12",
+    "Losses": "25",
+    "yElo": "1328.9"
+  },
+  {
+    "Rank": "487",
+    "Player": "Jamie Loeb",
+    "Wins": "5",
+    "Losses": "6",
+    "yElo": "1326.8"
+  },
+  {
+    "Rank": "488",
+    "Player": "Jasmijn Gimbrere",
+    "Wins": "6",
+    "Losses": "6",
+    "yElo": "1326.7"
+  },
+  {
+    "Rank": "489",
+    "Player": "Riya Bhatia",
+    "Wins": "10",
+    "Losses": "12",
+    "yElo": "1326.0"
+  },
+  {
+    "Rank": "490",
+    "Player": "Anouck Vrancken Peeters",
+    "Wins": "7",
+    "Losses": "13",
+    "yElo": "1323.9"
+  },
+  {
+    "Rank": "491",
+    "Player": "Ying Zhang",
+    "Wins": "6",
+    "Losses": "8",
+    "yElo": "1322.5"
+  },
+  {
+    "Rank": "492",
+    "Player": "Yaroslava Bartashevich",
+    "Wins": "8",
+    "Losses": "10",
+    "yElo": "1321.7"
+  },
+  {
+    "Rank": "493",
+    "Player": "Kristina Novak",
+    "Wins": "6",
+    "Losses": "10",
+    "yElo": "1321.6"
+  },
+  {
+    "Rank": "494",
+    "Player": "Jia Jing Lu",
+    "Wins": "6",
+    "Losses": "11",
+    "yElo": "1320.9"
+  },
+  {
+    "Rank": "495",
+    "Player": "Lucija Ciric Bagaric",
+    "Wins": "9",
+    "Losses": "13",
+    "yElo": "1320.6"
+  },
+  {
+    "Rank": "496",
+    "Player": "Diletta Cherubini",
+    "Wins": "18",
+    "Losses": "20",
+    "yElo": "1320.4"
+  },
+  {
+    "Rank": "497",
+    "Player": "Verena Meliss",
+    "Wins": "5",
+    "Losses": "12",
+    "yElo": "1319.6"
+  },
+  {
+    "Rank": "498",
+    "Player": "Emily Appleton",
+    "Wins": "7",
+    "Losses": "15",
+    "yElo": "1319.2"
+  },
+  {
+    "Rank": "499",
+    "Player": "Ana Candiotto",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1318.7"
+  },
+  {
+    "Rank": "500",
+    "Player": "Ksenia Zaytseva",
+    "Wins": "6",
+    "Losses": "9",
+    "yElo": "1315.6"
+  },
+  {
+    "Rank": "501",
+    "Player": "Ekaterina Makarova",
+    "Wins": "6",
+    "Losses": "16",
+    "yElo": "1315.1"
+  },
+  {
+    "Rank": "502",
+    "Player": "Meiling Wang",
+    "Wins": "10",
+    "Losses": "10",
+    "yElo": "1314.4"
+  },
+  {
+    "Rank": "503",
+    "Player": "Monika Stankiewicz",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1314.1"
+  },
+  {
+    "Rank": "504",
+    "Player": "Maria Mateas",
+    "Wins": "10",
+    "Losses": "19",
+    "yElo": "1313.7"
+  },
+  {
+    "Rank": "505",
+    "Player": "Malene Helgo",
+    "Wins": "5",
+    "Losses": "13",
+    "yElo": "1311.1"
+  },
+  {
+    "Rank": "506",
+    "Player": "Jessica Bertoldo",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1309.5"
+  },
+  {
+    "Rank": "507",
+    "Player": "Yelyzaveta Kotliar",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1308.4"
+  },
+  {
+    "Rank": "508",
+    "Player": "Gabriella Da Silva Fick",
+    "Wins": "5",
+    "Losses": "10",
+    "yElo": "1307.9"
+  },
+  {
+    "Rank": "509",
+    "Player": "Wushuang Zheng",
+    "Wins": "13",
+    "Losses": "21",
+    "yElo": "1305.9"
+  },
+  {
+    "Rank": "510",
+    "Player": "Daria Lodikova",
+    "Wins": "7",
+    "Losses": "11",
+    "yElo": "1305.6"
+  },
+  {
+    "Rank": "511",
+    "Player": "Carlota Martinez Cirez",
+    "Wins": "10",
+    "Losses": "18",
+    "yElo": "1305.3"
+  },
+  {
+    "Rank": "512",
+    "Player": "Laura Svatikova",
+    "Wins": "3",
+    "Losses": "5",
+    "yElo": "1303.4"
+  },
+  {
+    "Rank": "513",
+    "Player": "Ekaterina Ovcharenko",
+    "Wins": "12",
+    "Losses": "19",
+    "yElo": "1302.8"
+  },
+  {
+    "Rank": "514",
+    "Player": "Anastasia Tikhonova",
+    "Wins": "16",
+    "Losses": "24",
+    "yElo": "1302.7"
+  },
+  {
+    "Rank": "515",
+    "Player": "Melisa Ercan",
+    "Wins": "5",
+    "Losses": "8",
+    "yElo": "1302.3"
+  },
+  {
+    "Rank": "516",
+    "Player": "Martina Trevisan",
+    "Wins": "3",
+    "Losses": "11",
+    "yElo": "1301.8"
+  },
+  {
+    "Rank": "517",
+    "Player": "Makenna Jones",
+    "Wins": "4",
+    "Losses": "10",
+    "yElo": "1301.3"
+  },
+  {
+    "Rank": "518",
+    "Player": "Julia Adams",
+    "Wins": "3",
+    "Losses": "4",
+    "yElo": "1300.3"
+  },
+  {
+    "Rank": "519",
+    "Player": "Eudice Wong Chong",
+    "Wins": "5",
+    "Losses": "11",
+    "yElo": "1299.7"
+  },
+  {
+    "Rank": "520",
+    "Player": "Iva Primorac",
+    "Wins": "4",
+    "Losses": "10",
+    "yElo": "1299.6"
+  },
+  {
+    "Rank": "521",
+    "Player": "Alana Smith",
+    "Wins": "6",
+    "Losses": "17",
+    "yElo": "1299.2"
+  },
+  {
+    "Rank": "522",
+    "Player": "Laura Hietaranta",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1299.1"
+  },
+  {
+    "Rank": "523",
+    "Player": "Cristina Diaz Adrover",
+    "Wins": "8",
+    "Losses": "11",
+    "yElo": "1292.7"
+  },
+  {
+    "Rank": "524",
+    "Player": "Alice Robbe",
+    "Wins": "5",
+    "Losses": "12",
+    "yElo": "1289.2"
+  },
+  {
+    "Rank": "525",
+    "Player": "Vaishnavi Adkar",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1288.9"
+  },
+  {
+    "Rank": "526",
+    "Player": "Jiaqi Wang",
+    "Wins": "4",
+    "Losses": "7",
+    "yElo": "1288.7"
+  },
+  {
+    "Rank": "527",
+    "Player": "Usue Maitane Arconada",
+    "Wins": "4",
+    "Losses": "10",
+    "yElo": "1287.6"
+  },
+  {
+    "Rank": "528",
+    "Player": "Haruka Kaji",
+    "Wins": "17",
+    "Losses": "24",
+    "yElo": "1284.2"
+  },
+  {
+    "Rank": "529",
+    "Player": "Sofia Shapatava",
+    "Wins": "6",
+    "Losses": "7",
+    "yElo": "1284.1"
+  },
+  {
+    "Rank": "530",
+    "Player": "Diana Martynov",
+    "Wins": "5",
+    "Losses": "11",
+    "yElo": "1282.6"
+  },
+  {
+    "Rank": "531",
+    "Player": "Ayano Shimizu",
+    "Wins": "10",
+    "Losses": "11",
+    "yElo": "1280.4"
+  },
+  {
+    "Rank": "532",
+    "Player": "Georgia Andreea Craciun",
+    "Wins": "6",
+    "Losses": "11",
+    "yElo": "1279.5"
+  },
+  {
+    "Rank": "533",
+    "Player": "Martina Okalova",
+    "Wins": "11",
+    "Losses": "13",
+    "yElo": "1278.2"
+  },
+  {
+    "Rank": "534",
+    "Player": "Katarina Jokic",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1277.9"
+  },
+  {
+    "Rank": "535",
+    "Player": "Antonia Schmidt",
+    "Wins": "5",
+    "Losses": "9",
+    "yElo": "1277.4"
+  },
+  {
+    "Rank": "536",
+    "Player": "Gergana Topalova",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1275.7"
+  },
+  {
+    "Rank": "537",
+    "Player": "Ruien Zhang",
+    "Wins": "5",
+    "Losses": "9",
+    "yElo": "1273.6"
+  },
+  {
+    "Rank": "538",
+    "Player": "Hong Yi Cody Wong",
+    "Wins": "5",
+    "Losses": "10",
+    "yElo": "1272.0"
+  },
+  {
+    "Rank": "539",
+    "Player": "Lia Karatancheva",
+    "Wins": "13",
+    "Losses": "21",
+    "yElo": "1265.2"
+  },
+  {
+    "Rank": "540",
+    "Player": "Han Shi",
+    "Wins": "10",
+    "Losses": "24",
+    "yElo": "1263.4"
+  },
+  {
+    "Rank": "541",
+    "Player": "Aurora Zantedeschi",
+    "Wins": "17",
+    "Losses": "19",
+    "yElo": "1258.5"
+  },
+  {
+    "Rank": "542",
+    "Player": "Natalija Senic",
+    "Wins": "4",
+    "Losses": "9",
+    "yElo": "1255.7"
+  },
+  {
+    "Rank": "543",
+    "Player": "Clara Vlasselaer",
+    "Wins": "4",
+    "Losses": "8",
+    "yElo": "1255.4"
+  },
+  {
+    "Rank": "544",
+    "Player": "Ekaterina Kazionova",
+    "Wins": "22",
+    "Losses": "20",
+    "yElo": "1255.3"
+  },
+  {
+    "Rank": "545",
+    "Player": "Sara Cakarevic",
+    "Wins": "5",
+    "Losses": "8",
+    "yElo": "1254.3"
+  },
+  {
+    "Rank": "546",
+    "Player": "Veronika Podrez",
+    "Wins": "3",
+    "Losses": "8",
+    "yElo": "1252.4"
+  },
+  {
+    "Rank": "547",
+    "Player": "Tena Lukas",
+    "Wins": "3",
+    "Losses": "15",
+    "yElo": "1247.2"
+  },
+  {
+    "Rank": "548",
+    "Player": "Valentini Grammatikopoulou",
+    "Wins": "3",
+    "Losses": "6",
+    "yElo": "1246.9"
+  },
+  {
+    "Rank": "549",
+    "Player": "Weronika Falkowska",
+    "Wins": "7",
+    "Losses": "12",
+    "yElo": "1244.7"
+  },
+  {
+    "Rank": "550",
+    "Player": "Leonie Kung",
+    "Wins": "12",
+    "Losses": "28",
+    "yElo": "1244.1"
+  },
+  {
+    "Rank": "551",
+    "Player": "Georgia Pedone",
+    "Wins": "4",
+    "Losses": "19",
+    "yElo": "1241.7"
+  },
+  {
+    "Rank": "552",
+    "Player": "Ayumi Koshiishi",
+    "Wins": "6",
+    "Losses": "12",
+    "yElo": "1239.6"
+  },
+  {
+    "Rank": "553",
+    "Player": "Nicole Fossa Huergo",
+    "Wins": "10",
+    "Losses": "28",
+    "yElo": "1239.0"
+  },
+  {
+    "Rank": "554",
+    "Player": "Petra Hule",
+    "Wins": "4",
+    "Losses": "15",
+    "yElo": "1236.1"
+  },
+  {
+    "Rank": "555",
+    "Player": "Sapfo Sakellaridi",
+    "Wins": "7",
+    "Losses": "16",
+    "yElo": "1234.5"
+  },
+  {
+    "Rank": "556",
+    "Player": "Lina Glushko",
+    "Wins": "7",
+    "Losses": "17",
+    "yElo": "1233.1"
+  },
+  {
+    "Rank": "557",
+    "Player": "Rinko Matsuda",
+    "Wins": "3",
+    "Losses": "9",
+    "yElo": "1231.5"
+  },
+  {
+    "Rank": "558",
+    "Player": "Jana Otzipka",
+    "Wins": "3",
+    "Losses": "9",
+    "yElo": "1228.8"
+  },
+  {
+    "Rank": "559",
+    "Player": "Victoria Hu",
+    "Wins": "9",
+    "Losses": "16",
+    "yElo": "1227.1"
+  },
+  {
+    "Rank": "560",
+    "Player": "Valeriya Strakhova",
+    "Wins": "13",
+    "Losses": "21",
+    "yElo": "1226.5"
+  },
+  {
+    "Rank": "561",
+    "Player": "Ellie Schoppe",
+    "Wins": "5",
+    "Losses": "11",
+    "yElo": "1224.6"
+  },
+  {
+    "Rank": "562",
+    "Player": "Urszula Radwanska",
+    "Wins": "12",
+    "Losses": "17",
+    "yElo": "1218.2"
+  },
+  {
+    "Rank": "563",
+    "Player": "Lucia Cortez Llorca",
+    "Wins": "3",
+    "Losses": "12",
+    "yElo": "1217.7"
+  },
+  {
+    "Rank": "564",
+    "Player": "Sakura Hosogi",
+    "Wins": "3",
+    "Losses": "7",
+    "yElo": "1214.9"
+  },
+  {
+    "Rank": "565",
+    "Player": "Xinxin Yao",
+    "Wins": "11",
+    "Losses": "23",
+    "yElo": "1200.9"
+  },
+  {
+    "Rank": "566",
+    "Player": "Ipek Oz",
+    "Wins": "11",
+    "Losses": "25",
+    "yElo": "1199.2"
+  },
+  {
+    "Rank": "567",
+    "Player": "Yufei Ren",
+    "Wins": "4",
+    "Losses": "10",
+    "yElo": "1198.7"
+  },
+  {
+    "Rank": "568",
+    "Player": "Su Jeong Jang",
+    "Wins": "6",
+    "Losses": "14",
+    "yElo": "1196.4"
+  },
+  {
+    "Rank": "569",
+    "Player": "Ankita Raina",
+    "Wins": "7",
+    "Losses": "17",
+    "yElo": "1191.5"
+  },
+  {
+    "Rank": "570",
+    "Player": "Martha Matoula",
+    "Wins": "3",
+    "Losses": "10",
+    "yElo": "1174.7"
+  },
+  {
+    "Rank": "571",
+    "Player": "Lian Tran",
+    "Wins": "11",
+    "Losses": "22",
+    "yElo": "1168.7"
+  }
+]
